@@ -126,11 +126,12 @@ The implemented algorithm is described in more detail at the go-perl documenatio
 
 Generate an AmiGO like tree from a GFF3
 ::::::::::::::::::::::::::::::::::::
+This script creates a tree json representation ( AmiGO like ) from a GFF3 file with annotated GO terms.
 see ``gff_to_tree.py`` for usage. As arguments it takes:
 
 * the current gene ontology file ``gene_ontology.1_2.obo``
 
-* a gff3 file(http://www.sequenceontology.org/gff3.shtml), witch has GO annotations
+* a gff3 file(http://www.sequenceontology.org/gff3.shtml), which has GO annotations
 
 Example::
 								 
