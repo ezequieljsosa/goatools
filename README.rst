@@ -123,3 +123,20 @@ Where the ``association`` file has the same format as used for ``find_enrichment
 
 The implemented algorithm is described in more detail at the go-perl documenation of `map2slim
 <http://search.cpan.org/~cmungall/go-perl/scripts/map2slim>`_.
+
+Generate an AmiGO like tree from a GFF3
+::::::::::::::::::::::::::::::::::::
+see ``gff_to_tree.py`` for usage. As arguments it takes:
+
+* the current gene ontology file ``gene_ontology.1_2.obo``
+
+* a gff3 file(http://www.sequenceontology.org/gff3.shtml), witch has GO annotations
+
+Example::
+								 
+   python scripts/gff_to_tree.py --gene data/expressed.csv$2$gene.=transcript. data/halorubrum.gff3 
+
+
+see http://www.sequenceontology.org/gff3.shtml and http://amigo.geneontology.org/cgi-bin/amigo/browse.cgi
+
+

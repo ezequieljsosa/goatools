@@ -1,0 +1,98 @@
+<html>
+    <head>
+        <title>Use jsTree</title>
+        <script src="jquery.js">
+        </script>
+        <script src="jquery.jstree.js">
+        </script>
+        <script>
+            $(document).ready(function(){
+                $("#treeViewDiv").jstree({
+                    "json_data" : {
+			"ajax" : {
+				"url" : "tree.json",
+				"data" : 	function (n) { 
+							return { id : n.attr ? n.attr("id") : 0 }; 
+						}					
+				}			
+			},
+		    "sort" : function(a,b) {
+			return this.get_text(a) < this.get_text(b) ? 1 : -1; 
+			},
+		    "themes" :
+		    {
+			"theme":"classic",
+		    },"plugins" : [ "themes", "json_data", "ui", "types","sort"],
+		    	"types" : {					
+					"types" : {
+						"annotation" : {
+							"icon" : { 
+								"image" : "geneprod.ico" 
+							},
+							"valid_children" : [ "default" ],
+							"max_depth" : 2,
+							"hover_node" : false,
+							"select_node" : function () {return false;}
+						},
+						"regulates" : {
+							"icon" : { 
+								"image" : "regulates.png" 
+							},
+							"valid_children" : [ "default" ],
+							"max_depth" : 2,
+							"hover_node" : false,
+							"select_node" : function () {return false;}
+						},
+						"negatively_regulates" : {
+							"icon" : { 
+								"image" : "reg_neg.png" 
+							},
+							"valid_children" : [ "default" ],
+							"max_depth" : 2,
+							"hover_node" : false,
+							"select_node" : function () {return false;}
+						},
+						"positively_regulates" : {
+							"icon" : { 
+								"image" : "reg_pos.png" 
+							},
+							"valid_children" : [ "default" ],
+							"max_depth" : 2,
+							"hover_node" : false,
+							"select_node" : function () {return false;}
+						},
+						"part_of" : {
+							"icon" : { 
+								"image" : "part.png" 
+							},
+							"valid_children" : [ "default" ],
+							"max_depth" : 2,
+							"hover_node" : false,
+							"select_node" : function () {return false;}
+						},
+						"default" : {
+							"valid_children" : [ "default" ]
+						}
+					}
+				}
+			
+
+                }).bind("select_node.jstree", function(e, data)
+                    {
+                        if(jQuery.data(data.rslt.obj[0], "href"))
+                        {
+                            window.location=jQuery.data(data.rslt.obj[0], "href");
+                        }                       
+                    })
+            });
+        </script>
+    </head>
+    <body>
+        <div id="treeViewDiv">
+        </div>
+    </body>
+<script type="text/javscript">
+	$(document).ready(function(){
+	});
+</script>
+</html>
