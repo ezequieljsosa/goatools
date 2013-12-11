@@ -84,6 +84,9 @@ class OBOReader:
                 rec.namespace = after_colon(line)
             elif line.startswith("is_a:"):
                 rec._parents.append(after_colon(line).split()[0])
+            elif line.startswith("relationship:"):
+                vec = after_colon(line).split()                
+                rec._parent_relationships.append(vec[0:2])
             elif (line.startswith("is_obsolete:") and
                   after_colon(line) == "true"):
                 rec.is_obsolete = True
@@ -102,7 +105,9 @@ class GOTerm:
         self.namespace = ""         # BP, CC, MF
         self._parents = []          # is_a basestring of parents
         self.parents = []           # parent records
-        self.children = []          # children records
+        self.children = []          # children records (is_a relationship)
+        self._parent_relationships = []     # non is_a relationships upper level terms 
+        self.relationships = []     # non is_a relationships to 
         self.level = -1             # distance from root node
         self.is_obsolete = False    # is_obsolete
         self.alt_ids = []           # alternative identifiers
@@ -195,6 +200,17 @@ class GODag(dict):
 
             if rec.level < 0:
                 depth(rec)
+        
+        for rec in self.itervalues():
+            rec.children = list(set(rec.children))
+            
+        for rec in self.itervalues():
+            for rel in rec._parent_relationships:
+                if isinstance(rel[1], str):
+                    term = self.query_term(rel[1]) 
+                    term_relationships = [x[1] for x in term.relationships]   
+                    if rec not in term_relationships:                
+                        term.relationships.append([rel[0],rec])
 
     def write_dag(self, out=sys.stdout):
         for rec_id, rec in sorted(self.items()):
@@ -206,8 +222,9 @@ class GODag(dict):
             return
 
         rec = self[term]
-        print >>sys.stderr, rec
+        
         if verbose:
+            print >>sys.stderr, rec
             print >>sys.stderr, "all parents:", rec.get_all_parents()
             print >>sys.stderr, "all children:", rec.get_all_children()
 
