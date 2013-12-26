@@ -138,8 +138,19 @@ see ``gff_to_tree.py`` for usage. As arguments it takes:
 * a gff3 file, which has GO annotations
 
 Example::
-								 
-   python scripts/gff_to_tree.py --gene data/expressed.csv$2$gene.=transcript. data/halorubrum.gff3 
+	
+   # Builds a json file with all the genes
+   # The scaffolds are in the "data/halorubrum/" directory
+   # Assumes gene_ontology.1_2.obo is in the current directory
+   # wget http://geneontology.org/ontology/obo_format_1_2/gene_ontology.1_2.obo
+   python scripts/gff_to_tree.py data/halorubrum/
+      
+   # Builds a json file, only with the genes whose ids (ID property, 9th column of the gff file) are in the 2nd column 
+   # of the expressed.csv file. In this case, to match the ids in the csv file and the gffs, the replacement "gene." to 
+   # "transcript." must be done. Example: in gff the annotated feature id is Halorubrum_Sp_AJ67.transcript.1556 
+   # and in the csv is Halorubrum_Sp_AJ67.gene.1556  
+    
+   python scripts/gff_to_tree.py --gene data/expressed.csv$2$gene.=transcript. data/halorubrum/ 
 
 Dependency: https://github.com/chapmanb/bcbb/tree/master/gff
 pip install bcbio-gff
