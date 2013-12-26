@@ -66,9 +66,7 @@ class AnnotationTreeBuilder(object):
         It has the annotations of the procesed nodes
         '''
         self.graph = nx.DiGraph()
-        self.filtered_genes = None
-        
-        
+        self.filtered_genes = None  
         
     def _mapping_with_increment(self,x):
         '''
@@ -89,17 +87,27 @@ class AnnotationTreeBuilder(object):
         '''
         return label.replace(self.COPY_CHAR, "")
     
-    def load_annotations_by_go(self,annotation_file,go_annotated_type):
+    def load_annotations_by_go_dir(self,annotation_dir,go_annotated_type):
+        import os
+        for annotation_file in os.listdir(annotation_dir):
+            self.load_annotations_by_go_file(annotation_dir + "/" +annotation_file, go_annotated_type)
+    
+    def load_annotations_by_go_file(self,annotation_file,go_annotated_type):
         '''
         Loads the gene_product_by_go variable by reading the GFF file and iterating over the GO attribute
         '''      
         from BCBio import GFF
+        #import pprint
+        #from BCBio.GFF import GFFExaminer
         # TODO poner log con datos del examiner
         #examiner = GFFExaminer()
-        in_handle = open(annotation_file)
+        #in_handle = open(annotation_file)
+        #pprint.pprint(examiner.parent_child_map(in_handle))
         #pprint.pprint(examiner.available_limits(in_handle))
+        #in_handle.close()
+        in_handle = open(annotation_file)
         limit_info = dict(gff_type = [go_annotated_type])
-        for rec in GFF.parse(in_handle, limit_info=limit_info):
+        for rec in GFF.parse(in_handle, limit_info=limit_info):           
             for f in rec.features:   
                 if (self.GFF_GO_ATRIBUTE in f.qualifiers):
                     for q in f.qualifiers[self.GFF_GO_ATRIBUTE]:
@@ -171,12 +179,21 @@ class AnnotationTreeBuilder(object):
                         self.processed[term.id ] = list(set(self.processed[term.id ]  + related_term_annotations)) # Remove repeated
                     self.graph.node[term.id][self.COUNT_NODE_ATTR] = len(self.processed[term.id ]) 
     
+    def _order_json(self,dictionary):
+        if(dictionary.has_key("children")):
+            dictionary["children"] = sorted(dictionary["children"], key=lambda(node):  ( node["data"] ), reverse=True )
+            for children in dictionary["children"]:
+                self._order_json(children)
+            
+    
     def get_json(self):
         '''
         Creates the json in a tree format
         '''
         from networkx.readwrite import json_graph
-        return json_graph.dumps(json_graph.tree_data(self.graph,root="root"))
+        tree = json_graph.tree_data(self.graph,root="root")
+        self._order_json(tree)
+        return json_graph.dumps(tree)
     
     def write_file(self,file_name = 'tree.json'):
         f = open(file_name, 'w+')
@@ -252,6 +269,14 @@ class AnnotationTreeBuilder(object):
         self.processed[term.id ] = annotations # Adds the term as procesed
         return  annotations
     
+
+    def remove_count_attr(self):
+        nodes_to_remove = []
+        for n, d in self.graph.nodes_iter(data=True):
+            del d[self.COUNT_NODE_ATTR]
+        
+        self.graph.remove_nodes_from(nodes_to_remove)
+
     def process_annotations(self):   
         '''
         Builds the entire tree, using the go terms, the gene product annotations and the filtered genes
@@ -281,8 +306,35 @@ class AnnotationTreeBuilder(object):
         self.graph.node[self.ROOT_ID][self.COUNT_NODE_ATTR] = root_count
     
         self._clean_up_graph()
-        self._process_relationships(1)
-        print "DONE!"
+        self._process_relationships(1)       
+        
+        
+        
+       
+    
+    def walk_graph(self,node,current_level,end_level,histogram,add_parent_levels):
+        if current_level > end_level :
+            return
+        
+        for child in self.graph.successors(node):
+                child_org = self._original_name(child) 
+                if child.startswith("GO"):                    
+                    if child_org not in histogram :
+                        if add_parent_levels or current_level == end_level :
+                            histogram[child_org] =  { "data" : self.graph.node[child_org]["data"], 
+                                                     "count" : self.graph.node[child_org][self.COUNT_NODE_ATTR], "level" : current_level }                    
+                    self.walk_graph(child, current_level + 1, end_level, histogram,add_parent_levels)
+        
+        
+    def histogram(self,branch,level,add_parent_levels = True):
+        histogram = {}
+        if add_parent_levels:
+            histogram[branch] =  {"data" : self.graph.node[branch]["data"], 
+                            "count" : self.graph.node[branch][self.COUNT_NODE_ATTR], "level" : 0 }
+        self.walk_graph(branch,1,level,histogram,add_parent_levels)
+        return histogram;
+        
+        
         
     
     

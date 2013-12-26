@@ -1,0 +1,2698 @@
+##gff-version 3
+##feature-ontology so.obo
+scaffold00015	v0.1-bia_pap	contig	1	121042	.	+	.	ID=scaffold00015;translation_table=11;organism_name=Halorubrum_Sp_AJ67;abbreviation=BN903;defline=scaffold00015 length%3D121042;Name=scaffold00015
+scaffold00015	v0.1bia_pap	gene	15	221	.	+	.	ID=Halorubrum_Sp_AJ67.gene.1
+scaffold00015	v0.1bia_pap	exon	15	221	.	+	0	ID=Halorubrum_Sp_AJ67.exon.1;Parent=Halorubrum_Sp_AJ67.transcript.1
+scaffold00015	v0.1bia_pap	mRNA	15	221	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.1;Parent=Halorubrum_Sp_AJ67.gene.1;gene_symbol_source=UniRef100_M0F7U2;GO=GO:0008150,GO:0003674,GO:0005575;gene_product_name_source=UniRef100_M0F7U2;gene_symbol=C467_10998;Note=ABC transporter domain protein;description=ABC transporter domain protein;Name=Halorubrum_Sp_AJ67.transcript.1
+scaffold00015	v0.1bia_pap	CDS	15	221	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.1;Parent=Halorubrum_Sp_AJ67.transcript.1
+scaffold00015	v0.1bia_pap	gene	218	1036	.	+	.	ID=Halorubrum_Sp_AJ67.gene.2
+scaffold00015	v0.1bia_pap	exon	218	1036	.	+	0	ID=Halorubrum_Sp_AJ67.exon.2;Parent=Halorubrum_Sp_AJ67.transcript.2
+scaffold00015	v0.1bia_pap	mRNA	218	1036	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.2;Parent=Halorubrum_Sp_AJ67.gene.2;gene_symbol_source=UniRef100_M0ELE0;gene_product_name_source=UniRef100_M0ELE0;gene_symbol=C463_02918;Note=ABC transporter;description=ABC transporter;Name=Halorubrum_Sp_AJ67.transcript.2;top_cog_hit=[R] COG1277 ABC-type transport system involved in multi-copper enzyme maturation%2C permease component
+scaffold00015	v0.1bia_pap	CDS	218	1036	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.2;Parent=Halorubrum_Sp_AJ67.transcript.2
+scaffold00015	v0.1bia_pap	gene	1099	1677	.	-	.	ID=Halorubrum_Sp_AJ67.gene.3
+scaffold00015	v0.1bia_pap	exon	1099	1677	.	-	0	ID=Halorubrum_Sp_AJ67.exon.3;Parent=Halorubrum_Sp_AJ67.transcript.3
+scaffold00015	v0.1bia_pap	mRNA	1099	1677	.	-	.	ID=Halorubrum_Sp_AJ67.transcript.3;Parent=Halorubrum_Sp_AJ67.gene.3;GO=GO:0008150,GO:0003674,GO:0005575;gene_product_name_source=default;Note=hypothetical protein;description=hypothetical protein;Name=Halorubrum_Sp_AJ67.transcript.3
+scaffold00015	v0.1bia_pap	CDS	1099	1677	.	-	0	ID=Halorubrum_Sp_AJ67.CDS.3;Parent=Halorubrum_Sp_AJ67.transcript.3
+scaffold00015	v0.1bia_pap	gene	1676	1846	.	+	.	ID=Halorubrum_Sp_AJ67.gene.4
+scaffold00015	v0.1bia_pap	exon	1676	1846	.	+	0	ID=Halorubrum_Sp_AJ67.exon.4;Parent=Halorubrum_Sp_AJ67.transcript.4
+scaffold00015	v0.1bia_pap	mRNA	1676	1846	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.4;Parent=Halorubrum_Sp_AJ67.gene.4;GO=GO:0008150,GO:0003674,GO:0005575;gene_product_name_source=default;Note=hypothetical protein;description=hypothetical protein;Name=Halorubrum_Sp_AJ67.transcript.4
+scaffold00015	v0.1bia_pap	CDS	1676	1846	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.4;Parent=Halorubrum_Sp_AJ67.transcript.4
+scaffold00015	v0.1bia_pap	gene	1848	1988	.	+	.	ID=Halorubrum_Sp_AJ67.gene.5
+scaffold00015	v0.1bia_pap	exon	1848	1988	.	+	0	ID=Halorubrum_Sp_AJ67.exon.5;Parent=Halorubrum_Sp_AJ67.transcript.5
+scaffold00015	v0.1bia_pap	mRNA	1848	1988	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.5;Parent=Halorubrum_Sp_AJ67.gene.5;GO=GO:0008150,GO:0003674,GO:0005575;gene_product_name_source=default;Note=hypothetical protein;description=hypothetical protein;Name=Halorubrum_Sp_AJ67.transcript.5
+scaffold00015	v0.1bia_pap	CDS	1848	1988	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.5;Parent=Halorubrum_Sp_AJ67.transcript.5
+scaffold00015	v0.1bia_pap	gene	1983	2855	.	-	.	ID=Halorubrum_Sp_AJ67.gene.6
+scaffold00015	v0.1bia_pap	exon	1983	2855	.	-	0	ID=Halorubrum_Sp_AJ67.exon.6;Parent=Halorubrum_Sp_AJ67.transcript.6
+scaffold00015	v0.1bia_pap	mRNA	1983	2855	.	-	.	ID=Halorubrum_Sp_AJ67.transcript.6;Parent=Halorubrum_Sp_AJ67.gene.6;GO=GO:0008150,GO:0003674,GO:0005575;gene_product_name_source=default;Note=hypothetical protein;description=hypothetical protein;Name=Halorubrum_Sp_AJ67.transcript.6
+scaffold00015	v0.1bia_pap	CDS	1983	2855	.	-	0	ID=Halorubrum_Sp_AJ67.CDS.6;Parent=Halorubrum_Sp_AJ67.transcript.6
+scaffold00015	v0.1bia_pap	gene	2860	3030	.	+	.	ID=Halorubrum_Sp_AJ67.gene.7
+scaffold00015	v0.1bia_pap	exon	2860	3030	.	+	0	ID=Halorubrum_Sp_AJ67.exon.7;Parent=Halorubrum_Sp_AJ67.transcript.7
+scaffold00015	v0.1bia_pap	mRNA	2860	3030	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.7;Parent=Halorubrum_Sp_AJ67.gene.7;GO=GO:0008150,GO:0003674,GO:0005575;gene_product_name_source=default;Note=hypothetical protein;description=hypothetical protein;Name=Halorubrum_Sp_AJ67.transcript.7
+scaffold00015	v0.1bia_pap	CDS	2860	3030	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.7;Parent=Halorubrum_Sp_AJ67.transcript.7
+scaffold00015	v0.1bia_pap	gene	3431	3616	.	+	.	ID=Halorubrum_Sp_AJ67.gene.8
+scaffold00015	v0.1bia_pap	exon	3431	3616	.	+	0	ID=Halorubrum_Sp_AJ67.exon.8;Parent=Halorubrum_Sp_AJ67.transcript.8
+scaffold00015	v0.1bia_pap	mRNA	3431	3616	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.8;Parent=Halorubrum_Sp_AJ67.gene.8;GO=GO:0008150,GO:0003674,GO:0005575;gene_product_name_source=signalP;Note=putative signal peptide protein;description=putative signal peptide protein;Name=Halorubrum_Sp_AJ67.transcript.8
+scaffold00015	v0.1bia_pap	CDS	3431	3616	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.8;Parent=Halorubrum_Sp_AJ67.transcript.8
+scaffold00015	v0.1bia_pap	gene	3613	3909	.	+	.	ID=Halorubrum_Sp_AJ67.gene.9
+scaffold00015	v0.1bia_pap	exon	3613	3909	.	+	0	ID=Halorubrum_Sp_AJ67.exon.9;Parent=Halorubrum_Sp_AJ67.transcript.9
+scaffold00015	v0.1bia_pap	mRNA	3613	3909	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.9;Parent=Halorubrum_Sp_AJ67.gene.9;gene_symbol_source=UniRef100_M0DVH5;gene_product_name_source=UniRef100_M0DVH5;gene_symbol=C472_06505;Note=uncharacterized protein;description=uncharacterized protein;Name=Halorubrum_Sp_AJ67.transcript.9;top_cog_hit=[S] COG1430 Uncharacterized conserved protein
+scaffold00015	v0.1bia_pap	CDS	3613	3909	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.9;Parent=Halorubrum_Sp_AJ67.transcript.9
+scaffold00015	v0.1bia_pap	gene	4024	4434	.	+	.	ID=Halorubrum_Sp_AJ67.gene.10
+scaffold00015	v0.1bia_pap	exon	4024	4434	.	+	0	ID=Halorubrum_Sp_AJ67.exon.10;Parent=Halorubrum_Sp_AJ67.transcript.10
+scaffold00015	v0.1bia_pap	mRNA	4024	4434	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.10;Parent=Halorubrum_Sp_AJ67.gene.10;gene_symbol_source=UniRef100_M0ERR6;gene_product_name_source=UniRef100_M0ERR6;gene_symbol=C465_09038;Note=uncharacterized protein;description=uncharacterized protein;Name=Halorubrum_Sp_AJ67.transcript.10
+scaffold00015	v0.1bia_pap	CDS	4024	4434	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.10;Parent=Halorubrum_Sp_AJ67.transcript.10
+scaffold00015	v0.1bia_pap	gene	3864	4025	.	-	.	ID=Halorubrum_Sp_AJ67.gene.11
+scaffold00015	v0.1bia_pap	exon	3864	4025	.	-	0	ID=Halorubrum_Sp_AJ67.exon.11;Parent=Halorubrum_Sp_AJ67.transcript.11
+scaffold00015	v0.1bia_pap	mRNA	3864	4025	.	-	.	ID=Halorubrum_Sp_AJ67.transcript.11;Parent=Halorubrum_Sp_AJ67.gene.11;GO=GO:0008150,GO:0003674,GO:0005575;gene_product_name_source=default;Note=hypothetical protein;description=hypothetical protein;Name=Halorubrum_Sp_AJ67.transcript.11
+scaffold00015	v0.1bia_pap	CDS	3864	4025	.	-	0	ID=Halorubrum_Sp_AJ67.CDS.11;Parent=Halorubrum_Sp_AJ67.transcript.11
+scaffold00015	v0.1bia_pap	gene	4487	5605	.	-	.	ID=Halorubrum_Sp_AJ67.gene.12
+scaffold00015	v0.1bia_pap	exon	4487	5605	.	-	0	ID=Halorubrum_Sp_AJ67.exon.12;Parent=Halorubrum_Sp_AJ67.transcript.12
+scaffold00015	v0.1bia_pap	mRNA	4487	5605	.	-	.	ID=Halorubrum_Sp_AJ67.transcript.12;Parent=Halorubrum_Sp_AJ67.gene.12;gene_symbol_source=UniRef100_M0DT99;GO=GO:0000166,GO:0005215,GO:0005524,GO:0016820,GO:0016887,GO:0017111,GO:0006200,GO:0006810,GO:0043190;gene_product_name_source=UniRef100_M0DT99;EC=3.6.3.20;gene_symbol=C472_06495;Note=ABC transporter;description=ABC transporter;Name=Halorubrum_Sp_AJ67.transcript.12;top_cog_hit=[G] COG3839 ABC-type sugar transport systems%2C ATPase components
+scaffold00015	v0.1bia_pap	CDS	4487	5605	.	-	0	ID=Halorubrum_Sp_AJ67.CDS.12;Parent=Halorubrum_Sp_AJ67.transcript.12
+scaffold00015	v0.1bia_pap	gene	5708	6652	.	-	.	ID=Halorubrum_Sp_AJ67.gene.13
+scaffold00015	v0.1bia_pap	exon	5708	6652	.	-	0	ID=Halorubrum_Sp_AJ67.exon.13;Parent=Halorubrum_Sp_AJ67.transcript.13
+scaffold00015	v0.1bia_pap	mRNA	5708	6652	.	-	.	ID=Halorubrum_Sp_AJ67.transcript.13;Parent=Halorubrum_Sp_AJ67.gene.13;gene_symbol_source=UniRef100_M0DX97;GO=GO:0005215,GO:0006810,GO:0016020,GO:0016021;gene_product_name_source=UniRef100_M0DX97;gene_symbol=C472_06490;Note=sugar ABC transporter permease;description=sugar ABC transporter permease;Name=Halorubrum_Sp_AJ67.transcript.13;top_cog_hit=[G] COG0395 ABC-type sugar transport system%2C permease component
+scaffold00015	v0.1bia_pap	CDS	5708	6652	.	-	0	ID=Halorubrum_Sp_AJ67.CDS.13;Parent=Halorubrum_Sp_AJ67.transcript.13
+scaffold00015	v0.1bia_pap	gene	6649	7635	.	-	.	ID=Halorubrum_Sp_AJ67.gene.14
+scaffold00015	v0.1bia_pap	exon	6649	7635	.	-	0	ID=Halorubrum_Sp_AJ67.exon.14;Parent=Halorubrum_Sp_AJ67.transcript.14
+scaffold00015	v0.1bia_pap	mRNA	6649	7635	.	-	.	ID=Halorubrum_Sp_AJ67.transcript.14;Parent=Halorubrum_Sp_AJ67.gene.14;gene_symbol_source=UniRef100_M0DV64;GO=GO:0005215,GO:0006810,GO:0016020,GO:0016021;gene_product_name_source=UniRef100_M0DV64;gene_symbol=C472_06485;Note=sugar ABC transporter permease;description=sugar ABC transporter permease;Name=Halorubrum_Sp_AJ67.transcript.14;top_cog_hit=[G] COG1175 ABC-type sugar transport systems%2C permease components
+scaffold00015	v0.1bia_pap	CDS	6649	7635	.	-	0	ID=Halorubrum_Sp_AJ67.CDS.14;Parent=Halorubrum_Sp_AJ67.transcript.14
+scaffold00015	v0.1bia_pap	gene	7689	8975	.	-	.	ID=Halorubrum_Sp_AJ67.gene.15
+scaffold00015	v0.1bia_pap	exon	7689	8975	.	-	0	ID=Halorubrum_Sp_AJ67.exon.15;Parent=Halorubrum_Sp_AJ67.transcript.15
+scaffold00015	v0.1bia_pap	mRNA	7689	8975	.	-	.	ID=Halorubrum_Sp_AJ67.transcript.15;Parent=Halorubrum_Sp_AJ67.gene.15;gene_symbol_source=UniRef100_M0DVH1;gene_product_name_source=UniRef100_M0DVH1;gene_symbol=C472_06480;Note=extracellular solute-binding protein;description=extracellular solute-binding protein;Name=Halorubrum_Sp_AJ67.transcript.15;top_cog_hit=[G] COG1653 ABC-type sugar transport system%2C periplasmic component
+scaffold00015	v0.1bia_pap	CDS	7689	8975	.	-	0	ID=Halorubrum_Sp_AJ67.CDS.15;Parent=Halorubrum_Sp_AJ67.transcript.15
+scaffold00015	v0.1bia_pap	gene	9022	9207	.	-	.	ID=Halorubrum_Sp_AJ67.gene.16
+scaffold00015	v0.1bia_pap	exon	9022	9207	.	-	0	ID=Halorubrum_Sp_AJ67.exon.16;Parent=Halorubrum_Sp_AJ67.transcript.16
+scaffold00015	v0.1bia_pap	mRNA	9022	9207	.	-	.	ID=Halorubrum_Sp_AJ67.transcript.16;Parent=Halorubrum_Sp_AJ67.gene.16;GO=GO:0008150,GO:0003674,GO:0005575;gene_product_name_source=default;Note=hypothetical protein;description=hypothetical protein;Name=Halorubrum_Sp_AJ67.transcript.16
+scaffold00015	v0.1bia_pap	CDS	9022	9207	.	-	0	ID=Halorubrum_Sp_AJ67.CDS.16;Parent=Halorubrum_Sp_AJ67.transcript.16
+scaffold00015	v0.1bia_pap	gene	9235	9891	.	+	.	ID=Halorubrum_Sp_AJ67.gene.17
+scaffold00015	v0.1bia_pap	exon	9235	9891	.	+	0	ID=Halorubrum_Sp_AJ67.exon.17;Parent=Halorubrum_Sp_AJ67.transcript.17
+scaffold00015	v0.1bia_pap	mRNA	9235	9891	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.17;Parent=Halorubrum_Sp_AJ67.gene.17;gene_symbol_source=UniRef100_M0F3R1;gene_product_name_source=UniRef100_M0F3R1;gene_symbol=C467_10958;Note=uncharacterized protein;description=uncharacterized protein;Name=Halorubrum_Sp_AJ67.transcript.17
+scaffold00015	v0.1bia_pap	CDS	9235	9891	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.17;Parent=Halorubrum_Sp_AJ67.transcript.17
+scaffold00015	v0.1bia_pap	gene	15675	16166	.	+	.	ID=Halorubrum_Sp_AJ67.gene.18
+scaffold00015	v0.1bia_pap	exon	15675	16166	.	+	0	ID=Halorubrum_Sp_AJ67.exon.18;Parent=Halorubrum_Sp_AJ67.transcript.18
+scaffold00015	v0.1bia_pap	mRNA	15675	16166	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.18;Parent=Halorubrum_Sp_AJ67.gene.18;GO=GO:0008150,GO:0003674,GO:0005575;gene_product_name_source=default;Note=hypothetical protein;description=hypothetical protein;Name=Halorubrum_Sp_AJ67.transcript.18
+scaffold00015	v0.1bia_pap	CDS	15675	16166	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.18;Parent=Halorubrum_Sp_AJ67.transcript.18
+scaffold00015	v0.1bia_pap	gene	16121	16759	.	-	.	ID=Halorubrum_Sp_AJ67.gene.19
+scaffold00015	v0.1bia_pap	exon	16121	16759	.	-	0	ID=Halorubrum_Sp_AJ67.exon.19;Parent=Halorubrum_Sp_AJ67.transcript.19
+scaffold00015	v0.1bia_pap	mRNA	16121	16759	.	-	.	ID=Halorubrum_Sp_AJ67.transcript.19;Parent=Halorubrum_Sp_AJ67.gene.19;gene_symbol_source=UniRef100_M0F615;GO=GO:0000049,GO:0003723,GO:0003735,GO:0019843,GO:0006412,GO:0006417,GO:0005840,GO:0015934,GO:0030529;gene_product_name_source=UniRef100_M0F615;gene_symbol=rpl1P;Note=50S ribosomal protein L1;description=50S ribosomal protein L1;Name=Halorubrum_Sp_AJ67.transcript.19;top_cog_hit=[J] COG0081 Ribosomal protein L1
+scaffold00015	v0.1bia_pap	CDS	16121	16759	.	-	0	ID=Halorubrum_Sp_AJ67.CDS.19;Parent=Halorubrum_Sp_AJ67.transcript.19
+scaffold00015	v0.1bia_pap	gene	17606	17971	.	+	.	ID=Halorubrum_Sp_AJ67.gene.20
+scaffold00015	v0.1bia_pap	exon	17606	17971	.	+	0	ID=Halorubrum_Sp_AJ67.exon.20;Parent=Halorubrum_Sp_AJ67.transcript.20
+scaffold00015	v0.1bia_pap	mRNA	17606	17971	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.20;Parent=Halorubrum_Sp_AJ67.gene.20;gene_symbol_source=UniRef100_M0F621;GO=GO:0008150,GO:0003674,GO:0005575;gene_product_name_source=UniRef100_M0F621;gene_symbol=priB;Note=putative DNA primase large subunit domain protein;description=putative DNA primase large subunit domain protein;Name=Halorubrum_Sp_AJ67.transcript.20;top_cog_hit=[U] COG0201 Preprotein translocase subunit SecY
+scaffold00015	v0.1bia_pap	CDS	17606	17971	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.20;Parent=Halorubrum_Sp_AJ67.transcript.20
+scaffold00015	v0.1bia_pap	gene	18022	18237	.	-	.	ID=Halorubrum_Sp_AJ67.gene.21
+scaffold00015	v0.1bia_pap	exon	18022	18237	.	-	0	ID=Halorubrum_Sp_AJ67.exon.21;Parent=Halorubrum_Sp_AJ67.transcript.21
+scaffold00015	v0.1bia_pap	mRNA	18022	18237	.	-	.	ID=Halorubrum_Sp_AJ67.transcript.21;Parent=Halorubrum_Sp_AJ67.gene.21;gene_symbol_source=UniRef100_M0F3Q7;gene_product_name_source=UniRef100_M0F3Q7;gene_symbol=C467_10933;Note=transporter;description=transporter;Name=Halorubrum_Sp_AJ67.transcript.21
+scaffold00015	v0.1bia_pap	CDS	18022	18237	.	-	0	ID=Halorubrum_Sp_AJ67.CDS.21;Parent=Halorubrum_Sp_AJ67.transcript.21
+scaffold00015	v0.1bia_pap	gene	18296	18487	.	-	.	ID=Halorubrum_Sp_AJ67.gene.22
+scaffold00015	v0.1bia_pap	exon	18296	18487	.	-	0	ID=Halorubrum_Sp_AJ67.exon.22;Parent=Halorubrum_Sp_AJ67.transcript.22
+scaffold00015	v0.1bia_pap	mRNA	18296	18487	.	-	.	ID=Halorubrum_Sp_AJ67.transcript.22;Parent=Halorubrum_Sp_AJ67.gene.22;gene_symbol_source=UniRef100_M0DT89;gene_product_name_source=UniRef100_M0DT89;gene_symbol=C472_06445;Note=uncharacterized protein;description=uncharacterized protein;Name=Halorubrum_Sp_AJ67.transcript.22
+scaffold00015	v0.1bia_pap	CDS	18296	18487	.	-	0	ID=Halorubrum_Sp_AJ67.CDS.22;Parent=Halorubrum_Sp_AJ67.transcript.22
+scaffold00015	v0.1bia_pap	gene	24546	24914	.	+	.	ID=Halorubrum_Sp_AJ67.gene.23
+scaffold00015	v0.1bia_pap	exon	24546	24914	.	+	0	ID=Halorubrum_Sp_AJ67.exon.23;Parent=Halorubrum_Sp_AJ67.transcript.23
+scaffold00015	v0.1bia_pap	mRNA	24546	24914	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.23;Parent=Halorubrum_Sp_AJ67.gene.23;gene_symbol_source=UniRef100_M0DVG0;gene_product_name_source=UniRef100_M0DVG0;gene_symbol=C472_06405;Note=uncharacterized protein;description=uncharacterized protein;Name=Halorubrum_Sp_AJ67.transcript.23
+scaffold00015	v0.1bia_pap	CDS	24546	24914	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.23;Parent=Halorubrum_Sp_AJ67.transcript.23
+scaffold00015	v0.1bia_pap	gene	25004	25351	.	+	.	ID=Halorubrum_Sp_AJ67.gene.24
+scaffold00015	v0.1bia_pap	exon	25004	25351	.	+	0	ID=Halorubrum_Sp_AJ67.exon.24;Parent=Halorubrum_Sp_AJ67.transcript.24
+scaffold00015	v0.1bia_pap	mRNA	25004	25351	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.24;Parent=Halorubrum_Sp_AJ67.gene.24;gene_symbol_source=UniRef100_M0DT57;GO=GO:0008270;gene_product_name_source=UniRef100_M0DT57;gene_symbol=C472_06400;Note=uncharacterized protein;description=uncharacterized protein;Name=Halorubrum_Sp_AJ67.transcript.24;top_cog_hit=[S] COG5431 Uncharacterized metal-binding protein
+scaffold00015	v0.1bia_pap	CDS	25004	25351	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.24;Parent=Halorubrum_Sp_AJ67.transcript.24
+scaffold00015	v0.1bia_pap	gene	25552	26046	.	+	.	ID=Halorubrum_Sp_AJ67.gene.25
+scaffold00015	v0.1bia_pap	exon	25552	26046	.	+	0	ID=Halorubrum_Sp_AJ67.exon.25;Parent=Halorubrum_Sp_AJ67.transcript.25
+scaffold00015	v0.1bia_pap	mRNA	25552	26046	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.25;Parent=Halorubrum_Sp_AJ67.gene.25;gene_symbol_source=UniRef100_M0DT79;gene_product_name_source=UniRef100_M0DT79;gene_symbol=C472_06395;Note=deoxyribonuclease/rho motif-related TRAM;description=deoxyribonuclease/rho motif-related TRAM;Name=Halorubrum_Sp_AJ67.transcript.25
+scaffold00015	v0.1bia_pap	CDS	25552	26046	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.25;Parent=Halorubrum_Sp_AJ67.transcript.25
+scaffold00015	v0.1bia_pap	gene	26105	26218	.	-	.	ID=Halorubrum_Sp_AJ67.gene.26
+scaffold00015	v0.1bia_pap	exon	26105	26218	.	-	0	ID=Halorubrum_Sp_AJ67.exon.26;Parent=Halorubrum_Sp_AJ67.transcript.26
+scaffold00015	v0.1bia_pap	mRNA	26105	26218	.	-	.	ID=Halorubrum_Sp_AJ67.transcript.26;Parent=Halorubrum_Sp_AJ67.gene.26;GO=GO:0008150,GO:0003674,GO:0005575;gene_product_name_source=default;Note=hypothetical protein;description=hypothetical protein;Name=Halorubrum_Sp_AJ67.transcript.26
+scaffold00015	v0.1bia_pap	CDS	26105	26218	.	-	0	ID=Halorubrum_Sp_AJ67.CDS.26;Parent=Halorubrum_Sp_AJ67.transcript.26
+scaffold00015	v0.1bia_pap	gene	32078	32470	.	-	.	ID=Halorubrum_Sp_AJ67.gene.27
+scaffold00015	v0.1bia_pap	exon	32078	32470	.	-	0	ID=Halorubrum_Sp_AJ67.exon.27;Parent=Halorubrum_Sp_AJ67.transcript.27
+scaffold00015	v0.1bia_pap	mRNA	32078	32470	.	-	.	ID=Halorubrum_Sp_AJ67.transcript.27;Parent=Halorubrum_Sp_AJ67.gene.27;gene_symbol_source=UniRef100_M0F432;GO=GO:0000287,GO:0004518,GO:0004540,GO:0016787,GO:0046872,GO:0090305;gene_product_name_source=UniRef100_M0F432;gene_symbol=vapC;Note=putative ribonuclease VapC;description=putative ribonuclease VapC;Name=Halorubrum_Sp_AJ67.transcript.27
+scaffold00015	v0.1bia_pap	CDS	32078	32470	.	-	0	ID=Halorubrum_Sp_AJ67.CDS.27;Parent=Halorubrum_Sp_AJ67.transcript.27
+scaffold00015	v0.1bia_pap	gene	32467	32679	.	-	.	ID=Halorubrum_Sp_AJ67.gene.28
+scaffold00015	v0.1bia_pap	exon	32467	32679	.	-	0	ID=Halorubrum_Sp_AJ67.exon.28;Parent=Halorubrum_Sp_AJ67.transcript.28
+scaffold00015	v0.1bia_pap	mRNA	32467	32679	.	-	.	ID=Halorubrum_Sp_AJ67.transcript.28;Parent=Halorubrum_Sp_AJ67.gene.28;gene_symbol_source=UniRef100_M0F7R7;gene_product_name_source=UniRef100_M0F7R7;gene_symbol=C467_10848;Note=uncharacterized protein;description=uncharacterized protein;Name=Halorubrum_Sp_AJ67.transcript.28
+scaffold00015	v0.1bia_pap	CDS	32467	32679	.	-	0	ID=Halorubrum_Sp_AJ67.CDS.28;Parent=Halorubrum_Sp_AJ67.transcript.28
+scaffold00015	v0.1bia_pap	gene	34830	35027	.	+	.	ID=Halorubrum_Sp_AJ67.gene.29
+scaffold00015	v0.1bia_pap	exon	34830	35027	.	+	0	ID=Halorubrum_Sp_AJ67.exon.29;Parent=Halorubrum_Sp_AJ67.transcript.29
+scaffold00015	v0.1bia_pap	mRNA	34830	35027	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.29;Parent=Halorubrum_Sp_AJ67.gene.29;GO=GO:0008150,GO:0003674,GO:0005575;gene_product_name_source=default;Note=hypothetical protein;description=hypothetical protein;Name=Halorubrum_Sp_AJ67.transcript.29
+scaffold00015	v0.1bia_pap	CDS	34830	35027	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.29;Parent=Halorubrum_Sp_AJ67.transcript.29
+scaffold00015	v0.1bia_pap	gene	32744	32971	.	-	.	ID=Halorubrum_Sp_AJ67.gene.30
+scaffold00015	v0.1bia_pap	exon	32744	32971	.	-	0	ID=Halorubrum_Sp_AJ67.exon.30;Parent=Halorubrum_Sp_AJ67.transcript.30
+scaffold00015	v0.1bia_pap	mRNA	32744	32971	.	-	.	ID=Halorubrum_Sp_AJ67.transcript.30;Parent=Halorubrum_Sp_AJ67.gene.30;gene_symbol_source=UniRef100_M0F5S3;GO=GO:0008150,GO:0003674,GO:0005575;gene_product_name_source=UniRef100_M0F5S3;EC=6.5.1.2;gene_symbol=C467_10843;Note=hef nuclease domain protein;description=hef nuclease domain protein;Name=Halorubrum_Sp_AJ67.transcript.30;top_cog_hit=[L] COG1948 ERCC4-type nuclease
+scaffold00015	v0.1bia_pap	CDS	32744	32971	.	-	0	ID=Halorubrum_Sp_AJ67.CDS.30;Parent=Halorubrum_Sp_AJ67.transcript.30
+scaffold00015	v0.1bia_pap	gene	36686	37126	.	+	.	ID=Halorubrum_Sp_AJ67.gene.31
+scaffold00015	v0.1bia_pap	exon	36686	37126	.	+	0	ID=Halorubrum_Sp_AJ67.exon.31;Parent=Halorubrum_Sp_AJ67.transcript.31
+scaffold00015	v0.1bia_pap	mRNA	36686	37126	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.31;Parent=Halorubrum_Sp_AJ67.gene.31;gene_symbol_source=UniRef100_M0F3N6;gene_product_name_source=UniRef100_M0F3N6;gene_symbol=C467_10833;Note=uncharacterized protein;description=uncharacterized protein;Name=Halorubrum_Sp_AJ67.transcript.31
+scaffold00015	v0.1bia_pap	CDS	36686	37126	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.31;Parent=Halorubrum_Sp_AJ67.transcript.31
+scaffold00015	v0.1bia_pap	gene	37161	38810	.	-	.	ID=Halorubrum_Sp_AJ67.gene.32
+scaffold00015	v0.1bia_pap	exon	37161	38810	.	-	0	ID=Halorubrum_Sp_AJ67.exon.32;Parent=Halorubrum_Sp_AJ67.transcript.32
+scaffold00015	v0.1bia_pap	mRNA	37161	38810	.	-	.	ID=Halorubrum_Sp_AJ67.transcript.32;Parent=Halorubrum_Sp_AJ67.gene.32;gene_symbol_source=UniRef100_M0DVF3;GO=GO:0003824,GO:0016874,GO:0008152;gene_product_name_source=UniRef100_M0DVF3;EC=6.2.1.3;gene_symbol=C472_06355;Note=AMP-dependent synthetase and ligase;description=AMP-dependent synthetase and ligase;Name=Halorubrum_Sp_AJ67.transcript.32;top_cog_hit=[IQ] COG0318 Acyl-CoA synthetases (AMP-forming)/AMP-acid ligases II
+scaffold00015	v0.1bia_pap	CDS	37161	38810	.	-	0	ID=Halorubrum_Sp_AJ67.CDS.32;Parent=Halorubrum_Sp_AJ67.transcript.32
+scaffold00015	v0.1bia_pap	gene	38796	38942	.	+	.	ID=Halorubrum_Sp_AJ67.gene.33
+scaffold00015	v0.1bia_pap	exon	38796	38942	.	+	0	ID=Halorubrum_Sp_AJ67.exon.33;Parent=Halorubrum_Sp_AJ67.transcript.33
+scaffold00015	v0.1bia_pap	mRNA	38796	38942	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.33;Parent=Halorubrum_Sp_AJ67.gene.33;GO=GO:0008150,GO:0003674,GO:0005575;gene_product_name_source=default;Note=hypothetical protein;description=hypothetical protein;Name=Halorubrum_Sp_AJ67.transcript.33
+scaffold00015	v0.1bia_pap	CDS	38796	38942	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.33;Parent=Halorubrum_Sp_AJ67.transcript.33
+scaffold00015	v0.1bia_pap	gene	38974	39315	.	+	.	ID=Halorubrum_Sp_AJ67.gene.34
+scaffold00015	v0.1bia_pap	exon	38974	39315	.	+	0	ID=Halorubrum_Sp_AJ67.exon.34;Parent=Halorubrum_Sp_AJ67.transcript.34
+scaffold00015	v0.1bia_pap	mRNA	38974	39315	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.34;Parent=Halorubrum_Sp_AJ67.gene.34;GO=GO:0008150,GO:0003674,GO:0005575;gene_product_name_source=default;Note=hypothetical protein;description=hypothetical protein;Name=Halorubrum_Sp_AJ67.transcript.34
+scaffold00015	v0.1bia_pap	CDS	38974	39315	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.34;Parent=Halorubrum_Sp_AJ67.transcript.34
+scaffold00015	v0.1bia_pap	gene	41501	42838	.	-	.	ID=Halorubrum_Sp_AJ67.gene.35
+scaffold00015	v0.1bia_pap	exon	41501	42838	.	-	0	ID=Halorubrum_Sp_AJ67.exon.35;Parent=Halorubrum_Sp_AJ67.transcript.35
+scaffold00015	v0.1bia_pap	mRNA	41501	42838	.	-	.	ID=Halorubrum_Sp_AJ67.transcript.35;Parent=Halorubrum_Sp_AJ67.gene.35;gene_symbol_source=UniRef100_M0DTL9;GO=GO:0003824,GO:0016765,GO:0030170,GO:0006520;gene_product_name_source=UniRef100_M0DTL9;EC=2.5.1.49;gene_symbol=C472_06345;Note=O-acetylhomoserine/O-acetylserine sulfhydrylase;description=O-acetylhomoserine/O-acetylserine sulfhydrylase;Name=Halorubrum_Sp_AJ67.transcript.35;top_cog_hit=[E] COG2873 O-acetylhomoserine sulfhydrylase
+scaffold00015	v0.1bia_pap	CDS	41501	42838	.	-	0	ID=Halorubrum_Sp_AJ67.CDS.35;Parent=Halorubrum_Sp_AJ67.transcript.35
+scaffold00015	v0.1bia_pap	gene	42837	42992	.	+	.	ID=Halorubrum_Sp_AJ67.gene.36
+scaffold00015	v0.1bia_pap	exon	42837	42992	.	+	0	ID=Halorubrum_Sp_AJ67.exon.36;Parent=Halorubrum_Sp_AJ67.transcript.36
+scaffold00015	v0.1bia_pap	mRNA	42837	42992	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.36;Parent=Halorubrum_Sp_AJ67.gene.36;GO=GO:0008150,GO:0003674,GO:0005575;gene_product_name_source=default;Note=hypothetical protein;description=hypothetical protein;Name=Halorubrum_Sp_AJ67.transcript.36
+scaffold00015	v0.1bia_pap	CDS	42837	42992	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.36;Parent=Halorubrum_Sp_AJ67.transcript.36
+scaffold00015	v0.1bia_pap	gene	47552	47752	.	-	.	ID=Halorubrum_Sp_AJ67.gene.37
+scaffold00015	v0.1bia_pap	exon	47552	47752	.	-	0	ID=Halorubrum_Sp_AJ67.exon.37;Parent=Halorubrum_Sp_AJ67.transcript.37
+scaffold00015	v0.1bia_pap	mRNA	47552	47752	.	-	.	ID=Halorubrum_Sp_AJ67.transcript.37;Parent=Halorubrum_Sp_AJ67.gene.37;GO=GO:0008150,GO:0003674,GO:0005575;gene_product_name_source=default;Note=hypothetical protein;description=hypothetical protein;Name=Halorubrum_Sp_AJ67.transcript.37
+scaffold00015	v0.1bia_pap	CDS	47552	47752	.	-	0	ID=Halorubrum_Sp_AJ67.CDS.37;Parent=Halorubrum_Sp_AJ67.transcript.37
+scaffold00015	v0.1bia_pap	gene	47733	47876	.	+	.	ID=Halorubrum_Sp_AJ67.gene.38
+scaffold00015	v0.1bia_pap	exon	47733	47876	.	+	0	ID=Halorubrum_Sp_AJ67.exon.38;Parent=Halorubrum_Sp_AJ67.transcript.38
+scaffold00015	v0.1bia_pap	mRNA	47733	47876	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.38;Parent=Halorubrum_Sp_AJ67.gene.38;gene_symbol_source=UniRef100_M0CGS9;gene_product_name_source=UniRef100_M0CGS9;gene_symbol=C475_18228;Note=uncharacterized protein;description=uncharacterized protein;Name=Halorubrum_Sp_AJ67.transcript.38
+scaffold00015	v0.1bia_pap	CDS	47733	47876	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.38;Parent=Halorubrum_Sp_AJ67.transcript.38
+scaffold00015	v0.1bia_pap	gene	47963	48262	.	-	.	ID=Halorubrum_Sp_AJ67.gene.39
+scaffold00015	v0.1bia_pap	exon	47963	48262	.	-	0	ID=Halorubrum_Sp_AJ67.exon.39;Parent=Halorubrum_Sp_AJ67.transcript.39
+scaffold00015	v0.1bia_pap	mRNA	47963	48262	.	-	.	ID=Halorubrum_Sp_AJ67.transcript.39;Parent=Halorubrum_Sp_AJ67.gene.39;gene_symbol_source=UniRef100_A7U106;gene_product_name_source=UniRef100_A7U106;gene_symbol=TP009.40;Note=putative uncharacterized protein TP009.40;description=putative uncharacterized protein TP009.40;Name=Halorubrum_Sp_AJ67.transcript.39
+scaffold00015	v0.1bia_pap	CDS	47963	48262	.	-	0	ID=Halorubrum_Sp_AJ67.CDS.39;Parent=Halorubrum_Sp_AJ67.transcript.39
+scaffold00015	v0.1bia_pap	gene	48259	48384	.	-	.	ID=Halorubrum_Sp_AJ67.gene.40
+scaffold00015	v0.1bia_pap	exon	48259	48384	.	-	0	ID=Halorubrum_Sp_AJ67.exon.40;Parent=Halorubrum_Sp_AJ67.transcript.40
+scaffold00015	v0.1bia_pap	mRNA	48259	48384	.	-	.	ID=Halorubrum_Sp_AJ67.transcript.40;Parent=Halorubrum_Sp_AJ67.gene.40;gene_symbol_source=UniRef100_M0E8R8;GO=GO:0003700,GO:0006355;gene_product_name_source=UniRef100_M0E8R8;gene_symbol=C464_15035;Note=transcriptional regulator;description=transcriptional regulator;Name=Halorubrum_Sp_AJ67.transcript.40
+scaffold00015	v0.1bia_pap	CDS	48259	48384	.	-	0	ID=Halorubrum_Sp_AJ67.CDS.40;Parent=Halorubrum_Sp_AJ67.transcript.40
+scaffold00015	v0.1bia_pap	gene	51647	52210	.	-	.	ID=Halorubrum_Sp_AJ67.gene.41
+scaffold00015	v0.1bia_pap	exon	51647	52210	.	-	0	ID=Halorubrum_Sp_AJ67.exon.41;Parent=Halorubrum_Sp_AJ67.transcript.41
+scaffold00015	v0.1bia_pap	mRNA	51647	52210	.	-	.	ID=Halorubrum_Sp_AJ67.transcript.41;Parent=Halorubrum_Sp_AJ67.gene.41;gene_symbol_source=UniRef100_M0DVV0;GO=GO:0000156,GO:0000160,GO:0006355,GO:0035556;gene_product_name_source=UniRef100_M0DVV0;EC=2.7.13.3;gene_symbol=C472_06330;Note=response regulator;description=response regulator;Name=Halorubrum_Sp_AJ67.transcript.41;top_cog_hit=[T] COG0784 FOG: CheY-like receiver
+scaffold00015	v0.1bia_pap	CDS	51647	52210	.	-	0	ID=Halorubrum_Sp_AJ67.CDS.41;Parent=Halorubrum_Sp_AJ67.transcript.41
+scaffold00015	v0.1bia_pap	gene	52140	52343	.	-	.	ID=Halorubrum_Sp_AJ67.gene.42
+scaffold00015	v0.1bia_pap	exon	52140	52343	.	-	0	ID=Halorubrum_Sp_AJ67.exon.42;Parent=Halorubrum_Sp_AJ67.transcript.42
+scaffold00015	v0.1bia_pap	mRNA	52140	52343	.	-	.	ID=Halorubrum_Sp_AJ67.transcript.42;Parent=Halorubrum_Sp_AJ67.gene.42;GO=GO:0008150,GO:0003674,GO:0005575;gene_product_name_source=default;Note=hypothetical protein;description=hypothetical protein;Name=Halorubrum_Sp_AJ67.transcript.42
+scaffold00015	v0.1bia_pap	CDS	52140	52343	.	-	0	ID=Halorubrum_Sp_AJ67.CDS.42;Parent=Halorubrum_Sp_AJ67.transcript.42
+scaffold00015	v0.1bia_pap	gene	52355	53086	.	+	.	ID=Halorubrum_Sp_AJ67.gene.43
+scaffold00015	v0.1bia_pap	exon	52355	53086	.	+	0	ID=Halorubrum_Sp_AJ67.exon.43;Parent=Halorubrum_Sp_AJ67.transcript.43
+scaffold00015	v0.1bia_pap	mRNA	52355	53086	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.43;Parent=Halorubrum_Sp_AJ67.gene.43;gene_symbol_source=UniRef100_M0DTK1;GO=GO:0003684,GO:0005524,GO:0006281;gene_product_name_source=UniRef100_M0DTK1;EC=2.7.11.1;gene_symbol=C472_06325;Note=circadian clock protein, KaiC;description=circadian clock protein, KaiC;Name=Halorubrum_Sp_AJ67.transcript.43;top_cog_hit=[T] COG0467 RecA-superfamily ATPases implicated in signal transduction
+scaffold00015	v0.1bia_pap	CDS	52355	53086	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.43;Parent=Halorubrum_Sp_AJ67.transcript.43
+scaffold00015	v0.1bia_pap	gene	53115	53453	.	-	.	ID=Halorubrum_Sp_AJ67.gene.44
+scaffold00015	v0.1bia_pap	exon	53115	53453	.	-	0	ID=Halorubrum_Sp_AJ67.exon.44;Parent=Halorubrum_Sp_AJ67.transcript.44
+scaffold00015	v0.1bia_pap	mRNA	53115	53453	.	-	.	ID=Halorubrum_Sp_AJ67.transcript.44;Parent=Halorubrum_Sp_AJ67.gene.44;gene_symbol_source=UniRef100_M0DAV7;gene_product_name_source=UniRef100_M0DAV7;gene_symbol=C473_10473;Note=uncharacterized protein;description=uncharacterized protein;Name=Halorubrum_Sp_AJ67.transcript.44;top_cog_hit=[K] COG0640 Predicted transcriptional regulators
+scaffold00015	v0.1bia_pap	CDS	53115	53453	.	-	0	ID=Halorubrum_Sp_AJ67.CDS.44;Parent=Halorubrum_Sp_AJ67.transcript.44
+scaffold00015	v0.1bia_pap	gene	53496	53666	.	+	.	ID=Halorubrum_Sp_AJ67.gene.45
+scaffold00015	v0.1bia_pap	exon	53496	53666	.	+	0	ID=Halorubrum_Sp_AJ67.exon.45;Parent=Halorubrum_Sp_AJ67.transcript.45
+scaffold00015	v0.1bia_pap	mRNA	53496	53666	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.45;Parent=Halorubrum_Sp_AJ67.gene.45;GO=GO:0008150,GO:0003674,GO:0005575;gene_product_name_source=default;Note=hypothetical protein;description=hypothetical protein;Name=Halorubrum_Sp_AJ67.transcript.45
+scaffold00015	v0.1bia_pap	CDS	53496	53666	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.45;Parent=Halorubrum_Sp_AJ67.transcript.45
+scaffold00015	v0.1bia_pap	gene	53639	53977	.	+	.	ID=Halorubrum_Sp_AJ67.gene.46
+scaffold00015	v0.1bia_pap	exon	53639	53977	.	+	0	ID=Halorubrum_Sp_AJ67.exon.46;Parent=Halorubrum_Sp_AJ67.transcript.46
+scaffold00015	v0.1bia_pap	mRNA	53639	53977	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.46;Parent=Halorubrum_Sp_AJ67.gene.46;gene_symbol_source=UniRef100_M0DB06;gene_product_name_source=UniRef100_M0DB06;gene_symbol=C473_10468;Note=uncharacterized protein;description=uncharacterized protein;Name=Halorubrum_Sp_AJ67.transcript.46
+scaffold00015	v0.1bia_pap	CDS	53639	53977	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.46;Parent=Halorubrum_Sp_AJ67.transcript.46
+scaffold00015	v0.1bia_pap	gene	53963	54169	.	-	.	ID=Halorubrum_Sp_AJ67.gene.47
+scaffold00015	v0.1bia_pap	exon	53963	54169	.	-	0	ID=Halorubrum_Sp_AJ67.exon.47;Parent=Halorubrum_Sp_AJ67.transcript.47
+scaffold00015	v0.1bia_pap	mRNA	53963	54169	.	-	.	ID=Halorubrum_Sp_AJ67.transcript.47;Parent=Halorubrum_Sp_AJ67.gene.47;GO=GO:0008150,GO:0003674,GO:0005575;gene_product_name_source=default;Note=hypothetical protein;description=hypothetical protein;Name=Halorubrum_Sp_AJ67.transcript.47
+scaffold00015	v0.1bia_pap	CDS	53963	54169	.	-	0	ID=Halorubrum_Sp_AJ67.CDS.47;Parent=Halorubrum_Sp_AJ67.transcript.47
+scaffold00015	v0.1bia_pap	gene	54222	54359	.	-	.	ID=Halorubrum_Sp_AJ67.gene.48
+scaffold00015	v0.1bia_pap	exon	54222	54359	.	-	0	ID=Halorubrum_Sp_AJ67.exon.48;Parent=Halorubrum_Sp_AJ67.transcript.48
+scaffold00015	v0.1bia_pap	mRNA	54222	54359	.	-	.	ID=Halorubrum_Sp_AJ67.transcript.48;Parent=Halorubrum_Sp_AJ67.gene.48;GO=GO:0008150,GO:0003674,GO:0005575;gene_product_name_source=default;Note=hypothetical protein;description=hypothetical protein;Name=Halorubrum_Sp_AJ67.transcript.48
+scaffold00015	v0.1bia_pap	CDS	54222	54359	.	-	0	ID=Halorubrum_Sp_AJ67.CDS.48;Parent=Halorubrum_Sp_AJ67.transcript.48
+scaffold00015	v0.1bia_pap	gene	54363	54956	.	+	.	ID=Halorubrum_Sp_AJ67.gene.49
+scaffold00015	v0.1bia_pap	exon	54363	54956	.	+	0	ID=Halorubrum_Sp_AJ67.exon.49;Parent=Halorubrum_Sp_AJ67.transcript.49
+scaffold00015	v0.1bia_pap	mRNA	54363	54956	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.49;Parent=Halorubrum_Sp_AJ67.gene.49;gene_symbol_source=UniRef100_M0E1S4;GO=GO:0005198,GO:0006928;gene_product_name_source=UniRef100_M0E1S4;gene_symbol=C471_06935;Note=flagellin domain-containing protein;description=flagellin domain-containing protein;Name=Halorubrum_Sp_AJ67.transcript.49;top_cog_hit=[N] COG1681 Archaeal flagellins
+scaffold00015	v0.1bia_pap	CDS	54363	54956	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.49;Parent=Halorubrum_Sp_AJ67.transcript.49
+scaffold00015	v0.1bia_pap	gene	54959	55672	.	+	.	ID=Halorubrum_Sp_AJ67.gene.50
+scaffold00015	v0.1bia_pap	exon	54959	55672	.	+	0	ID=Halorubrum_Sp_AJ67.exon.50;Parent=Halorubrum_Sp_AJ67.transcript.50
+scaffold00015	v0.1bia_pap	mRNA	54959	55672	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.50;Parent=Halorubrum_Sp_AJ67.gene.50;gene_symbol_source=UniRef100_M0NH02;GO=GO:0005198,GO:0006928;gene_product_name_source=UniRef100_M0NH02;gene_symbol=C469_15303;Note=flagellin;description=flagellin;Name=Halorubrum_Sp_AJ67.transcript.50
+scaffold00015	v0.1bia_pap	CDS	54959	55672	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.50;Parent=Halorubrum_Sp_AJ67.transcript.50
+scaffold00015	v0.1bia_pap	gene	55669	55803	.	-	.	ID=Halorubrum_Sp_AJ67.gene.51
+scaffold00015	v0.1bia_pap	exon	55669	55803	.	-	0	ID=Halorubrum_Sp_AJ67.exon.51;Parent=Halorubrum_Sp_AJ67.transcript.51
+scaffold00015	v0.1bia_pap	mRNA	55669	55803	.	-	.	ID=Halorubrum_Sp_AJ67.transcript.51;Parent=Halorubrum_Sp_AJ67.gene.51;GO=GO:0008150,GO:0003674,GO:0005575;gene_product_name_source=default;Note=hypothetical protein;description=hypothetical protein;Name=Halorubrum_Sp_AJ67.transcript.51
+scaffold00015	v0.1bia_pap	CDS	55669	55803	.	-	0	ID=Halorubrum_Sp_AJ67.CDS.51;Parent=Halorubrum_Sp_AJ67.transcript.51
+scaffold00015	v0.1bia_pap	gene	60570	60926	.	+	.	ID=Halorubrum_Sp_AJ67.gene.52
+scaffold00015	v0.1bia_pap	exon	60570	60926	.	+	0	ID=Halorubrum_Sp_AJ67.exon.52;Parent=Halorubrum_Sp_AJ67.transcript.52
+scaffold00015	v0.1bia_pap	mRNA	60570	60926	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.52;Parent=Halorubrum_Sp_AJ67.gene.52;gene_symbol_source=UniRef100_M0NKB2;GO=GO:0000156,GO:0000160,GO:0006355,GO:0035556;gene_product_name_source=UniRef100_M0NKB2;EC=3.1.1.61;gene_symbol=C469_15323;Note=response regulator;description=response regulator;Name=Halorubrum_Sp_AJ67.transcript.52;top_cog_hit=[T] COG0784 FOG: CheY-like receiver
+scaffold00015	v0.1bia_pap	CDS	60570	60926	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.52;Parent=Halorubrum_Sp_AJ67.transcript.52
+scaffold00015	v0.1bia_pap	gene	60926	62269	.	+	.	ID=Halorubrum_Sp_AJ67.gene.53
+scaffold00015	v0.1bia_pap	exon	60926	62269	.	+	0	ID=Halorubrum_Sp_AJ67.exon.53;Parent=Halorubrum_Sp_AJ67.transcript.53
+scaffold00015	v0.1bia_pap	mRNA	60926	62269	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.53;Parent=Halorubrum_Sp_AJ67.gene.53;gene_symbol_source=UniRef100_M0F414;GO=GO:0016787;gene_product_name_source=UniRef100_M0F414;gene_symbol=C467_10753;Note=cheC, inhibitor of MCP methylation;description=cheC, inhibitor of MCP methylation;Name=Halorubrum_Sp_AJ67.transcript.53;top_cog_hit=[NT] COG1776 Chemotaxis protein CheC%2C inhibitor of MCP methylation
+scaffold00015	v0.1bia_pap	CDS	60926	62269	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.53;Parent=Halorubrum_Sp_AJ67.transcript.53
+scaffold00015	v0.1bia_pap	gene	68504	68977	.	+	.	ID=Halorubrum_Sp_AJ67.gene.54
+scaffold00015	v0.1bia_pap	exon	68504	68977	.	+	0	ID=Halorubrum_Sp_AJ67.exon.54;Parent=Halorubrum_Sp_AJ67.transcript.54
+scaffold00015	v0.1bia_pap	mRNA	68504	68977	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.54;Parent=Halorubrum_Sp_AJ67.gene.54;gene_symbol_source=UniRef100_M0D8V9;gene_product_name_source=UniRef100_M0D8V9;gene_symbol=C473_10413;Note=flagellin;description=flagellin;Name=Halorubrum_Sp_AJ67.transcript.54;top_cog_hit=[N] COG3353 Putative archaeal flagellar protein F
+scaffold00015	v0.1bia_pap	CDS	68504	68977	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.54;Parent=Halorubrum_Sp_AJ67.transcript.54
+scaffold00015	v0.1bia_pap	gene	68978	69472	.	+	.	ID=Halorubrum_Sp_AJ67.gene.55
+scaffold00015	v0.1bia_pap	exon	68978	69472	.	+	0	ID=Halorubrum_Sp_AJ67.exon.55;Parent=Halorubrum_Sp_AJ67.transcript.55
+scaffold00015	v0.1bia_pap	mRNA	68978	69472	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.55;Parent=Halorubrum_Sp_AJ67.gene.55;gene_symbol_source=UniRef100_M0DVT5;GO=GO:0005198,GO:0006928;gene_product_name_source=signalP;gene_symbol=C472_06255;Note=putative signal peptide protein;description=putative signal peptide protein;Name=Halorubrum_Sp_AJ67.transcript.55;top_cog_hit=[N] COG3354 Putative archaeal flagellar protein G
+scaffold00015	v0.1bia_pap	CDS	68978	69472	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.55;Parent=Halorubrum_Sp_AJ67.transcript.55
+scaffold00015	v0.1bia_pap	gene	69474	70223	.	+	.	ID=Halorubrum_Sp_AJ67.gene.56
+scaffold00015	v0.1bia_pap	exon	69474	70223	.	+	0	ID=Halorubrum_Sp_AJ67.exon.56;Parent=Halorubrum_Sp_AJ67.transcript.56
+scaffold00015	v0.1bia_pap	mRNA	69474	70223	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.56;Parent=Halorubrum_Sp_AJ67.gene.56;gene_symbol_source=UniRef100_M0DCM6;GO=GO:0000166,GO:0017111;gene_product_name_source=UniRef100_M0DCM6;gene_symbol=C473_10403;Note=ATPase AAA;description=ATPase AAA;Name=Halorubrum_Sp_AJ67.transcript.56;top_cog_hit=[NU] COG2874 Predicted ATPases involved in biogenesis of archaeal flagella
+scaffold00015	v0.1bia_pap	CDS	69474	70223	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.56;Parent=Halorubrum_Sp_AJ67.transcript.56
+scaffold00015	v0.1bia_pap	gene	70295	71065	.	+	.	ID=Halorubrum_Sp_AJ67.gene.57
+scaffold00015	v0.1bia_pap	exon	70295	71065	.	+	0	ID=Halorubrum_Sp_AJ67.exon.57;Parent=Halorubrum_Sp_AJ67.transcript.57
+scaffold00015	v0.1bia_pap	mRNA	70295	71065	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.57;Parent=Halorubrum_Sp_AJ67.gene.57;gene_symbol_source=UniRef100_M0DTK3;GO=GO:0008150,GO:0003674,GO:0005575;gene_product_name_source=UniRef100_M0DTK3;gene_symbol=C472_06245;Note=type II secretion system protein E domain protein;description=type II secretion system protein E domain protein;Name=Halorubrum_Sp_AJ67.transcript.57
+scaffold00015	v0.1bia_pap	CDS	70295	71065	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.57;Parent=Halorubrum_Sp_AJ67.transcript.57
+scaffold00015	v0.1bia_pap	gene	71101	71967	.	+	.	ID=Halorubrum_Sp_AJ67.gene.58
+scaffold00015	v0.1bia_pap	exon	71101	71967	.	+	0	ID=Halorubrum_Sp_AJ67.exon.58;Parent=Halorubrum_Sp_AJ67.transcript.58
+scaffold00015	v0.1bia_pap	mRNA	71101	71967	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.58;Parent=Halorubrum_Sp_AJ67.gene.58;gene_symbol_source=UniRef100_M0EGG7;GO=GO:0008150,GO:0003674,GO:0005575;gene_product_name_source=UniRef100_M0EGG7;gene_symbol=C463_03232;Note=type II secretion system protein E domain protein;description=type II secretion system protein E domain protein;Name=Halorubrum_Sp_AJ67.transcript.58;top_cog_hit=[NU] COG0630 Type IV secretory pathway%2C VirB11 components%2C and related ATPases involved in archaeal flagella biosynthesis
+scaffold00015	v0.1bia_pap	CDS	71101	71967	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.58;Parent=Halorubrum_Sp_AJ67.transcript.58
+scaffold00015	v0.1bia_pap	gene	72014	73750	.	+	.	ID=Halorubrum_Sp_AJ67.gene.59
+scaffold00015	v0.1bia_pap	exon	72014	73750	.	+	0	ID=Halorubrum_Sp_AJ67.exon.59;Parent=Halorubrum_Sp_AJ67.transcript.59
+scaffold00015	v0.1bia_pap	mRNA	72014	73750	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.59;Parent=Halorubrum_Sp_AJ67.gene.59;gene_symbol_source=UniRef100_M0F5P6;gene_product_name_source=UniRef100_M0F5P6;gene_symbol=C467_10718;Note=flagellar assembly protein J;description=flagellar assembly protein J;Name=Halorubrum_Sp_AJ67.transcript.59;top_cog_hit=[NU] COG1955 Archaeal flagella assembly protein J
+scaffold00015	v0.1bia_pap	CDS	72014	73750	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.59;Parent=Halorubrum_Sp_AJ67.transcript.59
+scaffold00015	v0.1bia_pap	gene	73778	73996	.	-	.	ID=Halorubrum_Sp_AJ67.gene.60
+scaffold00015	v0.1bia_pap	exon	73778	73996	.	-	0	ID=Halorubrum_Sp_AJ67.exon.60;Parent=Halorubrum_Sp_AJ67.transcript.60
+scaffold00015	v0.1bia_pap	mRNA	73778	73996	.	-	.	ID=Halorubrum_Sp_AJ67.transcript.60;Parent=Halorubrum_Sp_AJ67.gene.60;gene_symbol_source=UniRef100_M0DVG3;GO=GO:0008150,GO:0003674,GO:0005575;gene_product_name_source=default;gene_symbol=C472_06235;Note=hypothetical protein;description=hypothetical protein;Name=Halorubrum_Sp_AJ67.transcript.60
+scaffold00015	v0.1bia_pap	CDS	73778	73996	.	-	0	ID=Halorubrum_Sp_AJ67.CDS.60;Parent=Halorubrum_Sp_AJ67.transcript.60
+scaffold00015	v0.1bia_pap	gene	75180	76052	.	+	.	ID=Halorubrum_Sp_AJ67.gene.61
+scaffold00015	v0.1bia_pap	exon	75180	76052	.	+	0	ID=Halorubrum_Sp_AJ67.exon.61;Parent=Halorubrum_Sp_AJ67.transcript.61
+scaffold00015	v0.1bia_pap	mRNA	75180	76052	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.61;Parent=Halorubrum_Sp_AJ67.gene.61;gene_symbol_source=UniRef100_M0F3L7;GO=GO:0004222,GO:0008233,GO:0008237,GO:0008270,GO:0016787,GO:0046872,GO:0006508,GO:0006950,GO:0005886,GO:0016020,GO:0016021;gene_product_name_source=UniRef100_M0F3L7;gene_symbol=htpX;Note=protease HtpX homolog;description=protease HtpX homolog;Name=Halorubrum_Sp_AJ67.transcript.61;top_cog_hit=[O] COG0501 Zn-dependent protease with chaperone function
+scaffold00015	v0.1bia_pap	CDS	75180	76052	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.61;Parent=Halorubrum_Sp_AJ67.transcript.61
+scaffold00015	v0.1bia_pap	gene	76095	76250	.	+	.	ID=Halorubrum_Sp_AJ67.gene.62
+scaffold00015	v0.1bia_pap	exon	76095	76250	.	+	0	ID=Halorubrum_Sp_AJ67.exon.62;Parent=Halorubrum_Sp_AJ67.transcript.62
+scaffold00015	v0.1bia_pap	mRNA	76095	76250	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.62;Parent=Halorubrum_Sp_AJ67.gene.62;GO=GO:0008150,GO:0003674,GO:0005575;gene_product_name_source=default;Note=hypothetical protein;description=hypothetical protein;Name=Halorubrum_Sp_AJ67.transcript.62
+scaffold00015	v0.1bia_pap	CDS	76095	76250	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.62;Parent=Halorubrum_Sp_AJ67.transcript.62
+scaffold00015	v0.1bia_pap	gene	76335	76511	.	+	.	ID=Halorubrum_Sp_AJ67.gene.63
+scaffold00015	v0.1bia_pap	exon	76335	76511	.	+	0	ID=Halorubrum_Sp_AJ67.exon.63;Parent=Halorubrum_Sp_AJ67.transcript.63
+scaffold00015	v0.1bia_pap	mRNA	76335	76511	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.63;Parent=Halorubrum_Sp_AJ67.gene.63;GO=GO:0008150,GO:0003674,GO:0005575;gene_product_name_source=default;Note=hypothetical protein;description=hypothetical protein;Name=Halorubrum_Sp_AJ67.transcript.63
+scaffold00015	v0.1bia_pap	CDS	76335	76511	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.63;Parent=Halorubrum_Sp_AJ67.transcript.63
+scaffold00015	v0.1bia_pap	gene	76976	77578	.	+	.	ID=Halorubrum_Sp_AJ67.gene.64
+scaffold00015	v0.1bia_pap	exon	76976	77578	.	+	0	ID=Halorubrum_Sp_AJ67.exon.64;Parent=Halorubrum_Sp_AJ67.transcript.64
+scaffold00015	v0.1bia_pap	mRNA	76976	77578	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.64;Parent=Halorubrum_Sp_AJ67.gene.64;gene_symbol_source=UniRef100_M0DTI3;gene_product_name_source=UniRef100_M0DTI3;gene_symbol=C472_06225;Note=AMMECR1 domain protein;description=AMMECR1 domain protein;Name=Halorubrum_Sp_AJ67.transcript.64;top_cog_hit=[S] COG2078 Uncharacterized conserved protein
+scaffold00015	v0.1bia_pap	CDS	76976	77578	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.64;Parent=Halorubrum_Sp_AJ67.transcript.64
+scaffold00015	v0.1bia_pap	gene	77559	77861	.	+	.	ID=Halorubrum_Sp_AJ67.gene.65
+scaffold00015	v0.1bia_pap	exon	77559	77861	.	+	0	ID=Halorubrum_Sp_AJ67.exon.65;Parent=Halorubrum_Sp_AJ67.transcript.65
+scaffold00015	v0.1bia_pap	mRNA	77559	77861	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.65;Parent=Halorubrum_Sp_AJ67.gene.65;GO=GO:0008150,GO:0003674,GO:0005575;gene_product_name_source=default;Note=hypothetical protein;description=hypothetical protein;Name=Halorubrum_Sp_AJ67.transcript.65
+scaffold00015	v0.1bia_pap	CDS	77559	77861	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.65;Parent=Halorubrum_Sp_AJ67.transcript.65
+scaffold00015	v0.1bia_pap	gene	81586	81837	.	+	.	ID=Halorubrum_Sp_AJ67.gene.66
+scaffold00015	v0.1bia_pap	exon	81586	81837	.	+	0	ID=Halorubrum_Sp_AJ67.exon.66;Parent=Halorubrum_Sp_AJ67.transcript.66
+scaffold00015	v0.1bia_pap	mRNA	81586	81837	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.66;Parent=Halorubrum_Sp_AJ67.gene.66;GO=GO:0008150,GO:0003674,GO:0005575;gene_product_name_source=default;Note=hypothetical protein;description=hypothetical protein;Name=Halorubrum_Sp_AJ67.transcript.66
+scaffold00015	v0.1bia_pap	CDS	81586	81837	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.66;Parent=Halorubrum_Sp_AJ67.transcript.66
+scaffold00015	v0.1bia_pap	gene	86173	86751	.	+	.	ID=Halorubrum_Sp_AJ67.gene.67
+scaffold00015	v0.1bia_pap	exon	86173	86751	.	+	0	ID=Halorubrum_Sp_AJ67.exon.67;Parent=Halorubrum_Sp_AJ67.transcript.67
+scaffold00015	v0.1bia_pap	mRNA	86173	86751	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.67;Parent=Halorubrum_Sp_AJ67.gene.67;gene_symbol_source=UniRef100_M0DCL1;GO=GO:0003824,GO:0016787,GO:0008152;gene_product_name_source=UniRef100_M0DCL1;EC=3.5.1.19;gene_symbol=C473_10353;Note=isochorismatase hydrolase;description=isochorismatase hydrolase;Name=Halorubrum_Sp_AJ67.transcript.67;top_cog_hit=[Q] COG1335 Amidases related to nicotinamidase
+scaffold00015	v0.1bia_pap	CDS	86173	86751	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.67;Parent=Halorubrum_Sp_AJ67.transcript.67
+scaffold00015	v0.1bia_pap	gene	88610	88741	.	+	.	ID=Halorubrum_Sp_AJ67.gene.68
+scaffold00015	v0.1bia_pap	exon	88610	88741	.	+	0	ID=Halorubrum_Sp_AJ67.exon.68;Parent=Halorubrum_Sp_AJ67.transcript.68
+scaffold00015	v0.1bia_pap	mRNA	88610	88741	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.68;Parent=Halorubrum_Sp_AJ67.gene.68;gene_symbol_source=UniRef100_M0DVF6;gene_product_name_source=UniRef100_M0DVF6;gene_symbol=C472_06185;Note=uncharacterized protein;description=uncharacterized protein;Name=Halorubrum_Sp_AJ67.transcript.68
+scaffold00015	v0.1bia_pap	CDS	88610	88741	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.68;Parent=Halorubrum_Sp_AJ67.transcript.68
+scaffold00015	v0.1bia_pap	gene	88901	89866	.	+	.	ID=Halorubrum_Sp_AJ67.gene.69
+scaffold00015	v0.1bia_pap	exon	88901	89866	.	+	0	ID=Halorubrum_Sp_AJ67.exon.69;Parent=Halorubrum_Sp_AJ67.transcript.69
+scaffold00015	v0.1bia_pap	mRNA	88901	89866	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.69;Parent=Halorubrum_Sp_AJ67.gene.69;gene_symbol_source=UniRef100_M0DVR6;GO=GO:0016740,GO:0016765,GO:0009058;gene_product_name_source=UniRef100_M0DVR6;EC=2.5.1.32;gene_symbol=C472_06180;Note=squalene/phytoene synthase;description=squalene/phytoene synthase;Name=Halorubrum_Sp_AJ67.transcript.69;top_cog_hit=[I] COG1562 Phytoene/squalene synthetase
+scaffold00015	v0.1bia_pap	CDS	88901	89866	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.69;Parent=Halorubrum_Sp_AJ67.transcript.69
+scaffold00015	v0.1bia_pap	gene	89879	90088	.	+	.	ID=Halorubrum_Sp_AJ67.gene.70
+scaffold00015	v0.1bia_pap	exon	89879	90088	.	+	0	ID=Halorubrum_Sp_AJ67.exon.70;Parent=Halorubrum_Sp_AJ67.transcript.70
+scaffold00015	v0.1bia_pap	mRNA	89879	90088	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.70;Parent=Halorubrum_Sp_AJ67.gene.70;gene_symbol_source=UniRef100_M0DTH5;gene_product_name_source=UniRef100_M0DTH5;gene_symbol=C472_06175;Note=uncharacterized protein;description=uncharacterized protein;Name=Halorubrum_Sp_AJ67.transcript.70
+scaffold00015	v0.1bia_pap	CDS	89879	90088	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.70;Parent=Halorubrum_Sp_AJ67.transcript.70
+scaffold00015	v0.1bia_pap	gene	93966	94826	.	+	.	ID=Halorubrum_Sp_AJ67.gene.71
+scaffold00015	v0.1bia_pap	exon	93966	94826	.	+	0	ID=Halorubrum_Sp_AJ67.exon.71;Parent=Halorubrum_Sp_AJ67.transcript.71
+scaffold00015	v0.1bia_pap	mRNA	93966	94826	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.71;Parent=Halorubrum_Sp_AJ67.gene.71;gene_symbol_source=TIGR02315;GO=GO:0005524,GO:0009898,GO:0015416,GO:0015716,GO:0055052,;gene_product_name_source=TIGR02315;EC=3.6.3.28;gene_symbol=phnC;Note=phosphonate ABC transporter, ATP-binding protein;description=phosphonate ABC transporter, ATP-binding protein;Name=Halorubrum_Sp_AJ67.transcript.71;top_cog_hit=[P] COG3638 ABC-type phosphate/phosphonate transport system%2C ATPase component
+scaffold00015	v0.1bia_pap	CDS	93966	94826	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.71;Parent=Halorubrum_Sp_AJ67.transcript.71
+scaffold00015	v0.1bia_pap	gene	94830	95666	.	+	.	ID=Halorubrum_Sp_AJ67.gene.72
+scaffold00015	v0.1bia_pap	exon	94830	95666	.	+	0	ID=Halorubrum_Sp_AJ67.exon.72;Parent=Halorubrum_Sp_AJ67.transcript.72
+scaffold00015	v0.1bia_pap	mRNA	94830	95666	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.72;Parent=Halorubrum_Sp_AJ67.gene.72;gene_symbol_source=TIGR01097;GO=GO:0005887,GO:0015416,GO:0015716,GO:0055052,;gene_product_name_source=TIGR01097;gene_symbol=phnE;Note=phosphonate ABC transporter, permease protein PhnE;description=phosphonate ABC transporter, permease protein PhnE;Name=Halorubrum_Sp_AJ67.transcript.72
+scaffold00015	v0.1bia_pap	CDS	94830	95666	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.72;Parent=Halorubrum_Sp_AJ67.transcript.72
+scaffold00015	v0.1bia_pap	gene	95666	96460	.	+	.	ID=Halorubrum_Sp_AJ67.gene.73
+scaffold00015	v0.1bia_pap	exon	95666	96460	.	+	0	ID=Halorubrum_Sp_AJ67.exon.73;Parent=Halorubrum_Sp_AJ67.transcript.73
+scaffold00015	v0.1bia_pap	mRNA	95666	96460	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.73;Parent=Halorubrum_Sp_AJ67.gene.73;gene_symbol_source=TIGR01097;GO=GO:0005887,GO:0015416,GO:0015716,GO:0055052,;gene_product_name_source=TIGR01097;gene_symbol=phnE;Note=phosphonate ABC transporter, permease protein PhnE;description=phosphonate ABC transporter, permease protein PhnE;Name=Halorubrum_Sp_AJ67.transcript.73;top_cog_hit=[P] COG3639 ABC-type phosphate/phosphonate transport system%2C permease component
+scaffold00015	v0.1bia_pap	CDS	95666	96460	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.73;Parent=Halorubrum_Sp_AJ67.transcript.73
+scaffold00015	v0.1bia_pap	gene	103648	103893	.	+	.	ID=Halorubrum_Sp_AJ67.gene.74
+scaffold00015	v0.1bia_pap	exon	103648	103893	.	+	0	ID=Halorubrum_Sp_AJ67.exon.74;Parent=Halorubrum_Sp_AJ67.transcript.74
+scaffold00015	v0.1bia_pap	mRNA	103648	103893	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.74;Parent=Halorubrum_Sp_AJ67.gene.74;gene_symbol_source=UniRef100_M0DAW6;gene_product_name_source=UniRef100_M0DAW6;gene_symbol=C473_10283;Note=uncharacterized protein;description=uncharacterized protein;Name=Halorubrum_Sp_AJ67.transcript.74
+scaffold00015	v0.1bia_pap	CDS	103648	103893	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.74;Parent=Halorubrum_Sp_AJ67.transcript.74
+scaffold00015	v0.1bia_pap	gene	103996	104334	.	+	.	ID=Halorubrum_Sp_AJ67.gene.75
+scaffold00015	v0.1bia_pap	exon	103996	104334	.	+	0	ID=Halorubrum_Sp_AJ67.exon.75;Parent=Halorubrum_Sp_AJ67.transcript.75
+scaffold00015	v0.1bia_pap	mRNA	103996	104334	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.75;Parent=Halorubrum_Sp_AJ67.gene.75;gene_symbol_source=UniRef100_M0DVQ7;gene_product_name_source=UniRef100_M0DVQ7;gene_symbol=C472_06130;Note=uncharacterized protein;description=uncharacterized protein;Name=Halorubrum_Sp_AJ67.transcript.75
+scaffold00015	v0.1bia_pap	CDS	103996	104334	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.75;Parent=Halorubrum_Sp_AJ67.transcript.75
+scaffold00015	v0.1bia_pap	gene	104407	104607	.	+	.	ID=Halorubrum_Sp_AJ67.gene.76
+scaffold00015	v0.1bia_pap	exon	104407	104607	.	+	0	ID=Halorubrum_Sp_AJ67.exon.76;Parent=Halorubrum_Sp_AJ67.transcript.76
+scaffold00015	v0.1bia_pap	mRNA	104407	104607	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.76;Parent=Halorubrum_Sp_AJ67.gene.76;gene_symbol_source=UniRef100_M0DCI9;gene_product_name_source=UniRef100_M0DCI9;gene_symbol=C473_10268;Note=uncharacterized protein;description=uncharacterized protein;Name=Halorubrum_Sp_AJ67.transcript.76;top_cog_hit=[S] COG3360 Uncharacterized conserved protein
+scaffold00015	v0.1bia_pap	CDS	104407	104607	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.76;Parent=Halorubrum_Sp_AJ67.transcript.76
+scaffold00015	v0.1bia_pap	gene	104687	104941	.	-	.	ID=Halorubrum_Sp_AJ67.gene.77
+scaffold00015	v0.1bia_pap	exon	104687	104941	.	-	0	ID=Halorubrum_Sp_AJ67.exon.77;Parent=Halorubrum_Sp_AJ67.transcript.77
+scaffold00015	v0.1bia_pap	mRNA	104687	104941	.	-	.	ID=Halorubrum_Sp_AJ67.transcript.77;Parent=Halorubrum_Sp_AJ67.gene.77;gene_symbol_source=UniRef100_M0PJW1;gene_product_name_source=UniRef100_M0PJW1;gene_symbol=C462_11553;Note=uncharacterized protein;description=uncharacterized protein;Name=Halorubrum_Sp_AJ67.transcript.77
+scaffold00015	v0.1bia_pap	CDS	104687	104941	.	-	0	ID=Halorubrum_Sp_AJ67.CDS.77;Parent=Halorubrum_Sp_AJ67.transcript.77
+scaffold00015	v0.1bia_pap	gene	109098	110276	.	+	.	ID=Halorubrum_Sp_AJ67.gene.78
+scaffold00015	v0.1bia_pap	exon	109098	110276	.	+	0	ID=Halorubrum_Sp_AJ67.exon.78;Parent=Halorubrum_Sp_AJ67.transcript.78
+scaffold00015	v0.1bia_pap	mRNA	109098	110276	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.78;Parent=Halorubrum_Sp_AJ67.gene.78;gene_symbol_source=UniRef100_M0F568;GO=GO:0008150,GO:0003674,GO:0005575;gene_product_name_source=UniRef100_M0F568;EC=1.3.8.1;gene_symbol=C467_10581;Note=acyl-CoA dehydrogenase domain protein;description=acyl-CoA dehydrogenase domain protein;Name=Halorubrum_Sp_AJ67.transcript.78;top_cog_hit=[I] COG1960 Acyl-CoA dehydrogenases
+scaffold00015	v0.1bia_pap	CDS	109098	110276	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.78;Parent=Halorubrum_Sp_AJ67.transcript.78
+scaffold00015	v0.1bia_pap	gene	113270	114076	.	+	.	ID=Halorubrum_Sp_AJ67.gene.79
+scaffold00015	v0.1bia_pap	exon	113270	114076	.	+	0	ID=Halorubrum_Sp_AJ67.exon.79;Parent=Halorubrum_Sp_AJ67.transcript.79
+scaffold00015	v0.1bia_pap	mRNA	113270	114076	.	+	.	ID=Halorubrum_Sp_AJ67.transcript.79;Parent=Halorubrum_Sp_AJ67.gene.79;gene_symbol_source=TIGR00222;GO=GO:0003864,GO:0015940,;gene_product_name_source=TIGR00222;EC=2.1.2.11;gene_symbol=panB;Note=3-methyl-2-oxobutanoate hydroxymethyltransferase;description=3-methyl-2-oxobutanoate hydroxymethyltransferase;Name=Halorubrum_Sp_AJ67.transcript.79;top_cog_hit=[H] COG0413 Ketopantoate hydroxymethyltransferase
+scaffold00015	v0.1bia_pap	CDS	113270	114076	.	+	0	ID=Halorubrum_Sp_AJ67.CDS.79;Parent=Halorubrum_Sp_AJ67.transcript.79
+scaffold00015	v0.1bia_pap	gene	115449	116021	.	-	.	ID=Halorubrum_Sp_AJ67.gene.80
+scaffold00015	v0.1bia_pap	exon	115449	116021	.	-	0	ID=Halorubrum_Sp_AJ67.exon.80;Parent=Halorubrum_Sp_AJ67.transcript.80
+scaffold00015	v0.1bia_pap	mRNA	115449	116021	.	-	.	ID=Halorubrum_Sp_AJ67.transcript.80;Parent=Halorubrum_Sp_AJ67.gene.80;gene_symbol_source=UniRef100_M0F7F7;GO=GO:0016787;gene_product_name_source=UniRef100_M0F7F7;gene_symbol=C467_10561;Note=NUDIX hydrolase;description=NUDIX hydrolase;Name=Halorubrum_Sp_AJ67.transcript.80;top_cog_hit=[LR] COG0494 NTP pyrophosphohydrolases including oxidative damage repair enzymes
+scaffold00015	v0.1bia_pap	CDS	115449	116021	.	-	0	ID=Halorubrum_Sp_AJ67.CDS.80;Parent=Halorubrum_Sp_AJ67.transcript.80
+scaffold00015	v0.1bia_pap	gene	114475	115350	.	-	.	ID=Halorubrum_Sp_AJ67.gene.81
+scaffold00015	v0.1bia_pap	exon	114475	115350	.	-	0	ID=Halorubrum_Sp_AJ67.exon.81;Parent=Halorubrum_Sp_AJ67.transcript.81
+scaffold00015	v0.1bia_pap	mRNA	114475	115350	.	-	.	ID=Halorubrum_Sp_AJ67.transcript.81;Parent=Halorubrum_Sp_AJ67.gene.81;gene_symbol_source=UniRef100_M0F759;GO=GO:0016020;gene_product_name_source=UniRef100_M0F759;gene_symbol=C467_10566;Note=uncharacterized protein;description=uncharacterized protein;Name=Halorubrum_Sp_AJ67.transcript.81;top_cog_hit=[R] COG1266 Predicted metal-dependent membrane protease
+scaffold00015	v0.1bia_pap	CDS	114475	115350	.	-	0	ID=Halorubrum_Sp_AJ67.CDS.81;Parent=Halorubrum_Sp_AJ67.transcript.81
+scaffold00015	v0.1bia_pap	gene	3297	3370	.	-	.	ID=Halorubrum_Sp_AJ67.gene.82
+scaffold00015	v0.1bia_pap	exon	3297	3370	.	-	0	ID=Halorubrum_Sp_AJ67.exon.82
+scaffold00015	v0.1bia_pap	tRNA	3297	3370	.	-	.	ID=Halorubrum_Sp_AJ67.tRNA.82;tRNA_anti-codon=TAC;score=72.57;Note=tRNA-Val;description=tRNA-Val
+scaffold00015	v0.1bia_pap	CDS	3297	3370	.	-	0	ID=Halorubrum_Sp_AJ67.CDS.82
+##FASTA
+>scaffold00015
+GcGaCGAACTGGTGGTGAAcTGCGCCAGCGACGCGAAGACCGACGTGATCGCCGCCCTCG
+AAGACGCGGGCGTCGCGGTCGCCGACTTCCACACCCGAGAGGCGTCcTtAGAGgACCTCT
+TCCTGGCGTACACGGAGGGAGACGCTGCGGAGCGCGACACCGACGCCTCCGACTCGACTC
+GGCCTGACGACGAGACCGCGGCCGAGGAGgTGGACTCATGAGCCTCCCCGCcGTCGCCCG
+CAAAGACCTTCGggAgACGGTCCAATCGCGCGGGATGATCGCGCTCATCGCGTTGTTCTC
+GCTGCTCGTCTCGGTGCTCGCGTTCATCGTTCGTCCCACGGGACAGAACGAGCAGTTCGC
+CACGGAGGCGCTGTtGAGTTtCTTCGTCGGCCCGGTCCTCGTGACGTACCTCGTCCCGCT
+GGTCGGCgTCGTCGTCGGCTACGGCGCAGTCAGCGGCGAGCGCGAGTCGGGGTCGCTGAA
+ACTGCTCCTGTCGCTCCCGCACTCGCGGGCCGACGTGGTGTTCGGGAAGGTCATCGGTCG
+CGGGGCGGCGCTCGCGCTCGCGGTGTTCGCCGGCTTCCTGCTGCCGGcGGCCGTGCTGAT
+CGTCGTGCCGGTCACGTTCAACGCCGGCGCGTTCCTCGGGTACACCGTGTTCGCGGCCGC
+GCTCGGCGTCGTGTTCGTCTCCATCTCGGTCGGCTGTTCGGCCGCCTCGTCGACCCAGTT
+GCGCGCGCTCATCGGTAGCATCGGCGTCTACGTGCTGTTCGTCCTCCTGTGGAGCGTGCT
+CACCGGCCGGCTCGTCGGAGCCGTCCCCGGTTCCGTCATCAACGCGCTCCCGCTGTCGGC
+GACGCAGATACGCGTGTTCCTTCAGGTCTCGAACCCCACGAGCGCGGTCGAGGTGCTGTC
+GAACGCGTTCCTCGGCGGACAGCTGTTCAGCGGCCAGCAGGCGAACCGGCAGCTCTCGGC
+GGCCGCGATGCTGGTCTTCTGGACCGTCGCCCCGCCGCTCGCCGGACTCCTGAAGTTCGA
+CGCGGACGACCTCTGAGCGGTCGCGACTCGCCGCGACGCCGCTCGCAGTTATTTTTCTGT
+GGCTATCGGAGGAGAGTTTCAATTAGGGGGGATCTCATCGTCGTCAATTATTGACAGCTC
+TAAATCAACCTGAATCTGCTCTGCCAACTGGCGAACTTCTACAGCATCAACCGTATTGGT
+TTTGAGATAGAGCCCGCTCTCATCATCCCATGCCTCTGTAACTCTATCGTATTCGAGAAA
+ATCCTCTGGGGCCTTACCAAAAGTATCTCTTATTAAATTCTCGGCGTTGCGAATCATCCC
+CACATTCGCCTTTTCTTCGGGTGTAGGACTTCTAACATAGAACTTCAGAACAGCGTTTTC
+CCTTAGTAGAGGAAGATAAGAAAATTCGTGTAGAAAAACCCCGATATACTCTCTTCTGTG
+TTCGACCCAGAGTGAGTCTAATTGTTCCAAGGATTCCCTCAGACTCGTACGCTTTTGAAA
+AATATACGTACTTATCCCGAGTCCGATTGTACCCAAAATCAGCAAAGTATTGAATGCTGT
+TAGAAGAGTCGAAGGAGCGACCATATTAAGAACATATATTGGCATTAAATAAGAGTTCTG
+TAGGAGAGAACCGTCACAGTGGGGAGTGGAGAACCCGCTTCGACCCCGTGGTGACATGGC
+TGTAGTGACGGCTGACGCACAGAGCGATTCGTCTACACAAGTGCTTCGGAAAGAGGCATT
+CCTATCACGTGAATCGCTCTATGAGACAGAGGTAGTTGAGGCGCTGTGGCGAGAAGCTAA
+GCGGAATCCGAAGACAGGGGGCCTCGTCAGTTTACGAATGTGCTGAGGTGTACAGAGCCT
+TTGACCATAGTCCCGCTCATACGTACGAAATCGCGACCGCACTAGATTATCACGGCGTCT
+GTGACGTAGACGATAGCAGAAGTAGCGCGGCGTTTCGAGATCGGTTGCGGTCTAAGGCGA
+CATTATAGAGAAACCGACCTTTCAGACTCCTCTGCCCGCTCAATTATCGCCTCAATTTTT
+TCTAGATCTTCTTCGTCATGTCTCCCGTGTTTATCTCGCCGCGCGACTCTCTCAACAATA
+GTCAATAAACGCGAGCGGTCGCTGTGGTTGAGCGAAACGAAACCATCTGGCTCCATTGCC
+ATCATGAGACTACCAAACCAGAACAAGTCTGGTATTTTCTCTTTATCCTCTTCTAGTAGT
+GCCTCAAGCCGTTCAATTAGCGCGCTTCTTTTTGAGGAATCTAACATATCTCCCATTTCC
+AGTAACTTAAGCGCCGCTGGAAGTTCCTCACGCAGCCGCTTCTCCTGATTACGGAGATTC
+TGATTTTGTTTCTTTCCTATAAATGTAAATAATATAATCATGAGCAGGAACATAGACGCG
+ACAAGTATTGAGCCAATAGTACCTGACCCAATATCTTGAATCGAAATATTCAGTTGCTCA
+GCGGTGATGATAAATACAGCTACAACGGCAAATCCAACAACAGAAAACAAATAAAGTCCT
+GAGAATACTCTATCCACTTTGTCGGATGTTATCAAGTCGTTGTTAGTGACATGTGAATTA
+AGAATGAGCTTGTAGAGTAGAAATACGAGAATTACCCCGAAGAGTACCGTAGTTGCGACA
+TTCAGCACGACATTGTTGAATAGATTGTTGAAGAACGCAGTGATATATCCCGCAAACAGC
+GAGAGAGCTACAAGAATCTGGATACGCTCTTGATGACGCTCTTCCCGTTCTTCCGACTGG
+CGTCTCAGCTCTTTGAGCAGAATCCCTGATTCAGAGGAATCACTGTCAGGCATATGAATA
+ATTAAATTCTGATAGGTTGTAAAATGTACCGTCACTACGGTGAAAGTGAAATTCAGAGAG
+GGCGCTCGCGTGAAAATGGCCCATCATGCCATGTACCCCCTTCCCCGCAAAGACCTAATC
+CTTCCACCGTGGGTCTTGAATCCGTTGAGACCGTGGCATGTTGAAGAGAGTGAGCGGGTC
+AACCGCACTGTAGTGAATGAAATTGAGTGAATTCCGTCCACACCAACAGCCGCGTGTCGC
+GCGCAGCGCGTGGAGACCTCGGCGGTCTACTTGGCGCGCATGTCTAATCCATATTCTGGC
+CTAAACGGTCGAAATATCTATGTGACTCACACGTTAGACTACGCGTGAGTACGGGACAGA
+ACGGGGGCGCGTCCACAGAATGCGTGGAATCAACGACGCTGAGCGGGTTAACGTATATAA
+GAAGATGTGGGGAACCCTCTCGCTTTCATGCAACTATGAGGCGTCCACACTGCGAATGGG
+CTCGGGCGGGTTCGAACCGCCGATCTCAGCCTTGTAAAGGCCGCGTCATAACCAGCTAGA
+CCACGAGCCCTCACCGGAACAACCCCCTGAGAGCGGAAAACGATTTCCTTCCGCGCCGCG
+AACCCCcGCCGTGAACCGCCGCCTcATCGGGATCGCAGGCgTCCTCGCGTGCGTCGTCCT
+CGTCGGCGTCGCCGTCGctGCGACGAACCCGACGCTCCTGATCGCCGgCTACGACACCgC
+cacggtcgggccgtcgACGGCGACACCGGCGAGTCGCTCgCGACCGCcGACGCCCGCGTC
+GCCGACagcGTCGTGAaGCAGTACGTCGGGCTCTCCGCGACCCCGGACcTCCCcGAAGGC
+gAGGGGATGCTGTTCGTCCACGGCGAGGAGGCGGAGCGCGCCTACGTGATGCGCGACATG
+GCCTTCCCGATCGACATCGTCTTCGCGGACGCGAACGGGACCGTCACGCGGATCCACGAG
+GCCGAACCCGAGCCGCGGCCGTACACGCGCtACgAGGGGACCGGCCGCTACGTCCTCGAA
+GTGCCGCGCGGGTGGAGCGACCGTCACGGCGTCGACCCGGGCGAtCGGCTGGTGATCGAC
+CGGGCGTGAGACCGCCGTCCGATCCGGAGTAAAGCCGCCGTTCGACCCGGAGTAAAGCCG
+CCGTCTGACCCGACGCGACCACCCGACGAAACCGCTTTCAGCGTCGCAACCGTCGCCTCG
+ACCATGACCGGACTCGCTCGCCGGATCGCGTGGAACCTCcGCCACcGCTGGCGgCGGGTg
+TTCGCCCTCTGTGTCGTCGGTTCCGGCGTCGCCGCCCCGATCCTCTCCGGCCTCTGGTGG
+ACCCTCCCACTCGTGTGGTTCTTCGGCCTCGTCATCGCGCTCCCGGTCCTCCACACGCTG
+GTGAAGCCGATCCCGGACGACGACGCCGGCTCCGAGAACGCCACCGGCGACCCCGCGCTC
+GACGCCCTCCGCGAGCGGTACGCCAACGGCGAGATCGACGAGCGCGAGTTCGAGCGGAAA
+CTCGACCGCCTGCTGgAGACCGAGGACGCCGAGACGGTCGATCCGGGGGACGGCGACGTC
+GCTGACAGGGTGCGTGAGGGGCTTCGCCGCGAAGTGGAACGGATACGCGAGTGAAGCGTC
+CCGTCcGGGCCGCTTCCGATACTCGATCGGTGCGCCGCGTCGGCCGTTAGTCGTCTATCT
+CTCGGTTGTGGACCGCTTCGCCGGAGTTCCCGTCGAAGAGGTGGATCGTCTCTTCCGGGA
+TCTCGATCGTGATCTCGTCGCCGGCcGCGACCTGCTGGAGACCGTCGACGGTGGCGATGA
+ACGTCTGGTCCTCCGGCGCGTCCTCGAACCGGAGGTACACGGTGTTCTCGTCGCCCATCG
+GTTCGACGACGTCGAcGACCGTCGAGAACGTGTGCTcGCCCTCGGCGTCGCCGGCAAGCG
+AGATGTCCtCGGGGcGgACCCcGAGGGTGAGGTCGgtCACgTCGCcgATGTCGtcGAGCG
+TCgACTCcGaGagCGGGTaGTCgAACAGGGGGCTGACGAGCGTCTCGCCGTCCcGcTGAA
+CGTCGAAGAAGTTCATCgAcGGGTCCCCGATgAACCCGGCGACGAACtGGTTCGCCGGCT
+CGTGGTAACACTCcAGCGGGgTCGCCACCTGCTGGAGTTCGCCGGCGTCTAGGATCGCGA
+TCCGGTCGCCCATCGTCATCGCCTCCGTCTGGTCGTGCGTGACGTACATCGTCGTCACGT
+CGAGGTCGTCCTGAAGCCGCTGGAGCTCCGTCCGCATCTCCGACCGGAGCTTCGCGTCGA
+GGTTGCTGAGCGGCTCGTCCATCAGGAACACCTCCGGGTCGCGGACGATCGCCCGCCCGA
+GCGCGACCCGCTGGCGCTGTCCGCCGGAGAGGTCGGACGGCTTCCGGTCTAACAGTTCGG
+CGATGCCCATCGTctCCGTGgCGTCGGTGACGCGCTCGTCGATCTCGCCgTCGGAGAGGT
+CCgTCGACTCTTCTAAGCcGAACGCCATGTTCTCCCGAACCGTCATgTGGGGgTACAGCG
+CGTACGACTGGAACACCATCGCGATGTCCCGGTGTTGCGGCTTCACGTCGTTGATGATCT
+TGCCGGCGAGCCGGATATCCCCGCTGGAGATCGTCTCTAACCCCGCCACCATCCGGAGCG
+TCGTCGACTTGCCACAGCCCGAGGGACCGACGACGACGAGGAACTCGCCGTCGCGCATCT
+CGATGTCGACGTCGTCGACGGCGACGATCTCACCGTCGCCGTCGGGGAACACCTTaGTCA
+CGCCGTCGAGTTCGAGCGTTCCCATGCTATCGCCCCcGTGGAACGGCGCGGCGGTTCGAG
+ATCGATGCGTGCGgTCGGGTACGTGGTTGCTGTCGAATCATGGATTGCTGCTGGCgAgAG
+GCGgCGATCACGTCGCCACCCCcTcGGCGAACTCCTCGCCGAaCGCGATGTAcACCgCGA
+GCGTCGGCAGGGCGgCGATGAACGCgCCCGCcATTCGGAGCGCGAAGTCCTGCCcTTCGA
+GCGACGTTCCCAGCCcGGCGAGGATCAACACGATCGGCGCGGCCGCGCTGGACTCCGTCT
+GGACCAaCACGAGCGTGAACAGGAGGTCGTtCCAGATCTGAGTGAACTGATAGATCAGGA
+CCACCGCGAACATCGGTCCCGAGAGCGGGAGGACGATCCGgCGGTAGATGCGGCGAATGG
+ACGCGCCGTCCAGCCGCGCCGCCTCGATCATCTCCTCGTTCATGTTCTTGTAGTACGACC
+TGAACAGGACGGTACAGATCGGCAGTCCGTAGGCCACGTGAGTGATGATAAGCTCGACGA
+TCCCCGTGTAGTCGTCGTTGATCCCGAGCCCCCACaGgAAGCTCAGCGACTCCTCAAGCG
+GGATCATCGACCAGAACTGCGAGAGCGGCACGAGCACCGCCTGGTACGGGATGAATACCC
+CGGCGACGAACAGCGCGAGGATCGGCGCTTTGTACCTCGGCTTCCAATTTGACTGCGTGA
+GCCCGTAGGCCGCGAAGCTCCCGAGCAGCGCCGAGATGACGGTCGCGGGGATCGCGTACA
+GCGCGCTGTTGATCAGTCCCCGGCCGAGCGCGTCGAACGCGGCCTGCCACTTCTCGAGGG
+TGAACGTACTCCCCGTCGGCGGCGTGAACGGAAGCGACCCGCTGACGCCGCTAGGGGTCT
+TAAACGAGGTGACGAGGCCCGATTCGATCGGGATCAGGAAAAACGACAACATCCCGAGCA
+GGCCGAGATACAGCAGGGCCCGGTACCCGTCGATCCCGGAGAACACCCCCGCGGATGCTC
+CTGGGTCCGCTTTCGATACCGCTCCTCCGTCGGTTCGTGTGTCGTCGTTCATAGGTTCCC
+TCGATTGTACTGGTAGTAGAGGTACGGACCGACGATACCGAGCGTCATCAGGAACAGGGT
+GATAGCGATCGCCGACGCGTACGCCCAGTTCAGGTTCGCGTACGCCTCACGGACCATCTT
+GGTCGCGAGGATGTCGGCCCcGTTCGGTGGCCGGTAGCCGCCGACCAGCGAGTACAGGAA
+GTCGAACGCCTTCAGCGCGAACACCATCAGGACGACCGACGCGCTGATCGTCGACCCCTT
+CAGCTGGGGGATGATCACGCGCCAGTACATCcGGATCGTCGACGCGCCGTCGACCTTCGC
+CGCCTCGTAGTGTTCGTTCGGGATGGCCCGCAGGCCCGCGAGGTACACGACCATCGcGTA
+CCCCGCGAACTGCCACATCAACGCGAACATCACcGCCCAGAGGACGATGTCCGGGTTCCC
+GATCCAGTCGACCCGGCCGAGCCCGAGCGACGTGATGACGATGTTGATGACGCCGTTGTT
+AAAGTTGAACATCCACGCCCAGAACTGCGCGGTGACGACGAACGAGAGGCTCATCGGCAG
+CAGGTAGATCGTCCGGAAGGTGTTCTCGAATCGAATATTCCGGTCGACCAGAATCGCCAA
+CCCGAGCCCGAGCGCGAGCGTCACCAAGGTGAACCCGACGAGGAGGACGAAGGTGTTGAC
+CGCGGCGTCGACGAAGCCGCTCTCCGACAGCGCGCGGCCGTACATTTCGAGGTCCAAGTC
+GCCGTATCTCGGGTTCCCAAAGCCGGTGAAGTCCGTTAGCGATATCAGGAAGTTCCAGAT
+GATCGCCCCGTAGACGAACAGTCCCACCAGCAGGAACGGCGGGAGCCAGAACTGCGACGA
+CCCGACGAAGTCGCTGCCGAAGCGGTCGTTCAACGCGGTGATCGGACTGAATCCCGAGCC
+CTTCCGGTCCTCGGCGACGCCGCCGTCCGTGACTGCGTCGCCACTGTCGTCACCGGTGTC
+AGTGTTCCGTGTCATATGGTTCGTCGTGTGCCGAAACCGCCGAAATCCGGTCGCATCGTG
+GACCGGAGTTAGTTGGAGACCGCGTCGACGAAGCCTTCGGTGGCGGCGTCGACGTTGTAC
+GGTCCGGAGAACTCGCTGGAGATCACGTCGTTCAGCGCCGTCATGGTCTCCGAGGGGACG
+CCCAGCCCGTGCTGGAGGTTCGGGGGACGCTCCTCCGCGTTGGCGAAGTCCTCCTGCGTC
+TCCTGGAGGTACGGGCCGAACTCGCTCATGTCGACGTCGGTTCGCGTCGGGATCGATCCC
+TTATACTGGTTGAACGCGACCTGCGCCGCCTCGCTGCCGACGAACGCCATGAACTGGTCC
+GTCGTGTCCGGCGTCGGGTTGTCGGACGGGTAGAGGAACGAGTCGAAGTGGAGCATGTAC
+ATGCCCTCCGAGCCGGGATACGTCTTGAAGCCCCAGTCCTCGTCGTAGTTGAAGTCCTCG
+GCGTTCCGGTAGGCACCGGCCGCCCAGTTCCCCTGGTGGATGAACGCCGCGTTGCCCTCG
+ATGATGTTCTGGTTGGACTCCGTGAGTCCGATCGAGGACGCGTCGTCGTTGATGTAGTTC
+TCGAGGATCTCCGCGAGCGACTCGAAGGTCGCACTGACCGCGGCCTCGTCGGGGCTCCCG
+TCGAGGAAGTTCATGTACGCCTCGTACCCCTCCTGACCGAGCATCGTCGAGGAGAACAGC
+TGGGTCGTCGTCCAGGTGCCGCTCAcGCCgTGGGTCATCGGAATCGCGTCCGTCTCGTTC
+TGGACCGTCTCCAGCGCGTCGATGAACGCGGACACGCTCGTCAGCGAGTCGGGGTCGACG
+CCCGCCTcTtCGACGACCGAGGTGTTGTAGAACAGGCAGTTCAGTCGGTgCGAGCCGAGC
+GGGACCGCACGGTACGCGCCGTTTCGCTGGTGGAGATCGACGGCcTCCTGAACCATCACG
+TCCTCGAAGCCTTCCTCCTCCCAGACGCTACCGACGTCGCCCAGGACGCCGTCGTAGCGC
+TGGAGGTTCGGGCCGGGCCAGCCGGCAAACGCGCTCGGCGGCTCGTTGTTCTGGAGCCGG
+TTCGCGACGACCGCGTCGAGGTTCTGGTTGCCGCCGCCCCcGATCGGATTGAACTCGTGT
+TCGATGTCGGGATACTCCTCCTCGAAGGCCTCCACGAGCGCTTCCGCAGCCGTCGCGCCG
+TCGCCGCCGGTCCACGCGTGAAGGACCTCAAGCGCACCTTCTCCCCCGTCGCCTCCGTCG
+CCGCCGCCGGAACAGCCGGCGAGACCCGCGAGGGTTGCCGCCCCAGTCGCTCCGACGAAG
+TGTCGCCGCGATAACCGCTTGTCTTGGTCTGTCATGGTACTTCACGGTAGACAATGGACG
+ATTGGCATATATACTTACTCATTACTCTAGAACAATTTCTAAAACGCCGTCGACCGCCAT
+GAATCGGTTGTATTCCTCCGGTTTCCGTTTTCGGACGCGCCGGGACTGCGGGGGCATCGA
+CGCCGGATCGAGAGAGATACCGACGCCGGATCGAGAGAGATACCGACGCCGGATCGAGAG
+AGATACCGATGCCGGACCGACGGGCATACTACGGTCCGGCGGATGGGCACACCCATGCGC
+CCCTCGATCGCCGCGGTCTCGTATCCGGTCGCCGGCGACGCCGCGGAGCGGCCGCTCCTC
+GCCGTCTGGCTGCTCCTCGCGCTGTCGGTCCTCGTCCCGGTCCTTCCGGCGGTGCCGGTC
+GTCGGTTACCTCGTCCGCGTGTTGGCCGCCAGCGAACGCGGCGACTCCCTCCCGCCGTTC
+CTCGCCGACGGGCGGACGCTTCTCCGCCGGTCGCTCGGCGGACTGGTCGTCTGTCTGGCG
+TTCCTCGGCGTCCCGTTTGCCGCGCTCCTCGTGACCCTCTACGGTGTCATCACGCTCGAA
+CCCGGCGCGGACGCGCCGGTCGTCGTGATCCTCGCCGGCTCGACCGCCGTCCTGTTCATG
+GGGATCATCGGGCTCTATCTGGTCCCGATCTCACTGACGACCTACGGCCGGCAGGGATCG
+CTCCGACGGGCGTTTTCCACCGACTCGCTCCGGCCGGTAGCCGGCCACGCCGCcTACTTC
+TTCGGGTGGACGCTCGGGTTCACCGCGCTCGTCGTCACGGTCGGCGTCGGCGGCGCGCTG
+TTCACGCTCTCTCGGATCGGACCGCTCGCCGGCACCTTCGTCCTCGCCTACGGGCTCCTC
+GTGACCGCGTACCTCTGGGGGCGGgCCGTCGAGCGCGCGAGACGGCGgTGAGGGGCcGCC
+GTGACCGACCGATtCTTGGCCGCGCGGTCCCGACGTACCGGTAATGCAGGGACCGcTGTG
+GATAGACaCGCACGCGCCGGACcTCGACGAGAtCCGgCAGgACgAGgCCCGCGACCGCCT
+GcGTcGGgCCGTCGACGAGCCGATGAACCTCGTCGTtCAGGgaCCgCCGGGGGTCGGGAa
+GACGGCGGCGGCACGGGCGCTCGCCGAcGCCTCCcACGCcGACCCCGAGGCCGATCTGAT
+CGAGATCAACGTCGCCGACTTCTTCGGTCGGACCAAAAAGGaGATCCGGACCGACCCGCG
+GTTCGAGGGGTTCCTCGAAGGCCGGAGCCGCATGGCGAAACGCGACATGATAAACCGCGT
+GCTGAAGGAGTCCGCGTCGTACGCGCCGATGTCCGGCGAGTATAAGACGGTCCTATTGGA
+CAACGCGGAGGCGATCCGCGAGGACTTCCAGCAGGCGTTGCGCCGCGTGATGGAGAAACA
+CCACCGGACCACGCAGTTCGTGATCGCCACCCGCCAGCCCTCGAagCTCATCGCGCCGAT
+CCGGTCGCGCTGCTTCCCGGTCCGCGTCCGCTCGCCGACGACCGACGAGACGATCGACGT
+CCTCGAAACGATCTGCGACCGCGAGGGCGTCGACCACGACGGCGACGGGCTGGAGTTCGT
+CGCCAGCGCGGCCGGCGGCGACCTCCGCGAGGCGATCCTCTCCGCGCAGGCGACCGCGGT
+CGAGGGCGACGAGATCACGATGTCGACGGCCTACGAGACGCTCGGTGAGGTCGGCGACGA
+CGACGCGCTCCGCGAGGCGCTCGCcGACGCCCGTAACGGCgACcTgAaGGACGCGCGGTC
+GACGCTGGACGACCTCCTcGACGAGGGCTaCGACGGGCAGGAACTGCTCCGCGAGACCCT
+CCGGGTCGCCCGCGCCGGCTCCGAGTAcGGCGgCgACGACCTCgCGCGgCTCCACGCGCT
+CGCcGgCGAGgCcgaCcTCGACcTCtCcGaCGCcTcGACGNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNcGTtGATCTCTGCTCCAGTCTCGTTCAGgATGAGCGCAGCGTAAACGTATT
+CCATTGgTGTGTACcTCGTGTTATCcGAaCATCGCGCCGAGTCCCTCGCCGCCGTCGTCG
+CCGTCGTCGTCGTCGGCGTCGTCGTCGGTGGTGTCCTCGGCGTCTTCCGTCTCTTCGTCC
+GCCTGTTCCTCCTCCGCGTCGGCGTCGTCGGCCGGCTCCGTCGCCGGCGCGGTCTCGACG
+CCCTGGAGCTCCTCGGGGAGCGCCTCCTCGTCGTCGATCTGTGCCGCGAGCGCGCGAAGC
+TGGGCGTCGGCCTTCCCGATCAGGTCGGGCACGACGTCCGGGCTCTCGATCTCCGCGAAC
+AGGCCGACGGACTTCGCCTCGCCGGACGCCTTCgCGAGAaGGgTGCCGgCGGTGGCGgCc
+GTCGgATACGCGgCGTTGACCGAGAGGTTGCGCGCGGCGGCCGCGGCGGACTGGACGTCC
+GCGCGGTACTCGTCGACGTCGATTTCGAGCTTGTCCGGCTCGAACAGGACGCCCTCGGAG
+TAGACGGCgCGCAGGTCCAGCCCGACCTCCTTCGGCTCGATTCCGAGCTCGACGAGGACG
+TTCGCGAGGTCGGCGTCGACGACCTCGCCcTCCGTCAGCACCGTCGAGTCCTCGGTGACC
+TTGATCGAGCCGTCTTGGATGCGCGCGGCCGCGCCCACGGTCTGGAGCTCGCCGACGAAC
+GGTCCCGGGTCGACGCCGGTGTCTCCCTCGGGGATCACGATGTCGTTGGGAGCCACCTCG
+CCCTCGTTGATCGGGgCGGGGGTCTTCGAGGCTTCGAGCTGCTTGAAGAGGCCGAACGGG
+TTGTCGTTGGTGCCGACGAGCGCCACCTGACCGCTGACGAACTCCGTCAGCGCCTCGACC
+CCGTCGTTGACCTCCTCAAGGGCTCGGTTCGTGAGCGTGTTTCGGCTCATGCGGACGGCG
+GCCGAGCCGTGAAGCTCCCGGCGCATGGCCTGAAGCTGGCGGCTCGGAATGCCGGCCACG
+CCGACGATCCCGACGGAGTTGTACGAGTCGATAAAGTCGACGAGTTCGTCGACCTCCTCG
+CGTTTCCACTCGGGGATCGTCTCGGTCTTCCGGACCGAGCTCATACGGGCACCTCCTTCG
+CGGGACCCATCGTGGTCTTCACGTAGATCCCGTCGATGTTGAGCGGCCCCTtCtCGAGGT
+CTGCTTCGAGTCGTCGGATGATGACGTCGATGTTGTCCGAGATGTCGTCGGCGCTCATGT
+CTTCGGCACCGACGCGGGTGTGGAACGTGCGCCGGTCGCGCGACCGGAGCTGCACCGTGT
+TCTTCATCCGATTGACTGTGTCGACGACGTCATCGTCCGGCTGTAGTGGGGTAGGCATCT
+TCCCGCGCGGACCGAGGACGGTACCGAGGTACCGACCGATGTCCTGCATCAGGTTGGCCT
+CCGCGACGAAGAAGTCGGTATCGTCGGCCAGGTCCTTTGCGCGGTCGTCGTCGTCTCCGA
+GGTCTTCGAGGTCGTCGCTGTCGAGCACTTCGTCAGCGACCTCCTCTGCGCGGACGGCGG
+TTTCGCCCTCCGCGAAGACGACGATCTGTGTCTCCTGCCCCGTTCCAGCCGGCAGCACGA
+TGGACTCGTCGATACGGTTCGACGGATCGTTGAGGTCGAGATCTCGCAGGTTGATCGCGA
+TGTCCACGGTCTCGCGGAAGTTCCGCTCGGGCGCATCGTCGAGTGCGAGGGTTACGGCCT
+CTTGTATTGTGTCTGCCATTTTCACCTCCGTAGTACGCAGgTCGCTCCTACGGGTCAGTG
+AAaCAGGCGAAGCCTGTCTCATCGGAGAGTGGTTCATCGgAGGTTTAAAAGCGTCGAACC
+GCTCGTCCGCGTGCGAACCGAAGaCAGGGCCTGTGCGGGCGGTCGAGGGCGAGAAGTTGC
+GGCCAGTGATCGAGGCTAGGCCGTCGAgACcGGGGGCCGTGGGgCGAGGTCGACCGGCTG
+CGACGGCGATTCGACGCGCGTCGAAGCCGAAAACGTCGGATAGGGGAACCCTTTtgACGG
+CGCTgTCcGACCCACGaGGTAATGACGCAGGGtggTccGCcGTGACGAtggacgaccgca
+tcgaagacctccgcgngcgccgcgancgggcgttcaagggcgggagtcgtggagggcaag
+gcacacagggggataggagNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNCGCGACGAGCTGCTCGcGGCGCTGGaGGCCGCCGTCgAGGAGCGCGTCGC
+CGAGGGTCTCCCcTtCGAGTTAGCGGCCGATGAGGGGATCGGTgAGGCgCTCGAATCGCG
+CGTCGCCGACCTCAGGCGGCTGCTCTCCGAGCGTACCTACGCGGAGCCGCCCGACGTCGT
+CGCGCCCGACCTGTTCCCGCCGTGTATGACCAACCTCATCGAGAAGgCCGAGCGCGACGC
+CACGCTCTCGTCGGCCGAGTCGTTCGCGCTGATGGCCTTCCTCGTCGGCATCGGGATGAC
+GCCCGACGAGGTCGTCGCCTTCTGTGCGGACACCAGCCTCGACGCTGAGGGGATCCGCTA
+CCAGACCGAGTACCTGACGGATGACCGGGGCACCCAGTACCCGCCGCCGACCTGCGAGAC
+GCTCGCGAACTACGGGATCTGTCACAACGAGGACGACCACATGCAGGTCGCGGCCGATCC
+GCTCTCGTACTACGAGAAACAGGTGGCCGCGGCCGACGAGGTGACCGACTGGCGGGCCGG
+TCGGGAGCCGGACGAAGCGAGCGAGGCGTGAGTTTGACGCGCCGCTGCGGCCGCTAATAC
+CGGAGAAACGGGACGAACCGCCTAGGACTCGTCGTCCGCGCGCATCAGATACGTTCCGAC
+GCCGGCCATCAGGAGGACGAACCCGGCCAGAAGCGCCACGAGCGCGAGCGCGCCCGCTTC
+CGGGAGGACGGTCGATCCGCCGAAGGTGACCCCGATGCCGACCAGTCCGACGATGAACAC
+CGCGGCCGCCGCCAGCGAAACGGTGATCTGCCGACGGAGTTCCGCGTCGATTTCCATGGC
+TGCGGCTTCCCGTCGCCGCTAAAAAAGGACTTCGATGGGCACTCCGGCCGTCCCCTCACT
+TCGCTAGGTGCGTGATGTCTCGCCGCAGGTTGTACCCGCGCGGAACGCCGACGATCCCCA
+GACACTCGTCGCAAAGCACTCGCTCGTAGTCTCGGTTGGTCTCTTTCTCCAACAGGGAGA
+CGTCCGCGAGCGGAAACACCGACTCGCACCGATCGCACTCCGCCTTGTCGCCGTCGACGA
+TCTTCATCGCTTCCCCGTTTCCGAGATCGACACATAAACTCGCGGACGGCGTTATCACTC
+GGGATAGCGAGATCCGaTAAAAAATCGGACGGTCGGTCGACCCGgTCGGGgTCCGAGCGG
+TCcTCcGGCGTCAGCCGAaGAGCTcGCCGAGACCCTCGCCGCCGTCGCcTTCCTCTTCGT
+CGTCGTCcGCCTCGTcggcggcctcggcctcttcgNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNTCGCGACTGGGGATTCAGgAGTGTTCGTGTCGATCGACGGTTTATAAACAGATCCAC
+TCCTGTACAGCCGAGCGACTGGGACTTCGGGAATGTTCGTGTCGATCGGCGACTTATAAG
+CAGACTCGTATTATCGAGGAATTTCTGTTCGGAAAAAaTTTCACAGAGGAAAaTAAACGG
+CCGGTATGCCCTCCTCGCGTCGCGTCGTTGAGGCGTGGATCGCGCTCTGTCTCACCGTCG
+GACAACTCACGTCGTTTGCCGTCCGAACCGCGTCGTCCGTCTCGCCGACCGTCGAAGGAA
+TAGCCGGATTCGGCGCTCCGCTCGCCGTCGCGCTCGGCCTGCTCCGACTGCGTCCCGAAC
+TGGACGTCGGACGGCTCTGGCGGTTCGCGTTCACCGCCTGGGGCCTTCTCATCCTGATGA
+TGGTCGCCTCGCTCGGCGGCCGACTGATCGGCGTCTCCTTCGACGCGTACGAGTCGTACT
+CGTTCCCGCTCGCGGTCGCCGTCGCACTCCTCATGGAGCCCGTCTACGAGTCCGGGGCGC
+TGCCGCGGACGTGACCGCCGGGTCCGGCGTTCGCGGTCGAACGAGCCGCCCCCGGTTCCC
+GATGACCGaCGGgATTTAaCCGACCGCCCGAAAAGGAGGGTACATGGAGCCGGTCGACGA
+CTGGCGCGCCGCGATCACGGAGGCCGGAGAGCTGACCGGCCCGATCGCCGCGAGCATCGT
+CGACGAGCACGGCGACCGCGGGCAGCGCGCGATCGAGGCCGTCGGCGAGAGCCGCGTGAA
+ACAGTACCGCGACTTCACCGTCGTCGTCGGCCACGAGGACGAGTACGTGATCGAGGACGG
+CGAGTGCGACTGCGCGGACGCGACGTACAACCTCGACCCCGACGACCCCTCCGAGCGCTG
+CTGGCACGCTATCGCGGTCGACGTCGCGGAGGCGATCGACGCCGTCGACCACCACGACAT
+GTGGTACTCCGAGGTCCGCGAGTTCCTCTGAGACCCCCCcGacGCGCGCTCCCcTCcGTT
+CGCGCGTTTCCCGctGCTTCCGcGTTTtCCGCCGTCTGCGCGTCTCCCGCCGTTCGTGCG
+TCTCCCGCCCGTTCTCAGCAGCCGCCGCTCGGCCGCGTGAACCGGCCGTTTTCGCAAATC
+TCGGTCTGAGAGTCGAAAACGTTTACAACGGCGGCCGGTCTCCCCTACGGTATGGCGGAC
+TGTCCACTCGCCGACGACTGCCCCAGTTTCGACGAACGAATCGAGGGGATGGGGTGTCAA
+CACTACGGCAACAAAGGCGGCGCGGagTGGTGTAACCACTACGACATGCCGATCTACGAG
+CTGAAACAGCAGCCGGTCCAGCCCGGCGAGGTCGTCACGGTCGAGGTCGACGACATCCAC
+GAGAGCGGGGCCGGCGTCGGCCGCACCGACGACGGCTTCATCGTCCTCGTcGACGgACTC
+cTCCCCCcGgcGCGCGCcGAGGTCAAGaTCCACCGGgTCAAATCcAGCCACGCGACGGCG
+CAGGACGTGGTCGAGCGCcTCCCcGACgACccGGACGAGGAGGCCGACGACGACGAGGCG
+GTCGGCGCGGACGACGGCGAGGTCGACGAGGACGACGACgaGGaCcaCCGTCGTGAccGC
+CcGGACcGCGAGCgaCTCGGCAGCcGcGAGAaCTTCTGGGGGgAAGTGACCGGCGTCTCG
+GGGTGACCCCcACCCcACGgACAgTCcGGaCgCcGgcgaTtgCGACGCGAACGCgaCTAA
+AaTtCtaGCcGCCcAcTaCgACgtAGTCGTTGCCACggACACgaccgccgaagcccccag
+ccgttgaggcgggcagacgcttcgctgccgcgccttcaactcgttcgcttcgactcactc
+gttcagtgcttacgtNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNGCGtcgAGCTcGGga
+CcGtcGtcgCcGTcGACgAgTTtGCCcTcGCCGTACGCGTGGACGGTcgTCCGgATCGGG
+ACTCCCGAGGGGAGCCGCgCgAGGGtGAGgCTGCGGCtGGTGTGCATGTGTCcGGCTCGg
+TCCGGCtCGGGGTTATACCTCGGGGATGCGGTCgCGCgACGGGGGCCgTCTCGACGGGCG
+ACCGTCCCGGTCCGACCGCGGACGCTAAGGCCGTGgCCCGTCCACCACGTTCCATGCGCG
+TCACCCTGCTCGGGACGGGCGACACgACCGGGACGCCGACGGTCGGCTGCGACTGCGACA
+CCTGCGTTACGGCCcGCGAGCGCGGGgTGTCGCGGTCGCGCTTCTCGGTCCACGTCGAGA
+ACGAGCGCACCGGCGAGTCGCTGCTCGTCGACTTCAGCCCCGACTTCAGAGGGCAGTTCC
+TCGCGGCCGACGTTCCCCTCCCGGACGCCGGGCTGGTGACGCACATCCACTTCGACCACC
+TCGACGGGCTCGGCAACGTCTACCGCCTCGTCGAcGGCCTTCCGGTCCACGCCCCGAACG
+AGACCGACCCCGCGACCGACGAGAGCgTCGCGGAGACcATCCGCcGCAAgTACGACTaCC
+TCGAAGACCGGATCGgCGTCCACGCCCGCGACCCCTTCGAGCCGTTCGAGACCTGCGGGT
+TAcGGGTCCGGTTCGTCCCCGTCGACCACCCGCCGCTCGTCTGCTaCGGCGTCGTCGTTG
+AGGACCCGGAGACGGGCGCGAAGCTCTCGCtcACCGGCGACACCAgCTACGATGTCCCGG
+AGCGCTCGCGCGAGgCGCTCGCcGACCCCGACCTCcTGCTCGCGGACGCCATCGTCTCCG
+CcTCGCTGTGCGAGCACCACCcGATCGGcGGGCgTCACgaGGGTCCCgACGGGGTCCCGC
+GCACCTTCGGCACGAAACACATGACCCGGGAGGGCGCGCTCGCGCTCGCCGACGACCTCG
+ACGCCGACCGGACGCGGCTCGTCCACCTCGCGCACTTCTACCCCGCCGACGAGGCGTTCG
+CGGAaCCGCTCGCGGTCGACGGCGAAGTCTACGAGCTGTGAGGAGCGACGACCTTCCGAA
+CTGTACCCTTTtGCCTCGGTAGCACGTACCAGACGCaGATGGCCGCGACGGACCGCCTCC
+GCGCCGCGACCGATCGACTCCACGcTGCGCTCGACCGGCTGGAGCCGCCGCCGCGCGCGg
+TCgACTGGTCGCTGTTCGCGTTCGTCGTcGCcGAGGCGACCACCGGgCTGGTCTCGTtCA
+CCGTCGGCGTTCCCGAGGGgTGGCCGCTGTtCtGGCTCCaCCGGTCGCTCGGGGTCGGAG
+TCGTCGCGCTGCTCGGGTGGAAGCTCGCgCGGGTCcgCCGCCGAAtCACCGATCCCGCCc
+TGTGGcGGCGGTCGACCGCGCTgtCCGTCCTcACCCTTGtCgCCGCGGTCGgCGCGCTCG
+CgACcGgggTCGCGTGGGTgTTCGGTCTCGACGTGCGGCTCTCCTACTGgACGCTGCTCT
+CGGTCCACGTCGGGTTCGGTCTCGCgCTcGCCCcGCTCGTGGCCGCGCATGCGTCGACCc
+GCTTTCGAcTNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNCCGGGCGGAGTACGACCTCGGCCAGT
+GGGTCGTGACGCTGGTGAGCGGGTTCGACTAACcGACTCAGACAAAGTCGACGATGAGTC
+GATCCGTGATCCCGTCCACGTCGAAGTCGGCGTCGGCCACTGCGAGTCGTTCGCCCCGAA
+GCGCGGCGACGCCAGCGATGTACGCGTCACGGGCGGCGAGCGGCTCGCCGGTCGCTCGCA
+GTTCGTCTTGAAGAGTCGCCGCCGCCCGAGCACTCGCCGCCGACGTCTCGACCACGTCGA
+CCCAAGTCAACGCCTCGTCGATCGCGTCGAGATCCGTCGCGCCCGTCTTGAAAaCTTCTC
+CCTGATACACCTCAAaCAGTAccagCGgCGGGgCGACcGCCCGCTCGTCGGCGTGTAACT
+CGACGTATTCGACCGCGGCGTCACGTCCCGCGAGGTAGTCGATGAGGACGCTACTATCGT
+ACAGCGTCACCGCGAGTCAACCCCGCGTTTCATCTCTCGACGCTTGGCTCGCGCACGTTC
+CGCCGCATCGGTCCCTTCCCATAGGCCAGCACCCGAGCGGACGTTTTCACGACGTTCGCG
+GAGCAGCCGCGTCAACAGCTCGTCGAACGTCTCGTCGTCTCCCTTGAGCGACGCGAGCGC
+GGCGTGTGTCTCCTCGTCGACGCGGATGCTCTTGCTCATACAGTTTCGTATACGTCTCTG
+TATACAATATCGTTTCGCCGGTCGACGCGCTCGTCGCCCGATGTTACTCGTACTCGCTTC
+CGACGACCTCGCGGATGCGCTCCGCGGTCACCGGACCGACGCCGTCGACTTCGAGCAGAT
+CGTCCTCCGGCGCGGTCATCACGGCCTCGACCGTGCCGAAGTGTTCCAGCAGGGTGCGCG
+CGGTAACCGGCCCGATGTCCGCGATGGAGGAGACGACGTACTCcTGCTGTTCCGCGCGGG
+TCTTCGTCGTCTTCTCGCCGTGGACGCTCACCTCGCGGTCGCGCGTCTCCTGCTCGCGCT
+TGGCGACCGTCGCGAGCAGTTCGgTGGTGTCGtcTtCCCCTTCGGTGCGgAGGACACTCA
+CGTCGAAGTCGACCGCGAGCGACGCGAGCGCGCCGCGGATCGCgTTGGGGTCGATGTCGC
+GCTGGCcGTAGAGGTTCGTCCCCTCGACGACCATCACCGGACGGGCGTACGCCCGCGAGA
+GCTCGCCGACCTGCTCGAACATCGAGCGGTCGGAGTCGAGCATCGAGTCGACGAAGTCGG
+CCGCGGACTTGCGCTCGACGGCGACTCGGTCGGAgAGCACGTAGTCGCCGACCGCGAGCG
+TCTCCAGCCGAGTGACGAGGCCGTCGCGCGTCGAGAGGTCCTTCGCGATCGCGGAGTCGA
+GCtcGCGCTGGTCGACGACGACCTCGACCCCCTCCTCGACGCCGGCGGTCGCGACGACGC
+CGTCGGTCTTCTTGTCGGTCGCCTCGTCTTCGTCGGTCGGCTCGTCgcTCTCCGCTCTGT
+CGccctccGATCCCTCTCGGGCCTCtGCCGCGAagTCGGTGAGTCcGGCGTCGTcGCCTG
+CGTCGCCGTcGCCGccggattcctcgaccgcctcggtNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNgacccggtcc
+cgggttccggtttccttttcgtttcgggttccgggtcccgtcccgttccgtttccgtttc
+cgggttccggggtccggtccgttccggtccgtccttcccgtcccgtccttcgttcggtcc
+ccgtcccccGTACCGTACCCttccccTTCCGGGTCccgggtcccttcgtccggcccggaa
+cggtaaCgggttcgggtaggtaccgggtccCGggtccGGttccggtcccgtccgtcggtc
+cggtcccggtcccggtcccggccccgggaccggttacctttcccgtacccggaccccgtc
+ccggttccgggtccggtccggtacccggacccggcccggtcccggttccgggtcccggtc
+ccgtaccccgggtaaccccggtacccgtccgttcggtagtaccctcccccgAGAACGCGT
+CTAGCCCGGCcTGCCCGTCGTCGCCGACTGTgTCCTCGATGTCGTCGgTGGCCTTCTtCA
+GCTCGGCGAGCTGGCTGGCCATCTCCTtCTCGCGgCGGCGCGAGATCCAGAaGAACGCCT
+CGTCGCGGGTGTCCTCGGCCATCAGCACGACGACCTTCCCCTCGGCCTGCCGCCCGGTCC
+GACCCTTGCGCTGGATCGACCGGATCGCGGTCGGCACCGGTTCGTAGAAGCAGACCAGAT
+CGACCTCGGGCACGTCCAGCCCCTCCTCGGCGACGCTCGTGGAGACGAGAACCTCGAACT
+CGCCGGCCTTGAACGCGTCGAGGGTCTCCTGTTGCTGTTTCTGGCTCATCCCGTCGGAGC
+CCTCCTTGTCGCCCTGTCCGACGAACTTCCGCACGTCGAAGCTCGCGGAGAGGAACTCCA
+CGAGCGCCTCGGCGGTGTCGCGCGACTCCGTGAAGAGGATGGCGCGTTCGCCGCCGTCGA
+TGCCGAGCGTCTCGGCGAGCAGGATCCGGGCCTTCGAGAACTTCGGGTGGAGGCCGTCGA
+ACGACTCCGCCTTCCGCATCGCCTCGCGCACCTTCGGGTCCGCGACCATCCGCTGGCTCG
+CCTTCGACGCGCCCGAGGAGCGGGCGGCCTCGCGCTGGCGCTCGAAGTACCGCCGGACGG
+ACTCGACCGACTGCGTCTCGACCAGTTCGGTCGCGCGCCGGAGCTTCATCACCTCGGCGT
+GGGTGCTCATCCCCTTGTACCCGTCCGACTGGTCGTTGTCCATCATCCGCTTCAGCTGCC
+CCCGCATCTTGTTGAGGTCCTTCTGCGAGAGGTCAGGGTTCGTCGTGTTCGTCACGCCGA
+GCGACTTCAGCTTCTCTAACCGATCTGTGATCACCTCGTTGAGCGCGTCCCGAATCGCGA
+GGACCTCGTCCGGGAGCGTGACCTGCTCCCACCGGACGTCGGTGTCGTGGGTGTACTCGT
+CGACGTCGGCGTCCTCCTCGGTCATCACCTCGACGTTGACGAGGCCGAGGTTCTCACAGA
+CCGTCTCGATCTCCTCGGTGTCGCCGCCGGGCGAGGCCGACATCCCGGTGACGAGCGGGT
+CCGCCGCGTCGGCGTGGTAGCGCTCCGCGATGTACACGTACGCGTAGTCGCCGGTCGCGC
+GGTGGCACTCGTCGAAGGTGAGgTGGGTCACGTCCCGCAGCGAGATCCGGTTGCCGACGA
+GGTCGTTCTCGACCACCTGCGGGGTCGCGATCACGATCCGGGCGTCCTCCCAGaGCGCGG
+CGCGGTCGTCCGGTCTCACGTCGCCGGTGAACACGACGATCTCGTCGTCCGgAATCGAAA
+GCGCCTCGCGGTAGAAGTCCGCGTGCTGTTGGACGAGGGGTTTCGTGGGGGCTAAAAaCA
+GCGACTTCCCGCCCGCcTCGTGGAGCCGCTCGGCGGTGACGAGCAGgCTGACCGCCGTCT
+TGCCGAGGCCGGTCGGGAGACAAACGAGCGTGTGTTCGTCGGCGGCGGCGTCCGCCAGCT
+GGAGCTGGTAGCGGCGTCGCTGTAAGAACCCGTCGACGAGCAGGGGTCGgtcGATCCCGG
+CGGCTTCGGTCGCCATCGGCGACGCTTCGCCGCCGTCGGCCTAAAGCCTTCGCGAAGCGG
+GgTGAAaGTTATCGGTCGCCGGAACGCTCTTCTCGGAGCTCTTCCGGGACGTCCTCGTCG
+ACCAGCTGCGCCCACTCCGCGaGCCGGTCACCGGATCTCGTCTGCGCGCTCATTACGCGT
+CGGATCTCCGTGGTACGTATTAACGCTTACCCCTATTCTACACGATTTACTATCGGCTCG
+GCGCTCTCCTCTCCCGCCCGGCCGCGACTCGCAGTTCTCCATCGCGACTCGCACGCCTTT
+TACCGCTCACGCGCCACCGACGGGCATGAGCAACCTCGACGAGTTCCTCGCGGGCGAGCG
+GCTCGACGACGTGGTCTTCTACGTGAGCGACGCGTACCTCGACGACGACTCCCGGCTCCG
+CAGCGTCGGCACCGAGgTCGAcGGGGgCgTCCGGCTGATCcTCGACGGCGAGACCGGCCG
+GTCcGCgTTCCAGGCCGGcACGGGCATGGGCGCGATGGAGTTCGCGAaGACGGCGATGGg
+AgCGgAGGgaGAGaTCGCGCGCTCGCTCGACgACGGGGCgtGCCCcTtcGCcGCGGAGAA
+CCCcGAcGACGACCACGAGATCCGgTTCGtCTTCGCGTTCGCGgAGgCGCAAAACgnGGa
+GgTCGgCGGgCTcTACGCCgAGGGCGACGTGGTCcACGCGTAcGCCCACTgCACCTgCGG
+CgAGAgCTACTCGcACAAgTGGgTCgTCGGcGACCgCGAcGAcTGagCGGTTGCCCtcGT
+TgCCGCCGgcgACGTGCcGGcTACtCCTcGGgcGcGtCGTCTTCCGGgACCGCgCCcTCG
+ACgAGcgACtGGtCgCCGTaCTgCTCgCGGaGGTCCTtcTTCgAGAaCTTCccGGTGGCG
+GTTTTgggCACCTCGTCGATGAACTCcACcGCGTCcGgCACCcACcACTTGGGGTACTCC
+TCGCGGAGCCCGGTCTCGATCCGGTCGACGAGCTCCTCGCGGTCGACGCCCTCGGCCACG
+ACGACGAACGCCACGGGGCGCTCCTGCCAGCGCTCGTGGGGCACGCCGACGACGGCCGCC
+TCGCTGACGCCGTCGTAGGCCATGATCGCGTTCTCTAACTCGACGCTGGAGATCCACTCG
+CcGCCCGACTTGATCACGTCTTTCGTCCGGTCGACGAGCTGCATGTAGCCGTCCTCGTCG
+ACGGTGACCACGTCGCCCGTCTTCAGCCACCCGTCGATGAACTCCTCCTCGTTGGCCTCG
+GGGCGCTTGAAGTACTCCTTCGTGACCCACGGCCCGCGGATGCGGAGCTCGCCGAACTCC
+TCGCCGTCCCACGCGATCTCCTCGCCGTCCTCGTCGATGACCTCGAACTCCAGTCCGGGG
+GCGACGAGGCCCTGCTTCGCCCGCTTGTTCACCTGCGTCTCGTAGTCGGCGTCGCGCAGG
+TCGCTCTTGAGGTGCGAGACGGTCCCGATCGGTGCGATCTCAGTCATCCCCCAcGCGTGA
+AGCACCTCGACGTCGCGGTCGTCGTACCACTCGATCAGCGCCTTCGGCGCGGCCGCGCCG
+CCGATGATCACGGTGTCGAGCGTCGAGAGGTCCACCTCGTTGCCCCCcTcGATGTACTCG
+CGgAGgCCGAGCCACACCGTCGGGACGCCCGCGGAGATGGTGACGCCCTCCTCCTCGATC
+AGCGCCGCGAGGTCGGCAGGGTCCGGCGACGGTCcGGgATAGACGTGTTTCGCGCCCGCG
+GCGGCCGCGGTGAACGGCATCCCCCAcGCGTTGACGTGGAACATGGGCACGACGGGCATG
+ACCACGTCGGAGTCCTTCATCGGGATCCCCTGTGGCGTCTGGGAGGCCATCGTGTGGCTC
+CACAGCATCGACTGGGTGTATTCGACGCCCTTCGGCTTCCCCGTCGTACCGGAGGTGTAA
+CAGAGCCCGGCGGGCTGGTCGCCGTCGAGGTCGGGCCAGTCGTACTCGGTCGAGTGGTCC
+GCGATGAACTCCTCGTAGGCGGGGGCGTCGAGCGCGTCGATCCCTTCCGATCCCATCGCG
+ACGAAGTCGACGCCCTCGAACTCGTCCGCGCCCTCCGCGGCGCTCGCGATCTTCTCGGCC
+AGCGAGGGGTCGACGAAGATGATCTCGTCGTCCGCGTCGTCGACGATGTACTGGATGTGC
+TCGTCGGGCAGCAGCGGGTTGATCGTGTGGAGCTGCGCGCCGGTGTTCGGGACGCCGAAG
+TACGTCTCGAAGTGCCGCGTGTGGTTCCAGCAGAACGTCGCGACGCGGTCGCCGCGCTCG
+ATCCCGTGGGCGTCTAAGGCGTTGGCGAGCCGTGCGGTCCGGTCGGCGTACTCGGCGTAC
+GTGTGCCGCGTGCGCCCcTCGTGGGTGCGCGAGACGATCTCGGTGTCCGGGTACAGTCGT
+TCCGCGCGCCACATGAACGGTCGCAGGGTCTGAGCGTGTCCGCCTGGCATACCTCACACA
+CCAcGAGGTCGGGAACTATGAACGTTGTCATGATTGATCGGGAGGGTCCCTCGGGGCGGC
+GACTTCTACTGATTTTCtCTCAACGATCGGGTTCCGGTCTGAACGTTTTTCGTCCACTCT
+GACGCCGTCGAATTCTCGACCGCTCAGCTATACATGACTGTTTTCGtCGAGATCGACTTC
+GTGACTAAGACCGCCGAAGCCCCAGTCGCTCGGCTATACGTGACTGCTTTCATCGAGAGT
+AACCTCGCGGCCGAGACCGCCTCGCGGCTGGGGCTTCGAGTCCCGCCCCTCcGAAAGACG
+TTCCTGCTCGCTTCGCTGCGCGGGCTGCGACTTCCGTGCTCCCGCTCGCTTCGCTCGCGG
+gAACGCaCCGCGACAGCACCTCACGCcTCCCCAGCcTCGTCAGTCGCCGTCGCTtCGCTC
+cGgcgaCTGaCTCCcTcGCGCGGTGCTGCTtCGCGGCCgccgggggCGgCcGCTCGCAGg
+CACGCGCcACcGTGAaCGCCCCcgtttcACcTGAACTGaCGCCtCcTCNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNgcgacgttctg
+gctgccggtgagcgcgtgacagattaacacGACGTTGTCGCCGTCGAACTCGCCGTGGGT
+CTCGTAGGCGACCTCGAAGTCGGGCACCGACTGCCCGCACTCGAAGGTGAACTCGCCGAG
+CGAGGCGACGCCGTGGTCGGTCGGGACGGCGCTCATCGGATCAGGCCCCCTCGCCGTCGC
+TCCCGTCCGCACTCCCCTCGTCcACGCTCTCCCCGTCCGCCGCGCGCTCGCCCGCGGCCA
+GCCCCGcGTCGAGGTCGGCGATCACGTCCTCCGGGTCCTCGATGCCGATCGAGAGCCGAA
+GCATCTCGGGGTAGACGCCCGCCAGCCGCTGCTGTTCTTCGTCCATCTGCGCGTGCGTCG
+TGGAGGACGGGTGGATGACGAGCGTCTTCGCGTCGCCGATGTTCGCGAGGAAGCTCGTCA
+GCTCGACCGACTCGCAGAACGTCTTCGCGGCCTCGTAGCCGCCGTCGACGCCGAAGGTGA
+CCATCCCGCCGAAGCCGTCGAGGTACTCGGCGGCGTTGCCGTGGCTCTGGTGGTCCTCGA
+ACCTCGGGTACGACACCCAGTCGACGCGGTCGTCGTCGCGGAGGAACTCGGCCACCCGCC
+GCGCGTTCTCGCAGTGCCGCTCCATCCGCAGCGGGAGGgTGTTGAGCCCCTGAATCGTCT
+GCCACGCGTCGAAGGGCGACTGCTGGCCGCCGGTCGGGCGCACCCCGCGCTGGCGGACGA
+CGTTGGCGAACGCGGCGTCGCCGAACTGCTCGACGAAGTCGATCGGGAACGCCGGCGATT
+CGCCGTCCAGCTCGTCGTAGTCGGCGTCGGGGTGGTCCCACGGGAACTGCCCGCTGTCGA
+CGACGACGCCGCCGACAGTGGTGCCGTTGCCCGTGATCCACTTCGTCGTCGACTCCCACG
+TGATATCAGCACCGTGTTCGAACGGCCGACAGAGGTAGGGAGTCGCGAACGTGTTGTCGA
+CGACGAGCGGGACCGCGTGGTCGTGGGCGATGTCGGCCAGCCGCTCGAAGTCGGGCGTGA
+CGAGCGAGGGGTTCGCGATCGTCTCGACGTGGACGAACGCGGTGTCGCCGTCGATCGCGT
+CCGCGTACGCCTCGTAGTCGAGCGTGTCGACGAGCCGCGCCTCGATCCCCCGGCGGCCCG
+CGATGCTCGTGAGGTACGCGGCGGTGCCGCCGTACATCTCGGAGCTGGCGACGACGTTGT
+CGCCCGCGCTCGCGAGGACGGTCGTGATCGCGTCGAACGCTGCCATCCCCGACCCGGTCG
+CGACCGCGTCCGACCCGCCCGAGAGATCCGCCAGCCGGTCCTCCAAGACGTTCACCGTCG
+GGTTCGACAGCCGGGAGTAGATGTGGCCCTCCGCCCGGAGCGCGTACATCTCCGCCGCCG
+TGTCCGCGTCGTCGAAGACGTACGAGGTCGTCTGGTGGATCGGCGTGGCGCGGGCACCGG
+TGGCCGAGTCGGGCTCGGCTCCGGCGTGGAGACTCCGGGTGGAAAACCCACGTGTCATGT
+TTGTTGCTCATACGTCCACAAACTTCTATAACCGTCAGTTACGGCAATTGATGCCCCCTT
+CGACGGGgTCGGTGGTCCCGTTCCGCCGACCGCGCCGCTCCCGTCTCCCCGAAGCGTGCG
+TTTATGGCCGATCGGGCTCCAACCGGTGGTAATGGCAGTCGCCGCTCCCGTCCCCGACCT
+CGCCGACCGCGCGACCGACTGCGCCGACCGCCTGCGCGAGGCCGACCGGGTCCTCTTGGC
+CTCCcACATCGACGCCGACGGGATCACGAGCGCcGCGATCGCTTCCACCGCGCTCGCGCG
+GGCcGGGGTCGACCACGAGGTCGTCTTCGAGAAGCAGCTGGACGCCGACTCGATCGCCGG
+CATCGCcGCCCGCGAGTTCGACGTGGTGCTTTtCACCGACTTCGGCTCCGGCCAGCtcGA
+CATCATCGCCGACCACGAGGCGGCCGGCGACTTCGTccccGTCGTCGCCGACCACCACCA
+GcccGCCGACCGCGACACGCGGTACCACCTcaaccccctgctCgAAgggATCGACGGCGC
+GAGCGAGCNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNaCCCTgCTcAACGcG
+ACCGCCCGctACgAGCGCGGCGACGTCGGCCgTCgCGgTGTGTCTCGgCGACCGCGGCGA
+CGCGCTCGCGGAGGCcAGACGgCTCCTCCGCgACCCATcGGAaGAACCTCTCGGAGGgCC
+TCCAgTGGGTCAAAAACGAGGGGGTcaCCCacgaggacgaccTCCAGTGGTTcGACGCCG
+GGTCGCGCATCCGCGAGACCATCGTCGGCATCGTCGCCGGGATGGCGGTCGGCTCGCCCG
+CGgTCGACCGCTCCAAGCCCGTGATCGCCTTCGCCGAGAAGAGCGACGAGGAACTGAAAG
+TGTCCTCGCGCGGCTCGCaCGcGCTCGTCCGGCAGGGGCTCGACCTCTCcGTGGTGATGC
+GCGAGGCGAGTCAGTCGGTCGGCGGCGACGGCGGCGGTCACGACGTCGCCGCGGGCGCGA
+CGATCCcGACCGGCGAGCGCGACGCGTTCCTCGCCGAGGCGGACCGgATCGTCGGCGAAC
+aGCTCTCGTGAGTGGCcTCCCCGAATCCCGTCGGCTCGCgTACTCGCTACTTCAGCGTCG
+CGTAGTTGACATCcTCCCACGGCTGAAGCCgTGGgATTCCTCcGGTAGGgATGTTGGCTA
+TGCTGTTCCCACGGAGGCAAGTTTCCCGTCGTCGGTACTCCGGTCTGTGCGCTCCtCGTT
+GGGACTGGCCCTCtCGGGAGAGCGTGGTGACTCCGACCACGTATGGTCGTCCCACGTGAG
+GCGCACGGGCCGTGCCATCGACCCGACTTCTAGATTCCTGCCAGCCTGCCGTTCGAGGAA
+CACCCGTGAAGCGTCAAGATCGGCGTGACCTTCGTAGCCACACGAACACCGAAACACGTC
+GCCGTTCCGTTCCGTGTTCTTGCGCTCGCCGCACGCTGGACACTCCGCCGTCGTGTACGC
+TTCAGATTCGATTTTAACCGTGATGCCGTACTCTTCGGCAGTCGTAGCGAGCCTGTCGAT
+GAACGAACGATACGCCCAGAATTGGTGCGTTTTCTCGTTCACCGCTGCCGACCAGTGTGC
+CGACAACACGTCGGTGAGATCGCCCACGTACACCGTGGCAACGCCTCCTTCGTGTAGTCG
+TTCAACCAAGTCGCGGACGAGCGCGTCCTGTGCGTGGTCGCGCCGTCTCGTTCGCGTACG
+GTACAGCCGTCGAATCCGCTGACTGctGTACCGGCCCTCACGGAGTTTCGACTGTAAGCG
+GGCGATCTCCTCGGTCGTCTCGCGAAAGCGGGCGAACAGGTCGCGTCCCTCATAGAGGTA
+CTGCTGGCCAGTTGTGGTGGTACAGGCGACGAGGTTGTTCGCGCCCACGTCCAGTGCAGC
+CGATTCGTCGGCTAGTGGTGAATCCCGTCGAGAATCAGACACGGTAACGGGTTGAATGGC
+TCTGAACGTGTCGTCGACCTCGTCGTAGTACAGTTCCAACCGGCCCTGACCGCCGTCCCA
+CTTCGGGTTGCCAGTAACCTCAAGGCGCAGACGGTCGTGGTAGCCAAGGCCGTACTCGTC
+TTTCAGATCTTGGCCGACAGGGACTTCGAGTCGACTCCGCTCACCAGTTTCGAGTGTGTA
+CTGGTCGTTGCGGATGTACGTCCGTAACTCCCTGCCGTCGTCTTCGTTCCCCcAGTAGCC
+TGGCGGAGCAGTAGCCTCGCCATCTTCTCGGGCAGCAAAGAACGATCGCCATGCCTCGCT
+ATTCTTGCGGATGACTTGCTGAGCGGTAGCGGAACCAAGCACGCCGACGTACTGCTTGCG
+GTAGTCGGCAGTGTTCCATACCGATTCACCATCAAAGAAGTGCTGCCGGCGCTCGTAGTT
+CAGTTCGTTCCAGAGGCTGGCGGAGGCATCCAACAGCTCGCGGAGCAGTTGCTCGTCCTC
+GGTGGAGAGCGGGCGCACCGCGAACGTGTTGGTTCGTCTCACGACAACAGACATTTGTAG
+TTATCCGTCTAAATGTCTTTTGGACACAAACGATGCGACCGAATATTGACATCTCGCATA
+CGTTGAACGGGCGCGTGAAAGACTACGCTGAACAAAAGGACAAAAGCCTCGAAGAAGCCT
+ATCGGGAGATTATCAAAGCAGGGTTGGAAGCGGCTGAACATCCAAACGAGCAATAGCGTG
+TGGATTACCAAGCGATACTGTCGCTTACACCCACCCCTGAAGAGGTGGGCTTCCGCTCGT
+TACGTGTCAGCTCGCGCACTCGCTACTTCAGCGTCGCGTAGGTTAGCAGCGAGACGGCGA
+GCAGTTCGAGCAGGCTCAGCCCGAGTACGACGCGTCCCACGAGCGGGTCCATCGCGTACA
+GCGTCCGCATGCTGCTGAAGAAGAAGGCGATGGAGATCAGGTTCTCGACGAGCAGGACGG
+CGCAAAAGCCCAACAGCCCCAAGAGTAGCGTCGAGCCGAACTCGTGGTAGTTGTCGAGCC
+ACACCCCGGCCAGCACCGCCAACAGCGCGCTGTTGACGATGGCGATCAGGACGGCGATCC
+CGGTCGGCGTCGCCGGGTTCATTCGGCGTCCACCTCCGACGTGATCTCTTCGAACGTCTC
+CGTGTGACGCTCGAAGCGGTCGGTCAGGAAGTACAGCTTCCCGTAGTCGTGGTCGCTCGG
+TTCGACGACGTCGTGGTCTTTCAACATCTCGAGGTGGTGCGTGATCGTGTTATAGTCGAC
+ATCCAGTTCCTCCGCGAGTTCGTTCGCGTTCCGGGGGCGgTCGCGAAGTTCCCGGAcgAT
+TCGGaCCcNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNcg
+agagccgctgtccgggcgcgaCGTCGACCtcgaactcgAAGGCaccGCCgggCGcgatcg
+gcggcgcgcccgggacttcccccgtcgggTCGTTCGGgTCGGCGACCGTCTCGGCCGGGG
+TGTACGCGCCCGAGTGATGAACGTCTGTCGACACGTCGAGTTCGTCGACCAGCCCGtCCT
+CGCCCTCGAAGCCGGTCGGCGGTCCGGCCTCGGCGAGCGCTTCGAGACCGACCGACGCCG
+ACTCGCCGAGGTCGTAGATCGGATTCCCGCCCTCGTGGACGGCGTACGCCCCcGGCGTGA
+CCCAGACGGCACCGTCcGTCGACGTGTCCGCCGGATAGAACTCGGTCGAAGCGACGTTCT
+CGATCCGGACCCGCACCGTGgCcGTCTCCGTCATCCCGTCGTCGTCCATCGCGTCGTCGC
+CGTCGTCCATTCCACCGCCGTCGCTGCCGTTCATGTCGTCGTCGCCGTCCATCCCGCCGT
+CGCTGTCGTTCATCCCGTCGTCTCCCATGCCGTCGCCGTCTCCCATGCTGTCGCtGTCGT
+CTCCGCCGAGGCATCCGGCGAGCGCCAGCGTCGCGAGTCCGCCGCTCGTCGACAGGAACC
+GCCGCcGcGTGTCTTGTCTCGTCATGTTTCCTATGAGGGCGATATCGGGGATATAGATTT
+TTCAACTACCGGaCAAATTCGGGGCGAAATCGGGGCGAGGTCCGTTCAAACTTCGTCTCA
+GATCCGGCCGCTGTCGGCGGATTCTCTGACAAGACGAGTCGACGgCGTCGGAGAACAAAC
+GGaCGAAAGaGATCGGTCGGAGCGGTGCGGCGGCGGTCGCGCCGCGTCAGGCCTCGCCGA
+GGTCGCGGAACATCGCGCGGTAGTCGTCGGTCGACAGCGACTCGCCGAGGTCGTCGATGT
+CGGCGTCCAAGTCCTCCAGCCGCTCGACGAGTTCGGCGTACGCCTCGTTCCCCTCGCGCT
+GTGCCGCCGGCTTCTGCGAGCTGAGCACCGCGCGCTTGCTGGCGAGCGCGGCGGCCTCTC
+GGACAAGGTCGTCGTACTCGCTGCGCGTCAGGAGCGTGTCGATGGCCGCGAGCAGCTTCG
+AGCGGCTCACCGGCTTGGTGAGGTACAGGTCGAACCCCATGTCGATGATGTCGAAGTCGG
+GCTCGACCGCGGTGACCATCGCCACGCGGCAGTCGTACCCCTCCTTGCGGATGTGTTCTA
+AGACGTCGTCGCCGCTCCCGTCCGGGAGCCGCCGGTCGAGAAGCACCACGTCGACGGCGG
+CGTCGACCTGATCGATCGCCTCGGCGgCGGTCTCGGCGACGTCGACGACGTACCGCTCCT
+CAAGGAAGCCGGCGTACAGCGCCGCGATGTCGGGCTCGTCCTCCACGACGAGTATCGACG
+GATCGCTCACCGTCGATCACCGTCGCgCGCGACGAGACACGCTTCACCGGGCATACACGA
+AGGAGCGGTATGTCGAGAGATAAAACTGTCGCCGTTCGTTCGCCCGATGTACTGAACCGT
+CTTTTATATACACCGCCCGCCAAAGGGGAGACGAATGTCAGAACTCGTCTCCACCGGGGT
+CGAGGGGCTCGACTCCATTCTCACCGGCGGTATCACCGAGCGATCGACGGTCCTTGTCTC
+GGGGAATCCGGGCACGGGCAAGAGTATCTTCGGAATCCAGTACCTCCACCACGGCGTCTC
+CGAACACGGGgAACGCGGCGTCTACGTCTCCTTCGAGGAGGACGAGGCCGACATCCGCGG
+CGCGGCCGAGTCAGTCGGCTTCGAGGGGTTCGACGAGATGGTCGAGGACGGCGACATCGT
+CATCCTCGACAAACGCGAGATGCTCCGCGAGACCGACTTCTCGACGGCCGTCGACCGTcT
+GCTGGATACCGTCGAGGACGGTGACTTCGACCGCCTCGTCCtCGACTCGCTGTCGATGTT
+CCAGCTCTTCTTCGACGCCGAACAGGAGAAGCGCACGTACCTGCTGAAGTTCTCGGACAT
+CCTCAAGGCGAACGGACTCACGTCGCTGCTCATCAaCGAGCAGGgTgCCGTcTtCCCcGA
+CACCGAGGTCGGACTGGAGAACTTCCTCACGGACGGGAACATCTACTTCATCCAGACGCC
+GACCGACTCCGGCGTCAACCGCTACGTCTGGGtGgCGAAGATGCGGAAACAGGACATCGA
+CACTGACATCTtCCcGATGGAGATCGGACAGGGGGGAATCaCGGTCCACGAGCGCGCTGG
+CGGCTTCTCGATGATGGGCGGCTCcGACGACCGGCCGTCGTTCtGACGGGGAaGAATCCc
+GTcAGTTCGGCCGGCTACTCTCGCGAGGAGAGGTCGCGCcAGACGTCGTCGAGGCGGTTC
+TTCACCGCCGACCGCTCCTCGACCTCGACGGTGAGTCCGTCGCGGAAGTCGACCTCGACC
+CCGTCGACCTTCCGGCGGTACACCTTCACGCGCCGATGTTCGTCCGAGAGCGGCCGGTCG
+TGTAGCTCCAGCAGATCCGCCTCCTCCAGCTCGTTGATCCGCCGGTAACACGTCGCGATC
+GGGACGTCCAACTGGTCGCTGAGGTCCTGCGCCGACTTCGCGTCGCCCGTGGCCGTCAGG
+ATGTCCGTGTTGTACTTGTTCCCGAGTACGGTGATCAGATCGTCCCCcACCATtCACGTT
+ATCGAGATTGATTTCCGGGTAATAAAAGGCTACCGGTGGTCGTCAGACGCTCGATACGTT
+CCCAGTCAGTCGTTTTCGCGGTCGCGGGTCCGTCACAGGCGCGTTGCCTTGGTCGGCGTG
+TTATCGCCGCTGATACCCGCTCCCGTGGGTTTATATCCGGTCTCGGAACAAAGAGCGTAT
+GGAACTCATCGAGGGGTTGTACCTGATGACGACCACCGTGTTGGCCGGCGCGAGCGCGAC
+CCTCGTCGCGTTCGCGGTCGCGGCGTATCGGTCGTCCGGTCGCACGGCGATGGCGTACTT
+GGCGGTCGGCTTCGGACTCGTCGTCCTCGCGGCGGTCGGAACGCCCGCGGCCGCCTTCCG
+GACGGAATTCGGCAACGCCGAGGCGCTGCTCTTAGTTAACACCGGACTGCTGGCGGCGTC
+GATGGCCCTCATCGCGGGGAGCCTCGCCGTCTACGAGCCGGGGACACAGGAGTTCGTCAT
+TCCCGAATCGGAGCTGTCGCGCCTACGCGATCGGTGAAAGAAACGCGGCCGCCGTCTCGT
+AGCTGTCGGACCATCTTTGCGGTCGACCCCGCGATCCTCGTAAACGAGATATCGATCCCC
+CGAAACTAGAGACTTTGCTGTTCCCCTTCCTACCAATCTCGGCTGTCTCTAACTGTCCGT
+TCGCCTTCCAGCCGGTCCTCAAGCTTCGGgAGTACTGCCACCGATCCACGACAGATCCAG
+ACCTGATACTGTCGTGACGAAATCGTTGATATATTCTGTAACTACTTAGTTGGAAAAaGT
+GCGAAAATCGCAGGACAGCAGATTTTTATCAATCTGGATAACCGGGTAAGTGATCTTAAG
+TAGGAATTCCCCATCCTACCGATAACGCCCGCCGGGCAGGCCGGGGGCCGACGCAACACA
+CAATGTTCGAAACCATACTGGACGAGGAAGAGCGCGGTCAAGTGGGGATCGGCACGCTCA
+TCGTGTTCATCGCGATGGTGCTGGTGGCGGCGATCGCTGCCGGCGTGCTGATCAACACGG
+CCGGGTTCCTCCAGACGCAGGCGGAAGCAACGGGCGAAGAGAGTACAGCGCAAGTGAGTG
+ACCGGCTTCAGGTGGTGAGCCAGTCCGGGAACGTGACCGACGGTAATTCTGGTGACCGCG
+TCGTTGACCAGCTGAACATCACGGTTGCGCAGTCTCCCGGTGCCAGCAATATTGACCTGA
+ACGAGACGAGCGTTGAACTTATCGGAGATAACGGGCAGGAGACTTTCCAGCTCAGCGCCG
+ATCAGGCCTCGATCGACATCTACACCGGAGAAGACGGTGATGTCGTGCTGACCGATGCCA
+GTGACCGTGCCGATGTCGGAATCGACCTAAACACGACAAATAGTGGTATCTACGGGGTGC
+TCGAAGGCGGTGACCGCCTCTCGGTGACGTTCACGACGCCCTCGGGCGCGACCACGACGG
+CGGAGCTCCGCGTCCCGACGACGCTGACCAGCGAGCAGAGCTCGGTGAGGCTATAACAAT
+GTTCGAGTTCATCAACGACCGTGAAGACCGCGGCCAGgTGGGGATCGGAACGCTCATCGT
+GTTCATCGCGATGGTGCTGGTGgCGGCGATCGCcGCCGGCGTGCTGATCAACACGGCCGG
+GTTCCTCCAGTCGCAGGCGGAAGCGACCGGCCAGGAGAGTACCGACCTCGTGTCGGAGCG
+GATCGACGTGACGAGCGAAGTCGGTATCGTCGGTAACAACAGCACGGGCGAACTGAAGTC
+GGTCAACGTCACGGTGTCCGGCGCGGCCGGCGCAGATCAGATCGACCTGTCGGAATCGAC
+CATTCAAGCGGTCGGCCCGAACGGACAGGCGAACCTCGTGTTCACCGACACGCCCGCTTC
+GGGTAGCGGAGACATCGGGAACGCGAGCCAGCTCAACGCGAGCGAGTTCGCCGTCCTAGA
+TTCGGACGGTGGCTTCGTTGACTCCGGTAACGCTGTGCTGGACGACGACACGGACTACAC
+CATCGTCGTGAATCCGGGTgCGGAGCCGTTCGGCGACATGACGAATGACGATATCTACAA
+CGCCAGCGGTAGCAACGAATACACCTACGCACACACCGACAGTAGCCTCAGCGCGTTCGG
+CGAGGGAGAGAGCTCCTCGCTAGAGATCGTCTCGCCGTCGTCGGCGACGACGTCCGTTGA
+GCTGAACGCGCCCGACCTCTTCACGGAGGACGGCGAAGCGGTCCGGCTCTAACGAGTCGA
+ACAGCGCGGTAACCACCTTGCGGCGGCTCGGCCGCCCGCAACACCtATTTTTCGGCGTGC
+GCTACCACGACCCATGAGTGACGACGATGCGCTGCCGGCcgACCCGGAaGAACTCgACTT
+CACcGACGACGAGAACGtCGTCGAgATCGGGgAGGGGNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNCcTAtCCcctGTGtGCccTTGCcTCCCACGaCTGAACGCCACCGCGAACG
+CCACTGTCATCGAAGACGGGAACCTCTCCGCGCTCGCcGTCGATGTCCGTAACGTCGGCG
+GTCTCGAAGGCgaGGGAACGCTCTCGCTCGACGTCGACGACGGGAATCTCACCGCCTCCC
+GCGACCTGACGCTgTCCGGGAACGAGTCGCGCACCGTCGCGTTCtCGTCCGTGAGCGTCG
+ACCGTCTCGACCCCGGCGAGTACCCCTTCACCGTCGCGCTCGACGGCGACGTGCGGAACG
+GGACGCTGAACGTCACGGACGATCCGGCGAAGACGACGCTCGACGATGACGGCGCGGACT
+CCGATGACGGAAACGGGACCGACGACGGAAACGGCACGGATGACGCGGACTCGACCGACC
+CCTCCGACGCGGAGAGTGACGGGTCTGGAGACGACGACGCGTCGACGGGGAGCGAGAACG
+GCTCGGAGTCGGACGGGAACTCCTCGGACTCGGACGGCGACTCGGGCGGCGAGGACGGGG
+AAgACGAGCCGGCGACGTTCCTGCCGTTCGGCATCGGGACGCGCGAGACGTTCGGCGGAA
+CGgTCCTCGTCGGGGCGACGTACCTCCTCGGTCACTGGGTgTGAGCCGCGGTCGGGCTCT
+CAGCCGTCCCTCGCCTCTCGGATCCATTCTCAACCGTGAGAACCGCGGGGGAGCGATTAA
+GTGATCGCTGTACCCCGGTTCAGACAACAATGGCTACGCGGGTACTCATCGCCGACGACT
+CGGAGTTCATGCGGAACCTCCTCCGGGAGATCCTCGAAGGGGAGTTCGAGATCGTCGGGG
+AGGCGGAAAACGGCGTCGAGGCGGTCAACATGTACGAGGAGCACGGGCCGGACCTCGTGA
+TGATGGACATCGTGATGCCGATCCGCGACGGGATCGAGGCGACGACGGAGATCTTAGAGG
+AGAACCCGGAGGCGACGGTGATCATGTGTACCAGCGTCGGGCAGGAGGAGAAGATGAAGG
+CGGCGATCAAGGCGGGCGCTGAGGGGTACATCACGAAGCCGTTCCAGAAGCCGAACGTGC
+TTGACGCCATCGGCTCGGCGGTATAATGCGGGTCGACGTCCGCGCGCTCGGCGCGTGTAA
+CCGCCTCGCGGAACAGGGGgCGAAaCAGGCCGCCGGCGCGCTCTCGGACCTGACCGGGAC
+GGACCTCGCGGTCGAGGTGACCGGCGCGAGCGTCGCCAGCGGGGAGGACCTCGCGGAGTC
+GTTCGCGGGCCGGGAGTCCATCGGCGTGAGCGTCGGCCTCCGCGGCGGGCTGGACGGCGA
+GGCGGTCCTCGCGTTCGACGCCGTCAACGCCGACGCGCTGCTCTCGCTTTTACCCGGCGG
+GCAGTCGATGGAGCGGAGCGCGGTGACGGAGGTCGGCAACATCGCGCTGGGCGGCTTCCT
+CGACGGCTGGGCGAACTACCTCGGCAAGGCGATCGACATGTCGCCGCCGCGGTACTTCGA
+GGCGGACGGCGCGGCGGTGCTGCCGGACGGGGCGCTCGCCGGCGACGGCGTGTTCCTCTT
+CGAGAGCCGGCTGGACGCGACGACGACCGACCTCGACTTCTCCATCTACATGCTGCCCGA
+CTCGGGGCCCTTCCGCGACCTCATCGTCGGGAAGACGGCCCCCGCGGCAGGCGGCGGTAA
+CGCGCCCGCTGCGGCGGCAAACGGCGGCACCACCAGCACGGCGGTCCCcTACGAGTCGCT
+GTCGACGTTCTCGTCGCTGGCGAAGGAGGGGTCGGCGAACGCGGCCGACAACATCGCGAT
+GATGACCGGGCTGGAGACCAGCGTTGACGTGAGCCGGCTCCGGTTCGTCCCGCTCGCCGA
+CGTGCCCGCCGAGGTCGGCACCGAGCCGCACGCGGGCACGGTGTTCGAGCTTCAGGGGCA
+GCCGAGCGGCTACCTCGCCATCCTCTTCGAGGAGTCGTCGGCGGCGGCCGTCGCGGACGC
+GATGTTACCGATGGACCCCGACGAGCCGCTCGGCGACATGGCTGAGAACGCGCTCTGCGA
+GCTCGGCAACGTGATGACGAGCGGGTtCATCGACGGCTGGGCGAaCGTGCTCGGCACgAC
+GATCACACACTCCCCGCCGGAGTTCGTCCACGACATCGGCGCGTCGACGATCAGCCCGCT
+CGTTGCCAAGCTGAGCGAGCGACAGGACTACGGGtTCgtgatcgacaccgcgatccggac
+ggaggggatccaggcgcggtgtgacgtgtacgcgctccccgacgagcgcgaactggcgcg
+ggcgNNNNNNNNNNNNNNNNNNNNTGAcGCcGACGACTCAGGTGGGGAACgCcGCTCCGC
+TCACCGCGGaCgACCGCCGGGCgATCGCCGCCGACCCGTCcGACCGAGCcGAGATCAGCG
+GCGGGTTCAGCCGAAACGTGTACACCGGTGTCGCCGGGGATCCTGTTGACATCAGGTATA
+CCGCCGAAGCCACTGGGGATGACGAAGCCTACCTGCTCGTCGGCGGGAACCGACTCACCG
+ACTCGGGGCAGTCTGTCGGCTACGTTGACGTCCTCAAATTGAACGAATTTGACGACACGA
+TCAACACGCGAACCCTCGGGACCGACGCGACCGACCCTGCGAGCTGTAGCCAGACCGACT
+GTAGCATTGAGTTCCGTGACGAGAACGGGAAACTGATCGCCGGGAACCTCTCCGCTGCCC
+GAAATTCTTCGGAAaTACCGGGCGCGACCGGtGCCGGCGGACTtCCGcGCCCGATAGCCC
+CGCAGCGATACCGGCTGGCGATCACCAACGGGACGTTCGTCGtCGAGAATTCGGGGCAAG
+TGACTCCGGTCGAGATGGCCGGGCGGGCGGAACTCGTCTTGGAGAAGCCGAGGTTCCACG
+ACGAGGTTGAGGTGTTCACCACCGCCGACCGCGAAGACGTCCCGAACGCcGACCCCGACG
+CCGAGGAGTCGCTCGACGCGCTCCGGGAGAACGGACTCGACCGGACCGCCGTGACGAAGG
+GTGACCGGGTCGTGCTCGGGTTCGAGTCGAGTGGTATCTGGGGCGCGCTCTCGCACTTCG
+CCGGGTCGACCGAGGACGCACAGGCCGGAACGGAGCTCGACCATACCGtCcTGACTGACT
+TCCTCGGTGCCGAGGAGGGGGTCTCGCTCCGGGTCCGACAGACCAATCCCGGTCGGAACC
+GCGCGCCGTCGGAGATCGATCTCTCGGCGGCCGACCCGGAcGACGTCTCACTGATATTGG
+CCGACGCGAGTGAGGGAACGGCTGGCGACGACGACCCGACGGCCGGGCGCTTCTACATCG
+TCTTGGACACGAGCGACGGGGGACCGTTCACGAGGGACCCCGAGCCCGGCGACGAGTTCG
+CCGTCGAGTTCGCGCTGGAGGGGACCGAGGGCGAGCGGTACGAGTTCGGTGGCGACGGTG
+AGGGGCCGCCTCCCGCGTTCGACGCGACCCCCTCGTCGTCCGGACAGTTCCCCTACTGGG
+AGGCGGCGGACGGCGGCGTCAGCGCTGAGGCGTCGTTCTCCGTCCGGGAACGGTACATCC
+GGTACGACCACGTCACCGACGACGGCGAGCTCCTCGTTGAGGCGGACGGCGGGACGGTCA
+CGGGGACGAACTCGATCCTTCCGGTCGAGGAGATGGCCGCGAACTTCGTGAACGACGCCG
+GCGAGCCGATCCGGACGGAGGCGACGATGGAGGTCTCGGACGGGAACTTCACAATTGACG
+CCGGTTTCGACGGCGTCTCGCCCGGAACTCGCCTGAACTACGAGCTGTACCAAGGGACGT
+CGCTCAAGGaCAGCcGGACCGTCGTCGTCGTCTCCAACACGTCTGACCCGGACcGGCTCG
+AAATCGAGAACGCCACCGCGAACGCCACTGTCATCGAAGaCGGgANNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNga
+ccacgacgacgcGACGgACCGCGgCGACgCACGgCCGCAggCCGACGCGGACCGCcGCgA
+CGGtCACCgCGAGgaCCGACGCGACCGGAaCGGTtCCACgCGACcGatgaacgatccgaa
+tcccgTTCcGACCGCGCcgATCCGgCCGacGgAGggTGGGGAgaTGGgCgTTAGCGTCTC
+CGCGTCCACGGCcATCATCGTCGCGGGGCTGTTCTTCGCGTTCACGACGTTTtACCCCGT
+GGCGGCCAACGGACTCGACCGCGTCTCCGACGCTCAACACGGCGTCAACGAGCGTGCGCT
+GGAGCGACAGAACACCGAGTTCGCGGTGACGAACGCCACGTACGACACCACCTCGGATAT
+CCTCACCGTCAACGCCACCAACGAGGGATCCGTCGGCCTCGTCGCGGACGACGCGACGCT
+CGTCGTCGGCAACGAGTACGTCGACGTCGGCGGACCGAACGCGACGACCACCGTCGACGG
+CGACGCCGACACCGCGCTCTGGCTCGGTGACGAGCAACTGACGGTCGAGGTCGCACAGAA
+CGACACGTCGACGACGATCGAGGAGGGAACGCGGATCGTCCTCGTCGTCGAGTCCGGCGT
+CCGCGACGCCGCGACCGTGACGGAGGTGAGCCCGTAGATGGCCAGCGTTCCCGTCTCCCA
+CCTCATCCTGTTCATCGCGAGTCTCGTCATCGCCGCGGGCGTCGTCGGCACCATCActAC
+CGGCGTCGACCGCGTGAGCGCCGCTGTCGAGGACGCCGGCCTCGACGCGACCGAGACGCT
+TCGGACCGACGTGACGATCATCTCGgACCCTAGCGCGGGGgTGTATAACGCGAGCGAGAA
+CAACGTAACGCTGCTGATCAAAAACACGGGCACCTACCGGCTCGCGCCCGACGGATCGGA
+CcTCGACGTCGTCTTCGACGGGaGCTACGTCGGGCCGGACGCGACCTCCGGCGAACTCGT
+CTCCGCGGACGGCGCGAACGCGTGGAGTCGAGGCGACGTgTTGCGGCTCACGATCAACGT
+GAGCGAGATCGAGGGATCGGGCGGCACCCTCGACGACGGCGACCACCGGGTGTtCCTCTC
+GGCGAACGGCGACGAGGAGCTGTTCCAGTTCCGCGTGGAgggggggagcTGAGATGCCCC
+ACGACAACCTGCTCTCCCTCGGCCTCGGCGAGCGCGACCGGCTGAACAAGGaGCTGGGCG
+GCGGCATCCCGCGCGGCAGCATCGTCCTCATGGAGGGCGACTACGGGGCCGGGAAAaGCG
+CCATCTCACAGCGGTTCGCCTACGGGCTGATCCAGGAGGGCGCGTCGGTGACGATGATGT
+CGACGGAGCTGACCGTCCGCGGGTTCATCGACCAGATGCACTCGCTGGAGTACGACATGG
+TGAAGCCGCTCTTACAGGAGGAGCTGctCTTCCTCCACGCCGACTTCGACTCCGGCGGCG
+CGTTCTCCGACGGCGACGGCGAGCGCAAGGAGCTGCTCAAGCGgCTGATGAACGCCGAGG
+CGATGTGGAACTCCGACGTCGTCTTCCTCGACACGTTCGACGCCATCTTCCGCAACGACC
+CCACCTTCGAGTCGCTGGtCCGgAAAAACGAGGAGCGACAGGCcGCCTtGGAGATCATCT
+CCTTCTTCCGCGAGATCATCTCGCAGGGGAAGGTGGTGGTGCTCACCGTCGACCCCtCcG
+CCGTCGACGACGACGCGATCGGCCCGTTCCGGTCGATCGCGGACGTCTTCCTCCAGCTGG
+AGATGGTCGAGGTCGGCAACGACATCCGCCGCCAGATCAACGTCAAGCGGTTCGCGGGCA
+TGGGCGAGCAGGTCGGCGACACCATCGGGTTCTCGGTACGTTCCGGAACCGGTATCGTGA
+TAGAGAGCCGCAGCGTCGCCTGACCCATGACTCGGAGACGCACAGTCGGTCCGCGCGGGC
+GGACCGCGATCAACACGGCGACGCAGCGTGGGACATGACCGAACACGGAACCGCACAACC
+GTCCGACGAGCTCCGAAAGGCCGCCATGCGGCGGCCCcACCTCCGGGAACACCTCCGCGA
+GTTCAAACAGATCACGGGGGAgTTCCCGCAGTTCATCGAGGAGCCGAAAGACGAGTACGA
+GTCCGACCGGCCGAACGTCATCTACCCCGTcGGCGGCCCCATCTACAGCCACATCTACGG
+TGACCTCGGACAGGACACGAAGTACTACGCCATCGAACCCGAGGTGAGCGGTCCGCAGGT
+GGAGGTGCTCAACGaGgTAAAAAACCGGCTGCTCACCGCCAGCGGTCAGCACACGGCACC
+GGACAACGAGGCGGAGTACGAcGACCTCATCGAGGAGCTGTTGGAGGAGGTGACCCACGT
+CGACGACACCTCCTCCGGCTGGCGCAAGGGGCTCTCGAAGCTGAAGAACTTCGGCAAGCT
+GtCGGTCACCGAGGAGACCTACGAGAACATCcGCTACCGGCTCAACCGcGACATCgTCGG
+GCTGGTCCCcTCGAGCCGATCATGCGCGACCCGGCCAACGAGGACATCCACgTCATcGGC
+CCCAAGGAGTGCcACGTCGACcACGGCACCTACGGCATGCTGGAGACGACCATCGACTtC
+GGGACGCCACAGGAGTTCGACAACtGGCTGCGGAACATGGGCGAGCGGATGGGcGACCCC
+CTcTCCGACTCCGACCCGATCGTCGACTCCACGCTCCCCGACGGGTCGCGTATCAACATT
+ATCTACTCCGACGACGTCTCGCTGAAGGGGTCTTCGCTCACGATCcGGCAGGGCgACgAG
+GTgCcGcTGTCGaTCAACCAGATTACCCACTGGGGAACGCTCTCGCCGCAGCTCTCGGCG
+TACCTCTGGCTCTGTTTGGAGAACGAGCAGACGGTGTTCGTGGTCGGGGAGACGGCgTCG
+GGGAAGACGACGACGCTGAACGCGATACTGTCGTACATCCCGGACGACTCGAAGATCTAC
+ACCGCGGAGGACACCGCCGAGGTCATCCCGCCCcACAACACTTGGCAGCAGCTGTTGACC
+CGCGAGGGCGgcGACGAGGGCTCTTCCGATGTCGACATGTTCGATCTGGTCGCCGCCGCG
+CTGCGGTCGCGTCCGGACTACATCATCGTCGGGGAGGTCCGCGGGGCCGAGGGgCGCATG
+GCGTTCCAGGCGGCCCAGACGGGTCACCCGGTCATGCTGACGTTCCACGCCTCGGACATC
+GTCTCGATGATCCAGCGGTTCACCTCCGAGCCGATCAACGTCCCGGAGACGTTCATGGAC
+AACGCCGACGTGGCGCTGTTCCAGAACCGCGTCAAACAGGGCGACGACGTGCTCCGCCGG
+gTGACCAGCGTTCAGGAGATCGAGGGGTACTCGAAGGAGATGGACGGGGTCGTCACGCGC
+GAGGTGTTCAGCTGGGACCCTGTCGAAGACGAGATCGTCTTTCAGGGGATGAACAACTCC
+TACGTGCTCGAAGAGCAGATCGCGACGCTTCTGGGCTACGCCGACACCCGCGACATCTAC
+GACGACCTGGAGTTCCGCGCGGAGCTGATAGAGCGGATGATTCAGGAGGGGATCATGGGC
+TACCACGAGGTGAACGACGCGATCAACTCCTTCCAGCGCGACGGCGTCGAGGGGCTCCCC
+TTCGACATGCACCGGAACACGAGGTAGCGACGATGAAGGCGAACGCGACGATGGGATGGG
+GGgAACACTGACGATGGCGGTAAAGGAGATGGGCGACGGGCTCGCGACCGCGCTCCAACT
+GACCTCCGAGGTCATGGAGTCGTACGACCAGCTCGACATCTCCAAGCGCAAGTACGTCGG
+GCTGGTGTTGCTGCCGGCCGTGTTCGTGTTCCTCGCGAGCGTCGTCGGGCTGGTCGCGCT
+CCCGCTCCCGATCGCCGCCCGGGTGCCGATCCCGATGTTCGGCGCGCTCGTGCTGTTCGC
+GGCCGTCATCTACCCGAAGATCTACCTCTCCAGTCTGGAGACGAAGATCGACAACCAGCT
+ACACCTCGTGATGACGCACATGACGGTGTTGTCGACGACGAACATCGACCGCATGGAGGT
+GTTTCGGACGCTGGCGAAaGAGGAGGAGTACGGCGTCGCCGCCGAGGAGATCGGCCGCGT
+CGTCCACCTCGTCGACACGTGGAACCaGAGCCTCGACGACGCCTGTCGCCGCCGGGCACA
+GGAGGTCCCCTCCGACGCGATGGCCGACTTCTTCGACCGGCTCGGCTACACGATGGGCgC
+GGGGCAGTCGCTCCAGGAGTTCCTCGTCTCCGAGCAGGACGTGATGCTCGCGCAGTACGA
+GACCCGCTACGAGTCCGCGCTCTCGAACCTAGAGGTGATGAAGGACCTGTACATGTCGAT
+GATCCTCTCGATGACGTTCGCGTTGGTGTTCGCGGTCGTCCTCCCGATCCTCACCGGCAA
+cGACCCAACTGCGACGGTGGCGGCCGTCATCGTCCTCTTCGTGTTCGTCCAACTGGGCTT
+CTACGCGATGATCCGCGCGACGTCGCCGTACGACCCGATCTGGTACCACCCGGACGAGCG
+cGCCCCCGGCGACCTGAAGCTGTGGGCGTCGCTCATCGGCGGCGGCGGGCTCACGTTCGT
+GATCATCGGGATCACGGCCGCCGGGATGTTCGGCTACGGGCCGGGCCTGCCGGGACTCCT
+CTTTTTCGTCGACAACGTCCGGCTGCCGCTGTACCTCGCGGTCCCCATCTCGCCGCTGAT
+CGTCACCGGCGTGGTGCTCCGGCAGGAGGAGCAGGCGATCACCGCCCGCGACGGCGAGTT
+TCCGTCGTTCGTCCGCGCGCTCGGGGCGACGGAGAGCGCGAAGCAGTCGACGACGACCGA
+CGTGCTCACCACCCTCCGCGACAAGAACTTCGGCAAGCTCTCGGAATCGATCGAGCGGCT
+CTACcGCCGGCTCAACATGCGGATCAGCACCGAGGGCGCGTGGCGAGCGTTCACGCGTGA
+CACGCGCTCGTACCTCATCCAGAAGTTCTCCGAGATGTACctCGTCGGTCGGCAGATGGg
+CGGGGACCCGAAGATGCTCGGCGAGCTGATCTCGAAGAACATGAACGCCGTCAACCAGCT
+GCGCGAGCAGCGCCGGCAGGCGGCGATGACGTTCATCGGACTGCTGTACGGGATCACGGC
+GGCCGCGACGTTCGCCTTCTTCATCGGACTGGAGATCGTCGCCATTCTGGCCGACCTGAC
+CGCTGACTTCGGGCTCGAAGAGATGGACATCGGCCAGATCGTCTACCCCGGCGCGTACGA
+CATCCCGCTGATCGAGTACCTCCTGCTCACCGTCGTGCTGTTCAACGCGGCGCTCTCCTC
+GCAGATGATCCGCCGGATCGACGGCGGGAACCCGGCGAACGGCTACATCCACTTCGTCcT
+CCTGaCGTGGCTCGGGGCGgTCACCGCCATCGCGACGCGGACGCTCGTCAACGCGATCCt
+GTCGATCTGAAcGGCCCGcGGACGGgCTGCTCGACCGTCACTCGAACAGCGTCGGCTcGG
+CGATCTCCTCGTCGGCGgCGTCGCGCCACGAGCGCgAGGGCGTCCATCCgAACAGCCGAT
+CcGCCTTGTCGATCGCGTAGACACCGCGGTCGTCGCCCTCGTCgACGgTACAGTCGTCGG
+gAACGCCGTCGTACGCCTCGCGGAGGAGGTCGAGCAgCGGGCGGCcGAGGgCGTTGtcgg
+ccgcgacgcagttcaccgcctcgtgggNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNGTGGACGACCGCGTCGGGgT
+CGACCGCGGCGACGATGTCGAGCGCTTCGCCACGCTCCGCGAGGTCGGCCGCACGGAACG
+AGACGTTCGGAGCGGGGTCGACGCCGAGCCCCGGGTGGTCGTAGTCGACGACGACGACCT
+CGTAGTCGCCGGCGAGCCGgTCGACGACCCAGCGCCCGGAGgCTCCGCGGCCGCCCGTAA
+CGAGTACCGTTTCCATGCCAGTCGGTCGTGCGGACGGGCGAAAAACGCACCGCACTTGTC
+GGGTGCGGGACGGCGTGGCCTCCGGCAGGCTTTAACGCGCTGAACGGTTATTCAACGCCA
+TGGAATGGAAGACAGACTGGGGGTTACGCGGACGGATGGGACTGACGATGTTCcTCCTGT
+TCGCCCTCTACGTCGCCTTCGTCGGGGTCCTCGTGACGTTTTTCGATGTTGGGAGCCTGA
+CGATCCTGATCATGCTCGgCGGGTtCTCGCTCGCGCAGTACTTCTTCAGCGACAAGCTGG
+CGCTCCGGAGCATGGGCGCTCGCGAGGTGAGcGCGGACGAGTACCCCGACcTCCACCGTC
+GGATCGAGCGGCTGAGCCAGCAGGCCGACCTGCCGAAGCCGACGGTCGCcGTCGCGAACA
+CGCAGGTGCCGAACGCGTTCGCGACCGGCCGGAACAAGAAGAACGCCACcGTCGCGGTGA
+CgACCGGgcTGCTGgAGAGCCTGGACGAAGACGAGTTGgACGGCGTCCTCGCCcACGAGC
+TCGCCCACGTGAAGAACCGCGACGTGATGGTGATGACCATCgCGTCGTTCCTCTCGACCA
+TCGCCTTCTTCATCGTGCGgTGGGGGTGgCTGTTCGGCGGCGACAACCGGCAGGGCGCGC
+CCGTCATCGTGGCGATCCTCGTGTCGCTGGTCGTCTGGGTGATCTCGTTCCTGCTCATCC
+GCGCGCTCTCGCGGTACCGCGAGTACTCCGCCGACCGCGGTGCGGCGCTGATCACGGGCC
+AGCCCGGCGCGCTCGCCTCGGCGCTGATGACGATCGACGGCCGGATGGACAAGGTGCCCA
+AGGAGGACCTCCGCGAGGAGGCGGAGATGAACGCGTTCTTCATCATCCCGATCAAGGCCG
+GCTTCGTCGGCAAGATCGCCTCGACGCACCCGTCGACGGAGAACCGCATCGAGCGGCTCC
+GCGAGATGGAAAAAGAGCTGGAAACGGCCTGATACGGCTGCTACTCTGGTTTTtGCGGAA
+TTCTTCTCGCGGGTGTGTCTAGGGCTCTGATCGCTCGACTGGACGTCGTTGTTCACCaCT
+ACGAGGCTGACGTTGTGACCGAGGTCGCCGAAGCCCCAGCCGCGAGGCGGTCAGACGCTC
+GCTGTGCTCCTCGCTCGCGTTGCTCGCTGCGGTGCTTACATCGCCTCTGACCGCCTCGCG
+GCTGCCCCTTCGAATCCCGCCCcGCGACCGCCCcGCACCTCGCGCCTCCCCAGCCTCGTC
+GGTGGTTCTCCGCGTTGCTCCGAACCACCGACTCCCTCGCGCGGTGCTCCTCGCGGTCGC
+CCTCGGCGACCGCTCGGAGGCACGCGCCACCACCTTCATTTATAAGTAATCACGGAATAG
+CCGCACCGCTCGTCGGTGCGAGCGGACTGAGGGGAGTAAGCCCCcTTCGGTTCGTCCCGA
+CATTCGGCTGAGCGTCCGCGCCGTGGCCGGACTACCTTATGgCACGGACTTGCACCGGCG
+AGGATTCGCCGTTCCATCCGTTCCCGCCcGTCGCGTGGCGAGGCCACGTCGGTCCTCGAC
+GGGTTAACTCCCTTCCCTTGCGGGTCGGTTCGCGCGTTCGCGGGAtCACCCGCGAACGCC
+GCcGGTCGCCTGCGGCGACCGAaCGCGTCTCATCGGTCGAGgCGGGGGgTGTCGTTGCTG
+TTCCAGcGCCAGCCGTCTCCGACTCCGGGCGTGTGCCCGGTCGCCCGTCCGGCCGgTGGG
+GGgACTTTCCTCATGCCGGAGGCACGGGAGTCGGGCTCCCTCTGTCCGTTCCGCCCTTTC
+GCCCGCCGGCGAATAAGCGGTTCGATCGGGCGCGTTTCCGGCGAGACGCCGCGAACGCCG
+CGGGAGCGGTGCCACAaGGGAAGCGTTCAAGTCGTCAGCAACGTAATAGTCTCTCATGTC
+CGaGGCTCAGACCGTTCAGCTGTCGTACGACGACGGTGCACGAGCGGTCGAACTCGCGCG
+GGAGGCGGTCGAGTCGTTCGTCCAACACGGACAACGCGAACAACCCGGGAGCATGCGCGA
+GGCGTTCTACGCCCGCACCGGTGCCTTCGTTCGACtcGAATCGACGCGGGGACGCGGCCG
+CCTCCGCGGCTGCGCCGGCGCGTGGGAGACCTCAGACCAGCTCGGCCACGCCATCGTCGA
+GGctGCCATCAAGGCGGCCTCCGACGACtCcTGCGGCTCCGAGGTGGAGCCGAAGGAGCT
+GGACAACCTCACGGTCtCGGTgTtCGtCGTCTCGAATACGATCctcACGAAcGACCCGCT
+CGAAGACCTCgAGGTcGGCACCcACGGCGTCGCCGTCGACAGCGGCAACGCTCACGGcTG
+GCTCTACCcGACGGTCCCCGTCGAGAACGGCTGGTCCGGCGCGGAGTTCCTCTCGCGCGC
+CTGCCGGAAGGCGAAGCTCTCCCCCACCGCGTGGCAGGAGGAGGACACGATAGTGACGCT
+cATCGAAGGACAGGTGTTCCGAGAGCGCGCCGACGGCGGTGCCGTCGAAGAGCTGTAGTC
+CGTTCCGCTGTCTCCTCTCTGTCCcTCCCcGCCCcTTCTTCGTCTCTCCCcGCCCcTTCT
+TCGTCTCTCCCcGCTCGGTCCCGCGTCCGGGCGATTTCCACCCcATCGCGTTTCTCTCGG
+TCGACGCCGAACGCAGAGCCGTAGCCTCGTCGAGCGCGACGCCCAATTTCTTAGGCCGTC
+cTAAAAaCCGAtGGTTTTTtGATGTTTtAGgCGGgCCTAaTATCTATgAGAcGTTCGGAc
+GACgCCCGCGTcGACCcTCcGCcGgcGGTGATCCgCgATgaGcGTCGAGACCcACGtCGA
+CCGCGCTCGCGaCCGTGTGgCCGCCGAGCGCGACGtCGTCGCGGaCGAGCgACGGgCCTa
+CGAGCGCTTCGGGTCgACCGTCgCgTCGaTCCCcACaGCCTCcGgCCCGgCGgCctCcGG
+CGGGgAGACGACTACCGGTACCGGACCGGgaGCCGGCGGCGTTCGCgCGGCCGTCGGGGG
+ACGGACCGCCTCGGCGACCGACGGCTGCCGGcggGTCCGAGAGGCGTTCGCCNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNcgcgGCCACGagggcgacGaGcGCCGCCGCGACGCCG
+AACCCGGGCGCGCTgTTTCCGGTGCTGTCGCCGTCGCTTCCGTcggtgccgtCGCTtCCG
+TTCCcGCCGTCTCCGCCgTCGGTGCCGTTAGCGTCGTCGCTCCCGCCGTCGGTGCCGTCA
+CcGTCGCCGCTCCCGTCCGCCccGTCcGTCCCGTCGGCGTCCGGGAGCGCGAGGTCGGCG
+TCCGGGCGCAGTTCGAGGAcGCCCTCGGGAGACGGCGCGTGGGTTATCGTCACGCTCGTC
+CCGTCGCGCTCGACGCCGTACGCGCCGGGGAAGTCGCTCTCGTCGCCGACGGCGTAGACG
+GTCCCCTCCTCGTAGCCGCCGTCGCCGTGCGCGTTCAGCATCCGCACGTAGGCGTCGCGG
+AACGCCGCGGCGTCGGCCTCCGTCTGCCACTCCGTCGCCCAGACGTACCCGTCCCGGTCG
+CCGTTCCGGTACGGGTACAGCTCGTCGCCCGCCCACCCGTCCGTCACGGGGTGTGCGTAG
+TTGTAGGTCCCCCGCGTCTGGAGCTGTACGTCCGTTTCGAGGAGGATGTTGAAGTTCCCG
+CCGACGGATCGGTCGGGATCGAGGATCGGGTACTCGTACGCGCCGTCGAACTGGACGCCG
+GCGCTCTGATACCAGAACATCACGAACATCGACGCCTCGCCCGCGGTCTCCGCGCCGTCG
+ACGCCCTGGTCTCCGTACGTCTCCCAGCCGCCCGTCGCGGCGTCCTCGAAGTCGACCTCG
+CTCGTCTCGTAGTCGGGGTTCCGATGGATCACCTCAGCCGTCGAGTTCGGCGGGTCGTTC
+ATCGTCTCGTTGACGGCCGCCCACCCGCCCTCGTCGACGAGGTCGCGGACGTAGAGGGCC
+CCGTCGCCGTACGGCTGGAGGACGGTCTGGAGGATGCCGATGTTCCCGGAGAACCCGCTG
+CCGCCACCGCCCCCGCTTTCAGgTGGCTCGACGCAGGTCCAGTTGTCAGCACAGCGGGCG
+GCGTACCGCTCCTCGACGTGGACCGCCTCTCCCTCGACGATCCCGTTGACCGCGAGGTCG
+CCGTCCTGGGTGACGCCGACGTAGCGCGGGTCGGTGAGGTCGTGGTACTGGTCTTGCATC
+GCGTGGAGCAGCTCGTGCGCGAGCGTCgAGGGGTCGACCTCGGCCGACTCGCCGTCCGGG
+ACGACGATGACGATCCGGTCTTCGGCCGGCGAGTAGAAGCCGgAGACCGCGCCGCCGAGC
+ACCGAGTCGATCTCGTCGTTCGCGTTCTCGCCGTCGCCGACGACGAACAGCGCCCTCCAC
+ACCTGGTCGTTCCAGCGGCGGAACGCCTCGGACTCGTTGCCCCCGCCAGCGGTGTCGTTC
+GCGTACTCGCTTCGAGACACCGTCTCGACCGGCACGTCCTCGCGGAAGGGCCGCTGGCGG
+ACGTGTTCGACGCGCGCCATCGTCAGGTCCGTCAGTGCCGCCAACTGCGTCTCGTTGAGC
+CCGCCGGTCTCGTTGAACTCGACCGACTCCTCGTAGTGCGTTCCGTTCCAGCAGCCGACC
+AACTCGGTGCCGTCTCCGGGATCGCACTCGTCGGCGGACGCGGAGGACACGGGNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNTGAGAAcccgtCGCATACGGatcGTATCGGA
+CGcccTAGTAAGTAGTCTGTTGGTTCCTTCGGCgTCGCCGCcGGCGGATTTTttCGgTCG
+GCTCGCcGACCGCGGCGAGCGcGTTCGCCGGCCGGGACGACGGTTTTTgAGGGCCGCGCC
+ACAACCGCCGGTATGGCGTTCGATCCGACCGAGACTGCGGTGGTCGTCGTCGACATgCAA
+AACGGGTTCTGTCACCCCGACGGGAGCCTCTACGCCGAGCCGAGCGAGGCGGCGGTCGAG
+CCGGTGACGGCGctCGtCGACCGCGCCCGCGACGCcGGCGCGaGcGtCGTCTACACCCGc
+GACgTCCACCCgCCCgAGCAGTtCGACGACaCGCAcTaCTACGACGAGTTCGACCGGTGG
+GGCGAACACGTCGTCGAGGGGTCGTGGGACGCCGAACTCCTCGGCGACCTCGACGTGCGC
+GACGCGGACCACGTCGTCGAGAAGCACACGTACGACGCCTTCTATCGGACCGATCTGGAG
+GGGTATCTCGACGCGCACGGAATCCGTGACCTCCTGATCTGCGGCACGCTCGCGAACGTC
+TGCGTCCTCCACACCGCGGGCAGCGCGGGGCTCCGGGACTACCGCCCGGTCGTCGTCGAG
+GACGCGCTCGGTTACATCACCGAGGACCACCGCGAGTACGCGGTCGACCACGCCGACTGG
+CTGTTCGGCGAGACGACGAGCCGCGACGAGGTCGCCTTCGCGTCGGAGTAGGGTCGTCGC
+CGCTTCGATTCCTCCGAACCGCGATTATCACGCGCGGCAATCGGCGTGTAACCcTTTTTG
+CCGCTCGCCGGAACCGCGAGGTATGGACATCTCTCGACGGGNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNGCGCGGCTGTTCGACGCGAGCGAcctCGCccgcGTCaagggcGTCTTCGCCGAGgg
+cGACGAGTACCTCGTCCAGGTCGTCCTCTCCGAGGCGGGCGTCGAGTCGTTCCGGAGCCG
+CCTCGACGACGCGGGCGCGACCGACGACCCGGCGGCGTTCGTGGTGTCGATGGCGCTCGA
+CGGGACCGAGGTCAGGCGCGTCGAACTCGACCGGGAGACCGTCGACGCGCTCACGGGATC
+CGAGTGGGAGGGCGTGCTGACGcTCCCGTTCGGCGAGGAGTCGGTCGCCACCTCCGTCTT
+CGAGCGCCTCGCCGCCGAGGAGTGAGTCGTCCCGACGGCTGACCAGTCAGGTCCCGCCGC
+GCGGGCGGCGGGTGGACAGCGTTTTtGCTCCCGCCCTCGTGTCTCCGTCGTGAGCGACGG
+AACCGCGGACGACGGCGGTCGCCCGTGCCCGGTCTGTGAGACGCCGATGTACCACCGACA
+CTGTAAGTACGTCTGTCCGGCGCACGGCGTCGTCTACGACTGTAGCGACACGTTCTACTG
+ACCGGACGGTCGGTTCGCACGCCGCCTGCGAGAgcGGAATTAACCGACCCGGACGGGGAC
+CAAACTGAGTCGTGCGAACTGTTATGTTCTTGGAGTTCGATTTTTACCACATGATGGGCG
+ACCCGTACGTGACCCTCCTTGCCGACCTCCCGGGGTCAGCATGGTAGAGCAAAAGCAGGT
+TGCCCGGAGCAAGCGGATCCAACGCCGCACCGGGAAGACGTTCCACGTCGCCACCCGGCT
+GCTTCCCCAGCGGATCCGCCATCCGACGTACGTGCTGTACGGCTTCTTCCGGATCGCCGA
+CGAGGTCGTCGACGCGGCGGACACCGCGCCGCCGGCCGAACAGCGTGCCGAGCTCGACCG
+GCTCCGGGCGACCGCGCTCGGCGAGGAGCCGACCGACGACCCGGTGTTGGAGgCGTTCGC
+CGAGGTGTGCGAGCGCAACGACATCCCCGACGCGgACGTCCACTCGTTCGTCGACGCGAT
+GGCGAGCGACATCGACACCGACCGGTACGAGACCTACGCGGACTTGGAGGCGTACATGGA
+CGgCTCCGCGGCCGCAGTCGGgCGAATGATGACGGCGATCATGGACCTCGATCCCGAGGC
+GgAGGCCGAGGCGCTCCCGCACGCCACGAAGCTCGGCGAGGCGTTCCAGATGACGAACTT
+CCTCCGGGACGTCCGCGAGGACGTGGTCGAGCGCGACCGgATCTACCTCCCGCTGGAGAC
+GCTCCGCCGCCACGGCGTGAGCGAGCAGCAGATCCTCGATCTGGAGTTCGACGAGCACGT
+CGCGGCCGCGGTCCGCGAGGAGATGGCCCGCACCGAGCGGCTCTACGAGGAGGGCGTCGC
+GGGCATCAAGTACCTCCCCGAGGACTGCCAGCTTGCGGTGCTGCTCGCGGCGGTGCTGTA
+CGTCGACCACCACCGCCTCATCCGAAACCGCGGCTACGACACGGTGTCGGCGACGCCAGA
+GCTGTCGTTCGCCCGGAAGATCTCGCTGCTCGTCCGCACCCGATGGAAGTGGCAGTGGAa
+CCGCGACCCGGAGGCCGTGTTCTACGACATGTGTACCGACTTCGATCCCGGCCACGACCG
+CCACGGTCACGGCCCGCACGGCACCGGCGTCCCGCAGACGGACTGACCGGCGGCCCGCAT
+GGAGCGCTCCCGGTTCGTCTCCCTCGCGGTCGCCGCGTTCGGGCTCGTGTTCGCCTCCTT
+CCTCCTCCGCGGCGTGACTCGACTGGTGGCCCCcTAcGAGGTCGCCGTCGCCGTGTCGGC
+aCCcGTTCTCTTCGCGGCCGCCGCGCTGCTCGTCGCGCTCTTCGTCCTCGCCGTCCTCGA
+CGCGACCGGGATCCGGCCGATGGAGTAGTCGGCCGACcGATGGAATAGTCGGACGGCTGA
+CGcGCCCGCGAcGGCCCGGCcGAGTCGGAAcGCCcTTcGCCCcgCCgCctCCgacGGGgC
+gTATGGACGTaCNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNGGAgCGGtGAGAGCGGCGACGCCGGTGCcGGCCTCGACGGcGGCGACGGGA
+GCGATGGGGGCGACGGAAGCGACGGAAGCGACGGAAGCGACGGCGGCGACAGCGGAGAGC
+CGGgCGACCCGATGCTCAGGGACGCCTCGGAGTTCGAGTACGCGAaCCCCAACTGGGAGG
+AGAACAACTACCTGTTGACGGCCGTCGCGGAGAACGACTACTTCCAGGGGAGCGCGACCG
+ACCTGGAGAACATGCGGAACCGCGACATCGACGAGGTGGCCCACGGTGAGCCGCCGCGGG
+AACTGCCCGACGACGAGAGCGACTGGGTCGACCCcGATCCGCTCGTGTTCGTCGACAAAC
+CCGGCGAGTCCGGTCAGGCGCAGTTCCAAGAGACCATCCAGCCGATGATGGACCGGATCG
+AGGAGACGACCGGTCGGTCGGTCAGGTGGCAACCCGTCGACTCCAACGCGGCGTCCGTCG
+AGGCCCTCCGCTCGGGGCGCGCTCACTTGGGAAACGTCTCGACGGGGACGACGGCGTTCG
+CGGTCAACCTCGGCGGCGCTGTCCCGTTCGCGGACCCCATCAGTCCCACCGGCCAGTTCG
+GGTATCGGCTGCTCGCGATCACCCGCGCCGACATGGACGAGATCCAGTCGGTCAGAGACT
+TCCCTGACTACGACGTCACCCACACCGAGCCGGCGTCGAACTCCGGGAATCAGGCaCCGT
+CGGCGCTGTTCGACCAGTACTTCGACGTGACGCCCGGCGAGGACTACGAGGTGGAGTTCT
+CGGGCGGCCACGACCAGTCCGGTCGCGGGATATTCGTGGGCGACTACGACTGCGGCCCGA
+TCTGTAGCACCTGTCTGGACGACCTCATCCAAGCGAACGACGACATGAGTTACGACGACT
+TCAAAGTGGTCTGGGCCAGCAATCCGTTCCCGCCGGGTCCGGTCGTCCACCGCTACAACC
+TCCACCCGGACATCGTCGAGGGGATCAAGGAGGCCTACATCGAGACCGACTGGACGGGGA
+CCGACTACGCGGAGCAGACCGGCGAGGCCGAATACGTCCCGATCGACTACAAGACCGTCT
+TCAACGACATCATGGTCATCCAGCGGTACAACGGCGTCGAGTACGAGAGCGGGAACCTGT
+AACCGATGCTCGAAACAGAGAACCTCGGGAAGACGTATCCGACCGGCGACGAGGCGCTCC
+GCGACGTGTCGGTCACGATCGGCGGCCGGGAGGTCGTCGCGATGATCGGCCCGAGCGGGG
+CCGGCAAGAGCACCTTcGTCCGGTGTATCAATCGACTCGTCGAGCCGACCACAGGGAGCG
+TCCGCCTCGATGACCGCGAACTGACGGGACTCGGCGAGGACGAGCTCCGGAACGCCCGCC
+GGGACATCGGGATGGTGTTCCAGGAGTACAACCTCGTCGAGCGGCTCACGGTGATGGAGA
+ACGTCCTGTCCGGGCGGCTCGGCTACGTCTCGAACTGGGCCGCACTCCGCCGGAACTTCC
+CGCCGGAGGACGTCGAGCGCGCGTACGAGCTGCTCGACCTCGTCGGTCTCGACGACATGG
+AAAACAAGCGAGTCGACGAGCTCTCCGGCGGCCAGCGCCAGCGGGTCGGTATCGCGCGGG
+CGGTGGTCCAAGAGCCGAAGATCGTCCTGGCCGACGAGCCCACGTCGAGCCTCGATCCCG
+AAACGTCGCGGGACGTGATGGAGCTGCTGACGGACATCGCCGTCGAGCGCGATGTCCCGG
+TCGTGATAAACATCCACGAGGTCGATCTCGCAGAACGATACGCCGACCGAATCCTGGGGC
+TCCACGACGGGGAGCTCGTCTTCGACGGCCCGGCGGCCGACCTCACAGACGAGTCGAAGG
+GCGTCATCTACCGGGGCGAGGAGCTGCCGGCGTCGGCGGCGACAGACCCGGATCGACTGT
+CGAACGGCACCGGCGGCGAGGGCACGCCCGAGATCACCGGGGACGGGTCGAACGCCGGAA
+ACGGCCGCcTCCCGGCAGAGGACTGACCGATGGCGACCGAGTCACCGACGTCGACCGACT
+CGCTCGACGCGGCcGAACGGCGGACGTGGAGACGCCCGACCGCGTTCCGAAACCGCTCCG
+CGAAGTGGGCGGTGTACGGGGCCGTCCtcGCGCTCGTCGTCTGGTCGGTCGCGAGCCTCC
+GGATCACTCCCGGGCGGTTCATCTCGGGGCTAGGCTACGGCTACGAGCTGATCGACTCGA
+TGCTGCCGCCGGAGACCGGGAGCGAAAACATCGCTAGGCTGGTCGATCGCATGATCGAGA
+CGATCGCGATGgCGATGATCGCGACCGTCTCCGGGATCGCGATCAGCCTGCCGGTGGCGC
+TCGGGGCGGCTGGGAACCTCTCGCCCCGGCCGaCGTACTACCTGAGCCGGGGGATAATCA
+GCGTCTCGCGCGCCATCGACGGGCTGATCGTCGCGATCATCGCCGTCATCGCGCTCGGGT
+TCGGGCCGCTCGCGGGGATCTTCGCGATCAGCTTCAAGACGGTCGGGTtCTTTTCGAAGC
+TGTTCGCCGAAGACTTAGAAGACATCGACATGGGCGGCGTCGAGGCGATCGaGGCGACGG
+GTGCCTCCCGGTTCCAGCGGCTCGTCTACGGGGTCGTCCCGCAGGTCGTCCCGCGGTTCG
+CCGGCCTCGCGGTGTACCGCTGGGACATCAACATCCGGTCGTCGACGATCGTCGGGATCG
+TGGGGgCGGgCGgACTCGgCGTGCTCCTCCAgCGGTCCTACTCCCGGTAcGAGTACGACT
+ACGTGgCCGCAAtCTTGATCGCCATCATCGCGGTCGTCCTGGTGGCGGAGTTCGTCAGcG
+CGGTCGTCCGACGGAGGGTCCAGTGATGGCGGGAGCCGCGAGCGACTGGAGCCGGTTCGA
+CGCGAGGGAGCGACTCTTCCGGATCGGCtCcGTCGTCGTCGCCGCCGCGATCGTGGTCGG
+ATCgTGGGAGTGGCTCGACATGAGCCTGCGGTACGTGGGTTCCGCGCCGCTCCAAGTCAG
+CGaCCTGCTCGGACGGATGTACCCGCCCGACTGGGGATACCTACCGAACGCCGTCGGTCC
+GCTGGCGGAGACGATCCAGATCGCCGTCGTCGGGACGATCGGCGCGGTCCTTATGGCCGC
+ACCCGTCGCCTACATCAGCGCCGAGAACACGACGCCGAACAAGGCGACGTACGCGCTCGG
+AAAGCTCATCGTCACCGTCTCGCGGTCGGTCcATACGATCGTCTGGGCGCTGCTTTTCGT
+CGTGATGTTCGGCCCCGGCGCGCTCGCCGGGACGGTCGCGACCGCGGTCAGGTCGATCGG
+ATTCCTGGCGAAGCTCCTCGGCGAGGAGATCGAaGAGATCGACTTCGGACAGGTCgAGGG
+GGTCCGCGCGACCGGTGCGAACCCGTTCAAACTCCTCGTCTACGGGATTGTGCCGCAGAT
+CAAGCCCGCATTGGTCGGGATCTCGGTGTACCGCTGGGACATCAACGTCCGAGCGGCCAC
+CATCCTCGGCTTCGTCGGGGCGGGCGGGATCGGCGTCCAGCTGTTCCAGGCGATCAACTC
+GTTCGCTTGGCGGACGGTGTCAGCACTGCTCTTCGCCATCCTGGCGGTCGTGATcGTGAG
+CGAAGGAATCTCGGCGTACGCGAGGAAAAAGGTCCGATGAGGCCGTTGACCCTCGACGAG
+GGTGACGTCGTCCTCTTCGACATGGACGGCGTGATCCTCGACGGGTGGGGgACCGACGAC
+GCGGTCCACGCCCGCGCGCTCGACGACGTGCTCGAAGAGCGGGGgATACGGGTGACCGGC
+GACCTCCGGCGACCGCTCGAAACGTACGAGTACGaCGACGAGTTCCGGGCcGCCTGCGAG
+GAGCTCGGGgTCGACTCCGCCGAGTTCTTCCGGGCGCGAGAGGAGCGCAGCGCgAAGCGC
+gCGGTCGCCCGGCTCGCCGCCGGCaCGAGgCGGCTCtGCCCCGATGTCGACGCCcTCGAC
+GACATAGCCGATCGCGTCCCcgTCGGGCTCgTGAGCAACAACTACCACCCGACCGTCGAG
+TTCGTCGTCGACCACTTCCGGCTCGACGCGTTCTCGTTCGTCCGCGGCCGCGACCTCGGC
+CCGGACGGGTTCCGGCGgCGGAAgCCCGACCCGCACTACCTGAACGAGGCGCTCgacgcg
+ctggacgcctccggtggactctacgtcgNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNGACCGCGCCACGGACATGATCGCCGCCGAGCgggCCGGCCTC
+GACGGCGTGTTCCTCAGGCGCGACCACAACGCCGCGATCGACCCCGGCGTCGACCCGACC
+TTCGAGGTCGAGAGCcTCCGCGCGCTCGCTGAGGTCGTCGGTTCGGACGCGTCGACCGGG
+gAGACGACGCGCTCGgACGGCGTCCCGACCGACCGGTCGCGCGCCGAGTAGGACGGTCCG
+ACCGTTCTCTCTCGGAGTCTTCGCGGTCGATGTCCCGGTTGTCTCTTCCGGGGCCGCCGA
+CCTCGGCGgTGGAATCGCCGTCCGCAGCAACGGTTATCCCTCGCAGGCGCGTCTCGAAGG
+CATGGTACCGTCGCTTTCCGCGTTGTTCGAGGGGTTCTCGGCGCTCGAAGCGACGGTCGC
+CGTCCTCGCCGTCTCCGTCGTCGCCGCCGTGGGGATGGAGTACGTCGTTCTCCGGCTCGC
+CAGACGACACGTCTCGAACACCGACACCGCGTACgACGACATCGTCATCTCCTCGCTGCG
+GGCACCGCTCGTCGTCACCGCCGCGCTCGCCGGCGTGTACGTACTCACGCAGGTCCCGGC
+GATCCGGTCGTCCGTCCTCTTGGACCCGCAGCTGCTCGACGACCTCTTCGGGCGGCCGTC
+GCTGTCGGTCATCGTCCTCGTGTGGGCGTACGCCGCCAACACCGTCGTGAACCGGCTCGT
+GGCCGCGGTCAACGAGGAGGGCGGACGCTTCGACTTCGCGCCCGTGTTCTCGAACGTCTG
+GACGCTCGCGGTGCTGGTCGGGAGCGTCGGGACGCTGCTGTGGCTCTGGGGCATCGAGAT
+CACGCCCCTGCTCGGCGCGGCGGGCgTCGCCGGCAtcGCGGTCGGGTTCGCCGcGAAGGA
+CACGGTCGCGAACTTCTTCGGCGGGATCGCGCTGTACTTCGACGACACCTACAAGATCGG
+CGACTACATCGTCCTCGACGACGGGACCGCCGGGACGGTGATCAAGgTCGGCGTGCGCTC
+GACGACGGTCCTCACCCGCGACGAGGTGCTGGTGAcGgTCCCcAaCGNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNgCCGcAactACATCGgCGgCAGCACGcTcGATTaCGAa
+CACGGgCTTcAGGCcgCcGgCTTCGAGGTCGAGAACCCGAAcGtCGtCTCCGAGTGCGGC
+TGCGGCGAGTCGTTCCGGACGTAGCCGCTCCGGAcGTAGCCGCTCCGGACGTAGCCGTCG
+CCTCCGCGCAGCGCCCCCCTcGTTtCCGGTCCATTTTTGCGACGCGCGAGTCCCCcGcTT
+AAGTCGCTCGGTCGGGTAGCGATAGCCATGAGTCTGAAAGCGACGACGACGCCGAGCGGC
+GAGCGGGTGTACACCGACCGGTCGCGGGTCGAGCGCGGGGCGGACGGTCCCTTCTACGTC
+GTGTTCGCCGACGAGACGGGGGAGTCCCGCTGGGGGTTCCGCTGTGGCAACTGCGGGTCG
+TTCGACACCGCGATGGACACGATGGGCCGGATCCAGTGTACGGAGTGCGGGAACCTCCGG
+AAGCCGGACGAGTGGGACGCCGCCCACGAGTGAGCCGCGCTCGCGTCTCTCTTGCCCGTT
+CTCGACGGTGCGCCGATTCTCCGCGAGCGAAATCGTGAGAAAGTTTATCACGGATGGTGA
+CCAACTCCGAGATAGATGGCCACTGCGAGCATCCCCCCGACGACCGAGGCCAGAGACGTC
+TTCCGCGAACTGGGATACACCGTCTCCGAGGGCGGACGAGAGTTCGTCGCGGAACGCAAG
+TGGCGGCGCGTGCTCGTGACGGTGTTGTGTCTGGACGACGACGATCTCGACCCGTATCTC
+GCAGACGGCGGCGAGACACCGCGACTCCGGTGTTTCGTCACGTGGCGCGACCGCGCGGCC
+GACCTCCAAGACCGGCTCGTCTCCGCGAAACCGCCCTACGACTGGGCGGTCATCGGCATC
+GACCACGACGGCGAGGACTTCGCCGTGATGGAAGGCGCGCCGGGCAGTCCGTAGGCGCGT
+TCGGTTTCCTCCTCGCGGTTCGGGACGCCTATTTTTATGCCACCGTGTGTCGTATCGGGA
+CGTGACATGGTGTTCAAGAAGATCACGCTGATCGGGACGAGCGAGGAGAGCTTCGACGCC
+GCGGCCGACGAGGCCATCGaCCGCGCCGAGGACACCCTTGAGAACGTCTACTGGGCCGAA
+GTAGAGGAGTTCGGGGTCGAGCTTCAGGGGgACGCCGACCGCGAGTATCAGGCCGAAGTC
+GAGGTCGCATTCGAGCTGGAGGGCTGAGCGGAACTCGGGTTTCGGCGTTTATGCTTCGTT
+GTGAGCCCCGGGCTCCGCTTCAACCCCGCATCTCGGCGGCGCGCCGCTACGCCCAGTGAA
+GGAGGTACAGCAGGTAGAGGCTTGCTCCGGTCACGACGACGCCCGCGAGGACGAACCCCG
+CGGTTGCGGCGATCGAGGTCGCGTACAGCGCGAACTGGAgCGACTGGAGTCCGACCAACC
+CCGCGAGGACAGAGAGCAGGGTCCAGACGACGGTCCCGAGGAGCGTCCGGCTCCTCTCGG
+CGATCTCTTCCCGGACTATTTCGCGTACCCGCTGCTCGTTCGGCTCCTCGGAGGGCGGCA
+TAGCACCTCGTTCAATCTCCGAGAAAAaGAACGTACTGGCCGGGTACGTGCCGCTCGGCT
+GTACGCGGATGTGACTGTCTACGACTCACGGATCGACACGAACACCGCCGAAGCCCCAGC
+CGCTCGGCTATACGCGGATATGATTGTCTACGAATCACGGATCGACACGAACACCGCCGA
+AGCCCCAGCCGCGAGGCGGACAGACGCTCGCTGCGCTCCTCGCTCAGTCGCTAACGCTCC
+TTCGCTGCGGTGCTTGCGTCACCTCTGTCCGCCTCGCGGCTGCCCCTTCGAGTCCCACCC
+AGCACAGCACCGCAACCGCAGCCTCACACcTCCCCAgCCTcGTCGGTCGCCGTCGCTTCG
+CTcGGCGACCNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNCTTTTtCcGtGGC
+GGATCGAaGTCGGTGACATGACCGGAGTACGCGTCGGCTCGGCGCTCACCGACGAACAGG
+CGGCGGTCCGCGACCTCGTCCGCGAGTTCGCGGCCGAGGAGGTCCGGCCGACCGCGGCCG
+AGGCGGACGAGACGGAGACGTTCCCGGAAGACGTGTGGGACGGGCTGgCGGAGCTCGGCC
+TGACGGGACTGACGGTCCCCGAGGAGTACGGCGGGTTCGGCGCGGACGAGACGACGTACG
+CGGTCGCCAACGAGGCGCTGGCGCACGGATCGCTCGCGGTCGCGACCGCGCTCTCCGTCC
+ACTGCCTCGCGACCTCCTGTATCGCCGAGTTCGGGACGGAGAGCCAGCGCGAACGGTGGC
+TGCCGGAGATGGCCGAAACTGGGCGTCCGGTCGGCATGTTCTGTCTCTCGGAGCCGCAGG
+CGGGGTCGAACCCGGCCcAGATGTCGACGACGGCGACGTACGACCCCGACACCGACGAGT
+ACGCGCTGAACGGCGAGAAACAGTGGATCACGAACGGGCAGCGCGGCGGGGTGGCGGTCG
+TCTTCGCAAAGACGGTGCGCGAGGAGAGCGACACGAACGAGGCCGACGACGCGATCACGC
+AGTTCCTCGTCCCCGCGGACACCGACGGCTTCGAGGTCGGCAAGAaGGAGGAGAAGCTCG
+GCCTtCGCGCGTCGGACACgACGGGGATCACCTTCGATGACTGCCGGATTCCGGCCAAAA
+ATCGGCTCACCGAGCCGGGCGGCGGGCTCTCAGCCGCGTTCcGAACGCTCACCGAGGGGC
+GGATCGGCATCGCGGCGCAGGCGGTCGGCGTCGCGCAGGCCGCGCTCGACGAGGCGAAGT
+CGTACGCGGAGGAGCGCGAGCAGTTCGACcGCCCGATCGCGGACATCCAGACGATCCGGC
+ACAAGGTCGCGGAGATGGCGACGGACGTGTCGGCCGCGCGGCTGCTCGTCCGCGAGGCGT
+GCCGGCAGGCGGAGGCGGGCGAGGACTACCGTGTCGCCGCCTCAAAGGCGAAGTACCGCG
+CCAGCGAGGCCGCGATGTCGGTGACCAACGAGGCGgTCCAGATCCACGGCGGCTACGGCT
+ACACGACCGAGTTCGACGTCGAGCGGCTCTACCGCGACGCGAAGATCACGGAGATCTACG
+AGGGGACGACCGAGATCCAGAAGACGATCGTCGCCCGCGGGGTGTTCGGCGAGTGACCGA
+CCCGGTCGGGGCCCGGATCGCCGATTACGACGCGGTCGTCTACGACCTCGACGGGACGCT
+CGTCGAACTCGCGGTCGACTGGGACGCCGtcGCGGCGGCGGTCCTCGACGTGTACGCGGA
+ACACGCCATTATCCCCCCGACcGAAGAGCTGTGGGGACTGCTCGGCGCGgCCGACGAGTA
+CGGCATCCGCGACGAGGTCGAGGaggcgatcgcggctccgNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNcgtcgtctgca
+tcacccaCGCGTAGTCGACCCCcTCGTACTCGGCCCGCtCGaCTGGTTGCACGCGACGGA
+CTCGGCGGCGGAGCGGCAAATCGGtGGCGGTCGTGGTTGAAGCGGCAAATCGGTGGCGCT
+CGTCGTCGGATCGGCGGTCGCCGGGCGGCGGTGGCCCCGGGTCGGCCACCGACGCGCCGC
+CTTTCCGGTTCCCGACGATTTTACGGCGTCGCGCGGGTCACTCCGAGGTATGACCACGAC
+GCGGGGACTCCGGgAGGGCGACGATCCGATCACGATGCTCaCCGCCTACGACGCCCCGAC
+GGCGGCGGTTGTCGACGACGCGGGGATCGACATCGCCCTCGTCGGCGACAGCATGGGCAA
+CGCCGCCCTCGGCTACGACTCGACGCTCCCGGTCACGTTCGACGAGGTGgCGAGCCGGAC
+CGCGGCGGTCGCCCGCGCGACCGAGGACGCCCTTGTCGTCGCCGACATGCCGTTCCTCTC
+GTTCGGCGTCGACGAGGCTGAGTCGGTACGCAACGCCGGCCGCCTGCTGAAGGAGGCGAA
+CGCCGACGCGGTGAAAATCGAGAGCGGCCCGCACACCGTCGAGACCACGCGGCGCATGAC
+GGAGGTCGGGATCCCGGTGATGGCCCACCTCGGCCTGACGCCCCAGCACGTGAATCGGCT
+TGGCGGGTACACCCGGCAGGGGACCGAGCAGGACGCCGCCGAGGAGATAATCGACCTCGC
+GGGTGCGCACGCCGACGCCGGCGCGTTCGCGCTCGTGTTGGAGCACGTCCCCGCGAACCT
+CGCGGGCGCGGTGACCGAGGCGCTCGACATCCCGACGATCGGCATCGGTGcGGGCCCCGA
+CTGCgACGGGCAGGTGCTGGTGATCAACGACGCGGTCGGGCTCGGCGAGTGGTCGCCGCC
+GTTCGCGAAGCAGTTCGGCGACGTGCGCGGCGAGATGATCGGGgCCGTGGAAGCGTACAA
+GGAGGCGGTCGAGAGCGGCGCGTTCCCGGCCGACGAGCACTCGCACGtCGAGGAGGACTT
+GGAGGACTTGTACTGATATTCGGGgTACTGCGTTGTTtCCGGtGGAGAACCGGCGATCGA
+GACGAGCCGTTCTGAAGCCACAGCCGGTCGCTACGACGAAGCCAGCGGTGTGACCGAgAC
+CGCCGAAGCCCCAGCCGTGAGGCGGGCGCACGCTcGCCGCGCTCCTCACTCGTTcGCGTT
+gctcactcgctgcggtgctcgcttcgcctgCgCCcGCCTCaCGGCTgCCCcTTcGaGTCC
+cGCCccGcACAGCACAGCCTCACGCCTCCCcAGCCTCGTCAGTCGCCTCCGCTACGCTCC
+GGCGACTAActCCCTCGCGCGTGCGACTCGCGCCcTAGCGGGCGCTCGTCGGCACGCGCC
+ACCGTAGAGAaTCGAGGaTCGCGTCGCGAGCCCcTCGTCAGAGGgTTCGaCCGCTCAGAC
+GGGCAGGAaGCCGACgACGGCCGGCATCTGGCTCGggTCCGTGGTGACGACGACGTAGAG
+GGCGGtGAACAGCACGGCGTTGTGAAGCCCGTGGAGCAGCGCGGGGACGACGAGGTTCCC
+GGTGTACTCGTACACCGCGCCGAACACGAGGCTCGGCACGAAGAGGATCGAGACGGTCGT
+CAGTTGCGCGGAGACGCCGCCGGTCAGCGCGATCACGTGGATGGCGGCGAAGATCGCGGC
+CGAGAGCAGGATCGACGGGGCCgCCGGCAGCGACTCGCGGAGCCGCCCCTGAACGACGCC
+GCGGTAGAGGATCTCCTCACAGGGACCGATGACGAGGAACGACGCGGCGATGAAAAGTGG
+GATGATCGACGGgTTCCCCATCGCCAGCTCGGCGCTGctGTTCGCCGCCGTCTCCGTGCC
+GAGCAGCTGAACGATCGTCGAGACCACGAGGACCGAGATCAGGATGAGCACCCAGCTCCC
+GAGGACGATCCCGATCTCCTTGAGGCTCGGCACCCGCACGCCAAGGTACTCGATTATCCC
+GTCGCGGTCGAAGCCGCGCCACGCGAGGTAGCCGATCGCCAGTCCGCCGAACGCGACGTA
+CTGACCGAACACCAGCGTGAGAACGACGCTCGCGGCCAGCGAGAGCCCGCCGCTCACGAC
+GTTGATGGCGTAGATGAGACCGCCGCTCGCGACCGCGATGAGCGGCCCGAGGACGCCGAG
+CACGAGTGCGGTCACGACCGCGATTCCCGGCGACCCGCCGGTTCCCTTCGGGCCGTCCGC
+GTCGTCGGAGACGGCGTCCGGATCGATGTCGTCGAACTCCTCTGACACCCCGCCGTCCGA
+AGCGGGATCGCCGCTGGAGGGATCTGTCATTGCCCTCGGTAGGACCCCCcGGGCcAAATG
+GTTGTCCGTGCCGGATCGCCCGGTCTGCCCGGTCTGCCTCGTCCCCGAGGCGGCCGCCGG
+TCCCGGCCTCAGCGGCGGAGAAGCTCGTACCACAAcACCGCGGTGACGGCCCGCCCgTcG
+CGCAGGCCGTCGTCGACGaCCGcGgCGAGTAGgTcGTCGTACGGAATCGTCTCGACcGCG
+AtcGAcTCGTTGTGATCGAGGTCGCGGTCGGCGGTCGGCTCGCAGCCGGTCGCGAGCACG
+TGGTGGTGGACcGCGTTCGCCATCCCGTTCGTCGGCTCGACGGTCGTCAGCCGCTCGAAG
+gCGTCGGCcTCGTAgCCGGTCTCCTCGGCCAGTTCGCGGGCCGCCGCGCGCTCGATCCCc
+GCcTCCTCGTCCCcGTCTTCCGGCTCCATCGTCCCcgCGGGGATCCCGCGGTTCACCCGG
+CCGACCGCCTGTCgCCACTCGTCGATGACGACCACGTCGCcGTCGGGCGTCaaCGGgAgC
+aCcACCACcGCCGGCGGCTCGTCgACGTAGTGgAaCCcgTCGGTCTCGCCGTCCGGGAAC
+CGCACCTCGTCCCGGCGCACGTCGAAGCCGGGGCAGGCGTAATCGACCGCGGAGTCGAGC
+GTTTCCcACGCGAGGTCGGCAGGGTCGTCGGGgTcGTCcATGGATCGCGgTCGTCGCTCG
+GGAaCCTAAACTCCCCTCACTCCCCGCGcGCCGTCGAcGAcACCCCCcGTCGCTCCCGGA
+CGCGCTCGACCGCCAGCGCTGCGAGGGTCCCGACGATCCACGCGACCGTCCCGAAGACCA
+GCGCCTCGACGCCGAGGAAGACGAGGCCGTCGGGCGAGAGGAACGCGGCCGCACGCTCGG
+CGAGGGACCGACCGGAGAGCCCGAGGAAGTAGTGGACCGCGCTGTACCCGAGCAGCGCGC
+cGtAGaCGGTGAGCcACGCGGGGaCCAGCCCGtCCCGTCGGTaCGCGAGACtGACGgCGA
+CAGCGACCCCGAGCGCCGCGGCgTCgAACGGGACgAACACCACGCCGCCGGCGATAGaGA
+AGacGCCGACCGcgTAGGCGGCGAAGGcGACGGCGAAaCACAGCGgCGGtGcGAcGAgCC
+GGAGcGaCGGACGCGGCCGGNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNATCGCgTTCGgCTCCGCGCTCCGCG
+GCCTTAAGAaTCAGCCACGCGCGCcGGAAGTGGACGCGGCCCGTCTCGCCCGCGACGCCG
+CACaGATCCAGATCCGATAGCCGGGTCGGTAGTCGTTTATTCCGTGCGCCCCTTACTCGC
+CGTATGTCCGCAGCGATCGACGTGTTACACGTCGACGACGACCCGTCGGTCCTCGATCTC
+GCGGAGGCGTACTTCGAGCGGGAGCTCGATTCGGTGGCGGTGACGAGCGAGACCGACCCG
+GAGGCCGCGCTCGAACGGCTCGACGACGGCTCCTTCGACTGCGTCGTCAGCGACTACGAC
+ATGCCCCCGATGGACGGGCTGGCGTTCTTCGACGCCGTACGCGAGCGCAACCAGAAGATC
+CCCTTCGTGCTGTACACCGGCAAGGGGTCCGAGGAGATCGCGAGTCAGGCGCTCAACGCC
+GGCGTCACCGGCTACTTCCAGAAGGGCGGTCCCGAGCAGCTCCGCCGGCTCGCGAACCGC
+GTCGATCAGGCCGTCGACGAGTACCGGACCAAGGAGATCGCCGAGCGCTACTCCACCGTC
+ATCGAGGCGCTCGGCTACCCCGTCTACGTCGTCGACGAGACCGGCGTCTTCCGGTTCGTC
+AACGAGCCGTTCgCCGAACTCACCGGGTACGACCGCGAGGAGATCATCGGGAGTACCCCC
+GGgTTCATCAAGGACGACGCCGCGGTCGCGGAGGCGGAGGACCGGCTCGGAACGATCCTC
+TCCAGTTCCGGTCCCGACGTCCAGCGCTTCTCCGTCGACATCGTGCCGAAGGAAGGCGAC
+CCCGTCCCGTGTCGGGACCACATGGCGGCGCTGCCGTACGACGGCGAGTGCTTCGAGGGC
+AGCGTCGGCATCCTCCGCGACGTCTCCGACGAGCGCGAGCGCCGCGAGGAGCTGGAGACG
+AAGACCCGGGCGCTCAACGAGGCCCCGGTCGGGATCACCATCACGGACCAGCAACGCGAG
+GACAACCCGATGGTGTACGTCAACGACCGGTTCGTCGAGATGACGGGGTACGGCCGCGAG
+GAGTCGATCGGCGTCAACTGCCGGTTCCTTCAGGGACCGGACACCGAAGAGGAATCGGTC
+CGGAAGCTCCGCGACGCGATCGACGCCGAGGACTCGACGAGCGTCGAGCTGTTGAACTAC
+CGCAAGGACGGGACGGAGTTCTGGAACCGGGTGAGCATCGCCCcGATCAGCGACGCGGAC
+GGAACCGTCACGAACTGGGTCGGCTTCCAAGAGGAAATCACGGCGTTCAAAGAGCGCGAG
+GCGGCGCTCGAACGGCAGAACGACCGGCTCGACTCCTTCGCCAGCATCGTCTCGCACGAC
+CTGCGGAACCCCcTGAACGTCGCGCAGGGGCGTGTCGAGCTGGCGCGCGAGGTCTCCGAC
+GACGCGGAGAACCTCGACGCCGCCCTCGACGCGCTCGACCGGATGGAGTCGATCGTCGAG
+CGCACCCTCGCGCTCGCCCGCGAGGGCGAGACGGTCGGCGACCCCGTACACGTCGACCTC
+GCGGCGGTCGCCGCCGACAGCTGGTCGACCGTCGACACCGCGTCGGCGACCCTCTCCGTC
+GAGACCGACCGCGAGGTGCTCGCCGACCCGGACCGCCTCCGGAACCTCTTCGAGAACCTG
+ATGCGGAACGCGGTCGAGCACGCCGGCCCcgACGTCTCGCTCcGcGTCGGCGACCTCCCG
+GACGgCTTCTTCGTCGAGGACGACGGgCCGGGgATCGACCCcGCGGTGgCCGACTCCCTc
+TTCGAACCcGGCGAGAGCGgCGCGgCGGGgAACACCGGGTTcGGgCTCgCGAtCGtCAAG
+gAGATCGCcACCGCgCACGGCt
+>Halorubrum_Sp_AJ67.CDS.1
+VNCASDAKTDVIAALEDAGVAVADFHTREASLEDLFLAYTEGDAAERDTDASDSTRPDDE
+TAAEEVDS*
+>Halorubrum_Sp_AJ67.CDS.2
+MSLPAVARKDLRETVQSRGMIALIALFSLLVSVLAFIVRPTGQNEQFATEALLSFFVGPV
+LVTYLVPLVGVVVGYGAVSGERESGSLKLLLSLPHSRADVVFGKVIGRGAALALAVFAGF
+LLPAAVLIVVPVTFNAGAFLGYTVFAAALGVVFVSISVGCSAASSTQLRALIGSIGVYVL
+FVLLWSVLTGRLVGAVPGSVINALPLSATQIRVFLQVSNPTSAVEVLSNAFLGGQLFSGQ
+QANRQLSAAAMLVFWTVAPPLAGLLKFDADDL*
+>Halorubrum_Sp_AJ67.CDS.3
+MSPRGRSGFSTPHCDGSLLQNSYLMPIYVLNMVAPSTLLTAFNTLLILGTIGLGISTYIF
+QKRTSLRESLEQLDSLWVEHRREYIGVFLHEFSYLPLLRENAVLKFYVRSPTPEEKANVG
+MIRNAENLIRDTFGKAPEDFLEYDRVTEAWDDESGLYLKTNTVDAVEVRQLAEQIQVDLE
+LSIIDDDEIPPN*
+>Halorubrum_Sp_AJ67.CDS.4
+MAVVTADAQSDSSTQVLRKEAFLSRESLYETEVVEALWREAKRNPKTGGLVSLRMC*
+>Halorubrum_Sp_AJ67.CDS.5
+VYRAFDHSPAHTYEIATALDYHGVCDVDDSRSSAAFRDRLRSKATL*
+>Halorubrum_Sp_AJ67.CDS.6
+VTVHFTTYQNLIIHMPDSDSSESGILLKELRRQSEEREERHQERIQILVALSLFAGYITA
+FFNNLFNNVVLNVATTVLFGVILVFLLYKLILNSHVTNNDLITSDKVDRVFSGLYLFSVV
+GFAVVAVFIITAEQLNISIQDIGSGTIGSILVASMFLLMIILFTFIGKKQNQNLRNQEKR
+LREELPAALKLLEMGDMLDSSKRSALIERLEALLEEDKEKIPDLFWFGSLMMAMEPDGFV
+SLNHSDRSRLLTIVERVARRDKHGRHDEEDLEKIEAIIERAEESERSVSL*
+>Halorubrum_Sp_AJ67.CDS.7
+VKVKFREGARVKMAHHAMYPLPRKDLILPPWVLNPLRPWHVEESERVNRTVVNEIE*
+>Halorubrum_Sp_AJ67.CDS.8
+VNRRLIGIAGVLACVVLVGVAVAATNPTLLIAGYDTATVGPSTATPASRSRPPTPASPTA
+S*
+>Halorubrum_Sp_AJ67.CDS.9
+VKQYVGLSATPDLPEGEGMLFVHGEEAERAYVMRDMAFPIDIVFADANGTVTRIHEAEPE
+PRPYTRYEGTGRYVLEVPRGWSDRHGVDPGDRLVIDRA*
+>Halorubrum_Sp_AJ67.CDS.10
+MTGLARRIAWNLRHRWRRVFALCVVGSGVAAPILSGLWWTLPLVWFFGLVIALPVLHTLV
+KPIPDDDAGSENATGDPALDALRERYANGEIDEREFERKLDRLLETEDAETVDPGDGDVA
+DRVREGLRREVERIRE*
+>Halorubrum_Sp_AJ67.CDS.11
+MVEATVATLKAVSSGGRVGSDGGFTPGRTAALLRIGRRSHARSITSRSPGSTP*
+>Halorubrum_Sp_AJ67.CDS.12
+MGTLELDGVTKVFPDGDGEIVAVDDVDIEMRDGEFLVVVGPSGCGKSTTLRMVAGLETIS
+SGDIRLAGKIINDVKPQHRDIAMVFQSYALYPHMTVRENMAFGLEESTDLSDGEIDERVT
+DATETMGIAELLDRKPSDLSGGQRQRVALGRAIVRDPEVFLMDEPLSNLDAKLRSEMRTE
+LQRLQDDLDVTTMYVTHDQTEAMTMGDRIAILDAGELQQVATPLECYHEPANQFVAGFIG
+DPSMNFFDVQRDGETLVSPLFDYPLSESTLDDIGDVTDLTLGVRPEDISLAGDAEGEHTF
+STVVDVVEPMGDENTVYLRFEDAPEDQTFIATVDGLQQVAAGDEITIEIPEETIHLFDGN
+SGEAVHNREIDD*
+>Halorubrum_Sp_AJ67.CDS.13
+MNDDTRTDGGAVSKADPGASAGVFSGIDGYRALLYLGLLGMLSFFLIPIESGLVTSFKTP
+SGVSGSLPFTPPTGSTFTLEKWQAAFDALGRGLINSALYAIPATVISALLGSFAAYGLTQ
+SNWKPRYKAPILALFVAGVFIPYQAVLVPLSQFWSMIPLEESLSFLWGLGINDDYTGIVE
+LIITHVAYGLPICTVLFRSYYKNMNEEMIEAARLDGASIRRIYRRIVLPLSGPMFAVVLI
+YQFTQIWNDLLFTLVLVQTESSAAAPIVLILAGLGTSLEGQDFALRMAGAFIAALPTLAV
+YIAFGEEFAEGVAT*
+>Halorubrum_Sp_AJ67.CDS.14
+MTRNTDTGDDSGDAVTDGGVAEDRKGSGFSPITALNDRFGSDFVGSSQFWLPPFLLVGLF
+VYGAIIWNFLISLTDFTGFGNPRYGDLDLEMYGRALSESGFVDAAVNTFVLLVGFTLVTL
+ALGLGLAILVDRNIRFENTFRTIYLLPMSLSFVVTAQFWAWMFNFNNGVINIVITSLGLG
+RVDWIGNPDIVLWAVMFALMWQFAGYAMVVYLAGLRAIPNEHYEAAKVDGASTIRMYWRV
+IIPQLKGSTISASVVLMVFALKAFDFLYSLVGGYRPPNGADILATKMVREAYANLNWAYA
+SAIAITLFLMTLGIVGPYLYYQYNRGNL*
+>Halorubrum_Sp_AJ67.CDS.15
+MTDQDKRLSRRHFVGATGAATLAGLAGCSGGGDGGDGGEGALEVLHAWTGGDGATAAEAL
+VEAFEEEYPDIEHEFNPIGGGGNQNLDAVVANRLQNNEPPSAFAGWPGPNLQRYDGVLGD
+VGSVWEEEGFEDVMVQEAVDLHQRNGAYRAVPLGSHRLNCLFYNTSVVEEAGVDPDSLTS
+VSAFIDALETVQNETDAIPMTHGVSGTWTTTQLFSSTMLGQEGYEAYMNFLDGSPDEAAV
+SATFESLAEILENYINDDASSIGLTESNQNIIEGNAAFIHQGNWAAGAYRNAEDFNYDED
+WGFKTYPGSEGMYMLHFDSFLYPSDNPTPDTTDQFMAFVGSEAAQVAFNQYKGSIPTRTD
+VDMSEFGPYLQETQEDFANAEERPPNLQHGLGVPSETMTALNDVISSEFSGPYNVDAATE
+GFVDAVSN*
+>Halorubrum_Sp_AJ67.CDS.16
+MPVGPASVSLSIRRRYLSRSGVGISLDPASMPPQSRRVRKRKPEEYNRFMAVDGVLEIVL
+E*
+>Halorubrum_Sp_AJ67.CDS.17
+MRPSIAAVSYPVAGDAAERPLLAVWLLLALSVLVPVLPAVPVVGYLVRVLAASERGDSLP
+PFLADGRTLLRRSLGGLVVCLAFLGVPFAALLVTLYGVITLEPGADAPVVVILAGSTAVL
+FMGIIGLYLVPISLTTYGRQGSLRRAFSTDSLRPVAGHAAYFFGWTLGFTALVVTVGVGG
+ALFTLSRIGPLAGTFVLAYGLLVTAYLWGRAVERARRR*
+>Halorubrum_Sp_AJ67.CDS.18
+LDARGRAHGLELADERSRVDAGVSLGDHDVVGSHLALVDRGGGLRGFELLEEAERVVVGA
+DERHLTADELRQRLDPVVDLLKGSVRERVSAHADGGRAVKLPAHGLKLAARNAGHADDPD
+GVVRVDKVDEFVDLLAFPLGDRLGLPDRAHTGTSFAGPIVVFT*
+>Halorubrum_Sp_AJ67.CDS.19
+MADTIQEAVTLALDDAPERNFRETVDIAINLRDLDLNDPSNRIDESIVLPAGTGQETQIV
+VFAEGETAVRAEEVADEVLDSDDLEDLGDDDDRAKDLADDTDFFVAEANLMQDIGRYLGT
+VLGPRGKMPTPLQPDDDVVDTVNRMKNTVQLRSRDRRTFHTRVGAEDMSADDISDNIDVI
+IRRLEADLEKGPLNIDGIYVKTTMGPAKEVPV*
+>Halorubrum_Sp_AJ67.CDS.20
+MTNLIEKAERDATLSSAESFALMAFLVGIGMTPDEVVAFCADTSLDAEGIRYQTEYLTDD
+RGTQYPPPTCETLANYGICHNEDDHMQVAADPLSYYEKQVAAADEVTDWRAGREPDEASE
+A*
+>Halorubrum_Sp_AJ67.CDS.21
+MEIDAELRRQITVSLAAAAVFIVGLVGIGVTFGGSTVLPEAGALALVALLAGFVLLMAGV
+GTYLMRADDES*
+>Halorubrum_Sp_AJ67.CDS.22
+MKIVDGDKAECDRCESVFPLADVSLLEKETNRDYERVLCDECLGIVGVPRGYNLRRDITH
+LAK*
+>Halorubrum_Sp_AJ67.CDS.23
+MPSSRRVVEAWIALCLTVGQLTSFAVRTASSVSPTVEGIAGFGAPLAVALGLLRLRPELD
+VGRLWRFAFTAWGLLILMMVASLGGRLIGVSFDAYESYSFPLAVAVALLMEPVYESGALP
+RT*
+>Halorubrum_Sp_AJ67.CDS.24
+MEPVDDWRAAITEAGELTGPIAASIVDEHGDRGQRAIEAVGESRVKQYRDFTVVVGHEDE
+YVIEDGECDCADATYNLDPDDPSERCWHAIAVDVAEAIDAVDHHDMWYSEVREFL*
+>Halorubrum_Sp_AJ67.CDS.25
+MADCPLADDCPSFDERIEGMGCQHYGNKGGAEWCNHYDMPIYELKQQPVQPGEVVTVEVD
+DIHESGAGVGRTDDGFIVLVDGLLPPARAEVKIHRVKSSHATAQDVVERLPDDPDEEADD
+DEAVGADDGEVDEDDDEDHRRDRPDRERLGSRENFWGEVTGVSG*
+>Halorubrum_Sp_AJ67.CDS.26
+VSRSERVEGAAAKRLPASTAGGFGGRVRGNDYVVVGG*
+>Halorubrum_Sp_AJ67.CDS.27
+VTLYDSSVLIDYLAGRDAAVEYVELHADERAVAPPLVLFEVYQGEVFKTGATDLDAIDEA
+LTWVDVVETSAASARAAATLQDELRATGEPLAARDAYIAGVAALRGERLAVADADFDVDG
+ITDRLIVDFV*
+>Halorubrum_Sp_AJ67.CDS.28
+MSKSIRVDEETHAALASLKGDDETFDELLTRLLRERRENVRSGAGLWEGTDAAERARAKR
+REMKRGVDSR*
+>Halorubrum_Sp_AJ67.CDS.29
+VSSMSSVAFFSSASWLAISFSRRREIQKNASSRVSSAISTTTFPSACRPVRPLRWIDRIA
+VGTGS*
+>Halorubrum_Sp_AJ67.CDS.30
+VSVHGEKTTKTRAEQQEYVVSSIADIGPVTARTLLEHFGTVEAVMTAPEDDLLEVDGVGP
+VTAERIREVVGSEYE*
+>Halorubrum_Sp_AJ67.CDS.31
+MSNLDEFLAGERLDDVVFYVSDAYLDDDSRLRSVGTEVDGGVRLILDGETGRSAFQAGTG
+MGAMEFAKTAMGAEGEIARSLDDGACPFAAENPDDDHEIRFVFAFAEAQNXEVGGLYAEG
+DVVHAYAHCTCGESYSHKWVVGDRDD*
+>Halorubrum_Sp_AJ67.CDS.32
+MPGGHAQTLRPFMWRAERLYPDTEIVSRTHEGRTRHTYAEYADRTARLANALDAHGIERG
+DRVATFCWNHTRHFETYFGVPNTGAQLHTINPLLPDEHIQYIVDDADDEIIFVDPSLAEK
+IASAAEGADEFEGVDFVAMGSEGIDALDAPAYEEFIADHSTEYDWPDLDGDQPAGLCYTS
+GTTGKPKGVEYTQSMLWSHTMASQTPQGIPMKDSDVVMPVVPMFHVNAWGMPFTAAAAGA
+KHVYPGPSPDPADLAALIEEEGVTISAGVPTVWLGLREYIEGGNEVDLSTLDTVIIGGAA
+APKALIEWYDDRDVEVLHAWGMTEIAPIGTVSHLKSDLRDADYETQVNKRAKQGLVAPGL
+EFEVIDEDGEEIAWDGEEFGELRIRGPWVTKEYFKRPEANEEEFIDGWLKTGDVVTVDED
+GYMQLVDRTKDVIKSGGEWISSVELENAIMAYDGVSEAAVVGVPHERWQERPVAFVVVAE
+GVDREELVDRIETGLREEYPKWWVPDAVEFIDEVPKTATGKFSKKDLREQYGDQSLVEGA
+VPEDDAPEE*
+>Halorubrum_Sp_AJ67.CDS.33
+VSAWHTSHTTRSGTMNVVMIDREGPSGRRLLLIFSQRSGSGLNVFRPL*
+>Halorubrum_Sp_AJ67.CDS.34
+MTVFVEIDFVTKTAEAPVARLYVTAFIESNLAAETASRLGLRVPPLRKTFLLASLRGLRL
+PCSRSLRSRERTATAPHASPASSVAVASLRRLTPSRGAASRPPGAAARRHAPP*
+>Halorubrum_Sp_AJ67.CDS.35
+MTRGFSTRSLHAGAEPDSATGARATPIHQTTSYVFDDADTAAEMYALRAEGHIYSRLSNP
+TVNVLEDRLADLSGGSDAVATGSGMAAFDAITTVLASAGDNVVASSEMYGGTAAYLTSIA
+GRRGIEARLVDTLDYEAYADAIDGDTAFVHVETIANPSLVTPDFERLADIAHDHAVPLVV
+DNTFATPYLCRPFEHGADITWESTTKWITGNGTTVGGVVVDSGQFPWDHPDADYDELDGE
+SPAFPIDFVEQFGDAAFANVVRQRGVRPTGGQQSPFDAWQTIQGLNTLPLRMERHCENAR
+RVAEFLRDDDRVDWVSYPRFEDHQSHGNAAEYLDGFGGMVTFGVDGGYEAAKTFCESVEL
+TSFLANIGDAKTLVIHPSSTTHAQMDEEQQRLAGVYPEMLRLSIGIEDPEDVIADLDAGL
+AAGERAADGESVDEGSADGSDGEGA*
+>Halorubrum_Sp_AJ67.CDS.36
+MFVAHTSTNFYNRQLRQLMPPSTGSVVPFRRPRRSRLPEACVYGRSGSNRW*
+>Halorubrum_Sp_AJ67.CDS.37
+MSIFGRIVCVQKTFRRITTNVCCRETNQHVRGAPALHRGRATAPRAVGCLRQPLERTELR
+APAALL*
+>Halorubrum_Sp_AJ67.CDS.38
+MRPNIDISHTLNGRVKDYAEQKDKSLEEAYREIIKAGLEAAEHPNEQ*
+>Halorubrum_Sp_AJ67.CDS.39
+MNPATPTGIAVLIAIVNSALLAVLAGVWLDNYHEFGSTLLLGLLGFCAVLLVENLISIAF
+FFSSMRTLYAMDPLVGRVVLGLSLLELLAVSLLTYATLK*
+>Halorubrum_Sp_AJ67.CDS.40
+LKDHDVVEPSDHDYGKLYFLTDRFERHTETFEEITSEVDAE*
+>Halorubrum_Sp_AJ67.CDS.41
+VSDPSILVVEDEPDIAALYAGFLEERYVVDVAETAAEAIDQVDAAVDVVLLDRRLPDGSG
+DDVLEHIRKEGYDCRVAMVTAVEPDFDIIDMGFDLYLTKPVSRSKLLAAIDTLLTRSEYD
+DLVREAAALASKRAVLSSQKPAAQREGNEAYAELVERLEDLDADIDDLGESLSTDDYRAM
+FRDLGEA*
+>Halorubrum_Sp_AJ67.CDS.42
+LAGGVYKRRFSTSGERTATVLSLDIPLLRVCPVKRVSSRATVIDGERSVDTRRGGRARHR
+GAVRRLP*
+>Halorubrum_Sp_AJ67.CDS.43
+MSELVSTGVEGLDSILTGGITERSTVLVSGNPGTGKSIFGIQYLHHGVSEHGERGVYVSF
+EEDEADIRGAAESVGFEGFDEMVEDGDIVILDKREMLRETDFSTAVDRLLDTVEDGDFDR
+LVLDSLSMFQLFFDAEQEKRTYLLKFSDILKANGLTSLLINEQGAVFPDTEVGLENFLTD
+GNIYFIQTPTDSGVNRYVWVAKMRKQDIDTDIFPMEIGQGGITVHERAGGFSMMGGSDDR
+PSF*
+>Halorubrum_Sp_AJ67.CDS.44
+MVGDDLITVLGNKYNTDILTATGDAKSAQDLSDQLDVPIATCYRRINELEEADLLELHDR
+PLSDEHRRVKVYRRKVDGVEVDFRDGLTVEVEERSAVKNRLDDVWRDLSSRE*
+>Halorubrum_Sp_AJ67.CDS.45
+VVVRRSIRSQSVVFAVAGPSQARCLGRRVIAADTRSRGFISGLGTKSVWNSSRGCT*
+>Halorubrum_Sp_AJ67.CDS.46
+MELIEGLYLMTTTVLAGASATLVAFAVAAYRSSGRTAMAYLAVGFGLVVLAAVGTPAAAF
+RTEFGNAEALLLVNTGLLAASMALIAGSLAVYEPGTQEFVIPESELSRLRDR*
+>Halorubrum_Sp_AJ67.CDS.47
+VDRWQYSRSLRTGWKANGQLETAEIGRKGNSKVSSFGGSISRLRGSRGRPQRWSDSYETA
+AAFLSPIA*
+>Halorubrum_Sp_AJ67.CDS.48
+VLRRPPACPAGVIGRMGNSYLRSLTRLSRLIKICCPAIFALFPTK*
+>Halorubrum_Sp_AJ67.CDS.49
+MFETILDEEERGQVGIGTLIVFIAMVLVAAIAAGVLINTAGFLQTQAEATGEESTAQVSD
+RLQVVSQSGNVTDGNSGDRVVDQLNITVAQSPGASNIDLNETSVELIGDNGQETFQLSAD
+QASIDIYTGEDGDVVLTDASDRADVGIDLNTTNSGIYGVLEGGDRLSVTFTTPSGATTTA
+ELRVPTTLTSEQSSVRL*
+>Halorubrum_Sp_AJ67.CDS.50
+MFEFINDREDRGQVGIGTLIVFIAMVLVAAIAAGVLINTAGFLQSQAEATGQESTDLVSE
+RIDVTSEVGIVGNNSTGELKSVNVTVSGAAGADQIDLSESTIQAVGPNGQANLVFTDTPA
+SGSGDIGNASQLNASEFAVLDSDGGFVDSGNAVLDDDTDYTIVVNPGAEPFGDMTNDDIY
+NASGSNEYTYAHTDSSLSAFGEGESSSLEIVSPSSATTSVELNAPDLFTEDGEAVRL*
+>Halorubrum_Sp_AJ67.CDS.51
+VKSSSSGSAGSASSSLMGRGSARRKIGVAGGRAAARWLPRCSTR*
+>Halorubrum_Sp_AJ67.CDS.52
+MATRVLIADDSEFMRNLLREILEGEFEIVGEAENGVEAVNMYEEHGPDLVMMDIVMPIRD
+GIEATTEILEENPEATVIMCTSVGQEEKMKAAIKAGAEGYITKPFQKPNVLDAIGSAV*
+>Halorubrum_Sp_AJ67.CDS.53
+MRVDVRALGACNRLAEQGAKQAAGALSDLTGTDLAVEVTGASVASGEDLAESFAGRESIG
+VSVGLRGGLDGEAVLAFDAVNADALLSLLPGGQSMERSAVTEVGNIALGGFLDGWANYLG
+KAIDMSPPRYFEADGAAVLPDGALAGDGVFLFESRLDATTTDLDFSIYMLPDSGPFRDLI
+VGKTAPAAGGGNAPAAAANGGTTSTAVPYESLSTFSSLAKEGSANAADNIAMMTGLETSV
+DVSRLRFVPLADVPAEVGTEPHAGTVFELQGQPSGYLAILFEESSAAAVADAMLPMDPDE
+PLGDMAENALCELGNVMTSGFIDGWANVLGTTITHSPPEFVHDIGASTISPLVAKLSERQ
+DYGFVIDTAIRTEGIQARCDVYALPDERELARAXXXXXXXDADDSGGERRSAHRGRPPGD
+RRRPVRPSRDQRRVQPKRVHRCRRGSC*
+>Halorubrum_Sp_AJ67.CDS.54
+MGVSVSASTAIIVAGLFFAFTTFYPVAANGLDRVSDAQHGVNERALERQNTEFAVTNATY
+DTTSDILTVNATNEGSVGLVADDATLVVGNEYVDVGGPNATTTVDGDADTALWLGDEQLT
+VEVAQNDTSTTIEEGTRIVLVVESGVRDAATVTEVSP*
+>Halorubrum_Sp_AJ67.CDS.55
+MASVPVSHLILFIASLVIAAGVVGTITTGVDRVSAAVEDAGLDATETLRTDVTIISDPSA
+GVYNASENNVTLLIKNTGTYRLAPDGSDLDVVFDGSYVGPDATSGELVSADGANAWSRGD
+VLRLTINVSEIEGSGGTLDDGDHRVFLSANGDEELFQFRVEGGS*
+>Halorubrum_Sp_AJ67.CDS.56
+MPHDNLLSLGLGERDRLNKELGGGIPRGSIVLMEGDYGAGKSAISQRFAYGLIQEGASVT
+MMSTELTVRGFIDQMHSLEYDMVKPLLQEELLFLHADFDSGGAFSDGDGERKELLKRLMN
+AEAMWNSDVVFLDTFDAIFRNDPTFESLVRKNEERQAALEIISFFREIISQGKVVVLTVD
+PSAVDDDAIGPFRSIADVFLQLEMVEVGNDIRRQINVKRFAGMGEQVGDTIGFSVRSGTG
+IVIESRSVA*
+>Halorubrum_Sp_AJ67.CDS.57
+MTEHGTAQPSDELRKAAMRRPHLREHLREFKQITGEFPQFIEEPKDEYESDRPNVIYPVG
+GPIYSHIYGDLGQDTKYYAIEPEVSGPQVEVLNEVKNRLLTASGQHTAPDNEAEYDDLIE
+ELLEEVTHVDDTSSGWRKGLSKLKNFGKLSVTEETYENIRYRLNRDIVGLVPSSRSCATR
+PTRTSTSSAPRSATSTTAPTACWRRPSTSGRHRSSTTGCGTWASGWATPSPTPTRSSTPR
+SPTGRVSTLSTPTTSR*
+>Halorubrum_Sp_AJ67.CDS.58
+VPLSINQITHWGTLSPQLSAYLWLCLENEQTVFVVGETASGKTTTLNAILSYIPDDSKIY
+TAEDTAEVIPPHNTWQQLLTREGGDEGSSDVDMFDLVAAALRSRPDYIIVGEVRGAEGRM
+AFQAAQTGHPVMLTFHASDIVSMIQRFTSEPINVPETFMDNADVALFQNRVKQGDDVLRR
+VTSVQEIEGYSKEMDGVVTREVFSWDPVEDEIVFQGMNNSYVLEEQIATLLGYADTRDIY
+DDLEFRAELIERMIQEGIMGYHEVNDAINSFQRDGVEGLPFDMHRNTR*
+>Halorubrum_Sp_AJ67.CDS.59
+MAVKEMGDGLATALQLTSEVMESYDQLDISKRKYVGLVLLPAVFVFLASVVGLVALPLPI
+AARVPIPMFGALVLFAAVIYPKIYLSSLETKIDNQLHLVMTHMTVLSTTNIDRMEVFRTL
+AKEEEYGVAAEEIGRVVHLVDTWNQSLDDACRRRAQEVPSDAMADFFDRLGYTMGAGQSL
+QEFLVSEQDVMLAQYETRYESALSNLEVMKDLYMSMILSMTFALVFAVVLPILTGNDPTA
+TVAAVIVLFVFVQLGFYAMIRATSPYDPIWYHPDERAPGDLKLWASLIGGGGLTFVIIGI
+TAAGMFGYGPGLPGLLFFVDNVRLPLYLAVPISPLIVTGVVLRQEEQAITARDGEFPSFV
+RALGATESAKQSTTTDVLTTLRDKNFGKLSESIERLYRRLNMRISTEGAWRAFTRDTRSY
+LIQKFSEMYLVGRQMGGDPKMLGELISKNMNAVNQLREQRRQAAMTFIGLLYGITAAATF
+AFFIGLEIVAILADLTADFGLEEMDIGQIVYPGAYDIPLIEYLLLTVVLFNAALSSQMIR
+RIDGGNPANGYIHFVLLTWLGAVTAIATRTLVNAILSI*
+>Halorubrum_Sp_AJ67.CDS.60
+VNCVAADNALGRPLLDLLREAYDGVPDDCTVDEGDDRGVYAIDKADRLFGWTPSRSWRDA
+ADEEIAEPTLFE*
+>Halorubrum_Sp_AJ67.CDS.61
+MEWKTDWGLRGRMGLTMFLLFALYVAFVGVLVTFFDVGSLTILIMLGGFSLAQYFFSDKL
+ALRSMGAREVSADEYPDLHRRIERLSQQADLPKPTVAVANTQVPNAFATGRNKKNATVAV
+TTGLLESLDEDELDGVLAHELAHVKNRDVMVMTIASFLSTIAFFIVRWGWLFGGDNRQGA
+PVIVAILVSLVVWVISFLLIRALSRYREYSADRGAALITGQPGALASALMTIDGRMDKVP
+KEDLREEAEMNAFFIIPIKAGFVGKIASTHPSTENRIERLREMEKELETA*
+>Halorubrum_Sp_AJ67.CDS.62
+VSRALIARLDVVVHHYEADVVTEVAEAPAARRSDARCAPRSRCSLRCLHRL*
+>Halorubrum_Sp_AJ67.CDS.63
+LLRTTDSLARCSSRSPSATARRHAPPPSFISNHGIAAPLVGASGLRGVSPLRFVPTFG*
+>Halorubrum_Sp_AJ67.CDS.64
+MSEAQTVQLSYDDGARAVELAREAVESFVQHGQREQPGSMREAFYARTGAFVRLESTRGR
+GRLRGCAGAWETSDQLGHAIVEAAIKAASDDSCGSEVEPKELDNLTVSVFVVSNTILTND
+PLEDLEVGTHGVAVDSGNAHGWLYPTVPVENGWSGAEFLSRACRKAKLSPTAWQEEDTIV
+TLIEGQVFRERADGGAVEEL*
+>Halorubrum_Sp_AJ67.CDS.65
+VPSKSCSPFRCLLSVPPRPFFVSPRPFFVSPRSVPRPGDFHPIAFLSVDAERRAVASSSA
+TPNFLGRPKNRWFFDVLGGPNIYETFGRRPRRPSAGGDPR*
+>Halorubrum_Sp_AJ67.CDS.66
+VPSLPFPPSPPSVPLASSLPPSVPSPSPLPSAPSVPSASGSARSASGRSSRTPSGDGAWV
+IVTLVPSRSTPYAPGKSLSSPTA*
+>Halorubrum_Sp_AJ67.CDS.67
+MAFDPTETAVVVVDMQNGFCHPDGSLYAEPSEAAVEPVTALVDRARDAGASVVYTRDVHP
+PEQFDDTHYYDEFDRWGEHVVEGSWDAELLGDLDVRDADHVVEKHTYDAFYRTDLEGYLD
+AHGIRDLLICGTLANVCVLHTAGSAGLRDYRPVVVEDALGYITEDHREYAVDHADWLFGE
+TTSRDEVAFASE*
+>Halorubrum_Sp_AJ67.CDS.68
+VSDGTADDGGRPCPVCETPMYHRHCKYVCPAHGVVYDCSDTFY*
+>Halorubrum_Sp_AJ67.CDS.69
+MVEQKQVARSKRIQRRTGKTFHVATRLLPQRIRHPTYVLYGFFRIADEVVDAADTAPPAE
+QRAELDRLRATALGEEPTDDPVLEAFAEVCERNDIPDADVHSFVDAMASDIDTDRYETYA
+DLEAYMDGSAAAVGRMMTAIMDLDPEAEAEALPHATKLGEAFQMTNFLRDVREDVVERDR
+IYLPLETLRRHGVSEQQILDLEFDEHVAAAVREEMARTERLYEEGVAGIKYLPEDCQLAV
+LLAAVLYVDHHRLIRNRGYDTVSATPELSFARKISLLVRTRWKWQWNRDPEAVFYDMCTD
+FDPGHDRHGHGPHGTGVPQTD*
+>Halorubrum_Sp_AJ67.CDS.70
+MERSRFVSLAVAAFGLVFASFLLRGVTRLVAPYEVAVAVSAPVLFAAAALLVALFVLAVL
+DATGIRPME*
+>Halorubrum_Sp_AJ67.CDS.71
+MLETENLGKTYPTGDEALRDVSVTIGGREVVAMIGPSGAGKSTFVRCINRLVEPTTGSVR
+LDDRELTGLGEDELRNARRDIGMVFQEYNLVERLTVMENVLSGRLGYVSNWAALRRNFPP
+EDVERAYELLDLVGLDDMENKRVDELSGGQRQRVGIARAVVQEPKIVLADEPTSSLDPET
+SRDVMELLTDIAVERDVPVVINIHEVDLAERYADRILGLHDGELVFDGPAADLTDESKGV
+IYRGEELPASAATDPDRLSNGTGGEGTPEITGDGSNAGNGRLPAED*
+>Halorubrum_Sp_AJ67.CDS.72
+MATESPTSTDSLDAAERRTWRRPTAFRNRSAKWAVYGAVLALVVWSVASLRITPGRFISG
+LGYGYELIDSMLPPETGSENIARLVDRMIETIAMAMIATVSGIAISLPVALGAAGNLSPR
+PTYYLSRGIISVSRAIDGLIVAIIAVIALGFGPLAGIFAISFKTVGFFSKLFAEDLEDID
+MGGVEAIEATGASRFQRLVYGVVPQVVPRFAGLAVYRWDINIRSSTIVGIVGAGGLGVLL
+QRSYSRYEYDYVAAILIAIIAVVLVAEFVSAVVRRRVQ*
+>Halorubrum_Sp_AJ67.CDS.73
+MAGAASDWSRFDARERLFRIGSVVVAAAIVVGSWEWLDMSLRYVGSAPLQVSDLLGRMYP
+PDWGYLPNAVGPLAETIQIAVVGTIGAVLMAAPVAYISAENTTPNKATYALGKLIVTVSR
+SVHTIVWALLFVVMFGPGALAGTVATAVRSIGFLAKLLGEEIEEIDFGQVEGVRATGANP
+FKLLVYGIVPQIKPALVGISVYRWDINVRAATILGFVGAGGIGVQLFQAINSFAWRTVSA
+LLFAILAVVIVSEGISAYARKKVR*
+>Halorubrum_Sp_AJ67.CDS.74
+MSLKATTTPSGERVYTDRSRVERGADGPFYVVFADETGESRWGFRCGNCGSFDTAMDTMG
+RIQCTECGNLRKPDEWDAAHE*
+>Halorubrum_Sp_AJ67.CDS.75
+MATASIPPTTEARDVFRELGYTVSEGGREFVAERKWRRVLVTVLCLDDDDLDPYLADGGE
+TPRLRCFVTWRDRAADLQDRLVSAKPPYDWAVIGIDHDGEDFAVMEGAPGSP*
+>Halorubrum_Sp_AJ67.CDS.76
+MVFKKITLIGTSEESFDAAADEAIDRAEDTLENVYWAEVEEFGVELQGDADREYQAEVEV
+AFELEG*
+>Halorubrum_Sp_AJ67.CDS.77
+MPPSEEPNEQRVREIVREEIAERSRTLLGTVVWTLLSVLAGLVGLQSLQFALYATSIAAT
+AGFVLAGVVVTGASLYLLYLLHWA*
+>Halorubrum_Sp_AJ67.CDS.78
+MTGVRVGSALTDEQAAVRDLVREFAAEEVRPTAAEADETETFPEDVWDGLAELGLTGLTV
+PEEYGGFGADETTYAVANEALAHGSLAVATALSVHCLATSCIAEFGTESQRERWLPEMAE
+TGRPVGMFCLSEPQAGSNPAQMSTTATYDPDTDEYALNGEKQWITNGQRGGVAVVFAKTV
+REESDTNEADDAITQFLVPADTDGFEVGKKEEKLGLRASDTTGITFDDCRIPAKNRLTEP
+GGGLSAAFRTLTEGRIGIAAQAVGVAQAALDEAKSYAEEREQFDRPIADIQTIRHKVAEM
+ATDVSAARLLVREACRQAEAGEDYRVAASKAKYRASEAAMSVTNEAVQIHGGYGYTTEFD
+VERLYRDAKITEIYEGTTEIQKTIVARGVFGE*
+>Halorubrum_Sp_AJ67.CDS.79
+MTTTRGLREGDDPITMLTAYDAPTAAVVDDAGIDIALVGDSMGNAALGYDSTLPVTFDEV
+ASRTAAVARATEDALVVADMPFLSFGVDEAESVRNAGRLLKEANADAVKIESGPHTVETT
+RRMTEVGIPVMAHLGLTPQHVNRLGGYTRQGTEQDAAEEIIDLAGAHADAGAFALVLEHV
+PANLAGAVTEALDIPTIGIGAGPDCDGQVLVINDAVGLGEWSPPFAKQFGDVRGEMIGAV
+EAYKEAVESGAFPADEHSHVEEDLEDLY*
+>Halorubrum_Sp_AJ67.CDS.80
+MDDPDDPADLAWETLDSAVDYACPGFDVRRDEVRFPDGETDGFHYVDEPPAVVVLPLTPD
+GDVVVIDEWRQAVGRVNRGIPAGTMEPEDGDEEAGIERAAARELAEETGYEADAFERLTT
+VEPTNGMANAVHHHVLATGCEPTADRDLDHNESIAVETIPYDDLLAAVVDDGLRDGRAVT
+AVLWYELLRR*
+>Halorubrum_Sp_AJ67.CDS.81
+MTDPSSGDPASDGGVSEEFDDIDPDAVSDDADGPKGTGGSPGIAVVTALVLGVLGPLIAV
+ASGGLIYAINVVSGGLSLAASVVLTLVFGQYVAFGGLAIGYLAWRGFDRDGIIEYLGVRV
+PSLKEIGIVLGSWVLILISVLVVSTIVQLLGTETAANSSAELAMGNPSIIPLFIAASFLV
+IGPCEEILYRGVVQGRLRESLPAAPSILLSAAIFAAIHVIALTGGVSAQLTTVSILFVPS
+LVFGAVYEYTGNLVVPALLHGLHNAVLFTALYVVVTTDPSQMPAVVGFLPV*

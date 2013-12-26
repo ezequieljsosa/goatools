@@ -128,7 +128,7 @@ Generate an AmiGO like tree from a GFF3
 ::::::::::::::::::::::::::::::::::::
 This script creates a tree json representation ( AmiGO like ) from a GFF3 file with annotated GO terms.
 
-.. image:: https://github.com/ezequieljsosa/goatools/blob/master/DAG2Tree.png
+.. image:: http://github.com/ezequieljsosa/goatools/blob/master/DAG2Tree.png
     :alt: DAG to Tree
 
 see ``gff_to_tree.py`` for usage. As arguments it takes:

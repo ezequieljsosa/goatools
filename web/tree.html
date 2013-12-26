@@ -1,10 +1,11 @@
 <html>
     <head>
-        <title>Use jsTree</title>
+        <title>Template GO</title>
         <script src="jquery.js">
         </script>
         <script src="jquery.jstree.js">
         </script>
+       
         <script>
             $(document).ready(function(){
                 $("#treeViewDiv").jstree({
@@ -14,15 +15,16 @@
 				"data" : 	function (n) { 
 							return { id : n.attr ? n.attr("id") : 0 }; 
 						}					
-				}			
+				},
+				"progressive_render" : true			
 			},
-		    "sort" : function(a,b) {
-			return this.get_text(a) < this.get_text(b) ? 1 : -1; 
-			},
+		    "search" : {
+                "case_insensitive" : true
+                },
 		    "themes" :
 		    {
 			"theme":"classic",
-		    },"plugins" : [ "themes", "json_data", "ui", "types","sort"],
+		    },"plugins" : [ "themes", "json_data", "ui", "types","search","adv_search"], 
 		    	"types" : {					
 					"types" : {
 						"annotation" : {
@@ -83,16 +85,18 @@
                         {
                             window.location=jQuery.data(data.rslt.obj[0], "href");
                         }                       
-                    })
+                    }).bind("search.jstree", function (e, data) {
+            alert("Found " + data.rslt.nodes.length + " nodes matching '" + data.rslt.str + "'.");
+        });
+                    
             });
         </script>
     </head>
     <body>
+     <!-- the used version of jstree doest not support search and progress render, it only looks in the opened nodes 	<input id="search" /> <button onclick="$('#treeViewDiv').jstree('search',$('#search').val());" >Buscar</button> <br /> -->
         <div id="treeViewDiv">
         </div>
+       
     </body>
-<script type="text/javscript">
-	$(document).ready(function(){
-	});
-</script>
+
 </html>

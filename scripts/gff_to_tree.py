@@ -27,7 +27,7 @@ The generated json is something like:
 
 Parameters:
 -- go_obo_file : GO term file 
--- annotation_file: gff3 with GO annotations. Must be the hierarchical file
+-- annotation_dir: directory with all the gff3 files (with GO annotations). Must be the hierarchical files
 optionals
 -- annotated_type: level witch is annotated with GO terms, default: transcript
 -- filtered_genes: use only the annotations that annotates these genes (uses Name gff3 attribute). Can be useful, for example, if we only want to see the tree of expressed genes
@@ -60,6 +60,9 @@ def parse_csv(csv_file,column,replacement=[]):
 
     for row in reader:
         if replacement:
+            #si esta vacio
+            if len(row) <= column: break;
+            if not row[column].strip(): break
             vec = row[column].split(replacement[0])
             # Removes left ceros
             filtered_genes.append(vec[0] + replacement[1] +  str(int(vec[1])) )
@@ -72,7 +75,7 @@ def parse_csv(csv_file,column,replacement=[]):
 if __name__ == '__main__':
 
     import optparse
-    p = optparse.OptionParser("%prog [options] annotation_file go_obo_file")
+    p = optparse.OptionParser("%prog [options] annotation_dir go_obo_file")
     p.add_option("--atype", dest="annotated_type", 
                  help="level in the gff which is annotated with GO terms, default: mRNA"
                  , action="store", type="string", default="mRNA")    
@@ -99,29 +102,25 @@ if __name__ == '__main__':
         sys.exit(1)
     if len(args) == 1: 
         obo_file = "gene_ontology.1_2.obo"
-#         if  not os.path.exists("gene_ontology.1_2.obo"):
-#             print "gene_ontology.1_2.obo not found"
-#             p.print_help()
-#             sys.exit(1)        
     else:
         obo_file = args[1]
     
     assert os.path.exists(obo_file), "file %s not found!" % obo_file
 
-    annotation_file = args[0]
-    assert os.path.exists(annotation_file), "file %s not found!" % annotation_file
-
+    annotation_dir = args[0]
+    assert os.path.exists(annotation_dir), "file %s not found!" % annotation_dir
     from goatools.annotation import AnnotationTreeBuilder
-    
+        
     builder = AnnotationTreeBuilder() 
     builder.load_dag(obo_file)
-    builder.load_annotations_by_go(annotation_file,opts.annotated_type)
+    builder.load_annotations_by_go_dir(annotation_dir,opts.annotated_type)    
     
-    if opts.filtered_genes : 
-        builder.filtered_genes = get_filtered_genes(opts.filtered_genes)  
+    builder.filtered_genes = get_filtered_genes(opts.filtered_genes)  
         
     builder.process_annotations()
+    builder.remove_count_attr()
     builder.write_file()
-    
+        
+    print "DONE!"
     
         
