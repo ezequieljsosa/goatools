@@ -115,7 +115,8 @@ if __name__ == '__main__':
     builder.load_dag(obo_file)
     builder.load_annotations_by_go_dir(annotation_dir,opts.annotated_type)    
     
-    builder.filtered_genes = get_filtered_genes(opts.filtered_genes)  
+    if opts.filtered_genes is not None:    
+        builder.filtered_genes = get_filtered_genes(opts.filtered_genes)  
         
     builder.process_annotations()
     builder.remove_count_attr()
