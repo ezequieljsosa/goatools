@@ -113,7 +113,7 @@ class GOTerm:
         self.level = -1             # distance from root node
         self.is_obsolete = False    # is_obsolete
         self.alt_ids = []           # alternative identifiers
-        self.desc = "?"
+        self.desc = "?" 
 
     def __str__(self):
         obsolete = "obsolete" if self.is_obsolete else ""
