@@ -76,6 +76,8 @@ class OBOReader:
         for line in lines:
             if line.startswith("id:"):
                 rec.id = after_colon(line)
+            if line.startswith("def:"):
+                rec.desc = after_colon(line)
             if line.startswith("alt_id:"):
                 rec.alt_ids.append(after_colon(line))
             elif line.startswith("name:"):
@@ -111,6 +113,7 @@ class GOTerm:
         self.level = -1             # distance from root node
         self.is_obsolete = False    # is_obsolete
         self.alt_ids = []           # alternative identifiers
+        self.desc = "?"
 
     def __str__(self):
         obsolete = "obsolete" if self.is_obsolete else ""
